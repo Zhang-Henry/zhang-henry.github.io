@@ -10,7 +10,12 @@ redirect_from:
 
 I am currently a Master student majoring in Computer Technology at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang).
 
-My research interests lie at Trustworthy Machine Learning, Deep Learning based Fault Diagnosis. I consistently seek simple yet effective methods, grounded in deep insights and supported by strong theoretical foundations.
+My research interests lie at:
+- **Machine Learning**: Deep Learning, e.g., Incremental Learning, Contrastive Learning, Anomaly/Out-of-Distribution Detection; Knowledge Graph
+- **Trustworthy Machine Learning**: LLM Agent Security, Adversarial(Backdoor) Attack/Defense;
+- **AI/ML+X**: AI for Industrial Fault Diagnosis, AI for Healthcare
+
+I consistently seek simple yet effective methods, grounded in deep insights and supported by strong theoretical foundations.
 
 # Education
 - **Zhejiang University** (QS 44) | Sep. 2022 -- Mar. 2025 (Expected)<br>
