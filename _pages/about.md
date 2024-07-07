@@ -85,9 +85,10 @@ Honors
 - Mathematical Modeling Contest for College Students, *National Second Prize (Top 0.5% of 45,000 teams)*, Sep. 2020
 - Students Service Outsourcing Innovation and Entrepreneurship Competition, *National Second Prize (Top 3%)*, Aug. 2020
 - MathorCup College Mathematical Modeling Competition,  *First Prize (Top 3%)*, May 2020
-- May Day Mathematical Modeling Competition, *First Prize (Top 5%)*, May 2020
+- May Day Mathematical Modeling Competition, *First Prize (Top 3%)*, May 2020
+- Asia-Pacific Mathematical Modeling Contest, *First Prize (Top 3%)*, Nov. 2019
+- Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 3%)*, Nov. 2019
 - American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020
-- Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 5%)*, Nov. 2019
 
 
 Teachings

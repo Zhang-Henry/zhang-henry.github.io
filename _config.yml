@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hanrong Zhang's homepage"
 title_separator          : "-"
-name                     : &name "Hanrong Zhang"
+name                     : &name "Hanrong Zhang (张涵容)"
 description              : &description "personal description"
 url                      : https://zhang-henry.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hanrong Zhang"
+  name             : "Hanrong Zhang (张涵容)"
   pronouns         : # example: "she/her"
   bio              : "MS Student in CS@ZJU_UIUC"
   location         : # "Earth"
