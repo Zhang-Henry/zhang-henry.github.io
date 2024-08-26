@@ -97,4 +97,4 @@ Teachings
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
