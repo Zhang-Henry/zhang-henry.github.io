@@ -11,8 +11,9 @@ redirect_from:
 I am currently a Master student majoring in Computer Technology at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang). I work closely with Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ UMass Amherst and Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers.
 
 My research interests lie at:
+- **Trustworthy Machine Learning**: LLM Agent Safety and Security, Adversarial Attack/Defense;
 - **Machine Learning**: Deep Learning, e.g., Incremental Learning, Contrastive Learning, Anomaly/Out-of-Distribution Detection; Knowledge Graph
-- **Trustworthy Machine Learning**: LLM Agent Security, Adversarial(Backdoor) Attack/Defense;
+
 - **AI/ML+X**: AI for Industrial Fault Diagnosis, AI for Healthcare
 
 I consistently seek simple yet effective methods, grounded in deep insights and supported by strong theoretical foundations.
@@ -31,38 +32,53 @@ I consistently seek simple yet effective methods, grounded in deep insights and 
 
 
 
-Publications(*Equal Contribution)
-======
+# Publications(\*Equal Contribution)
 
-* [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
+
+## Trustworthy Machine Learning:
+1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents]()<br>
+**Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) (preprint)
+
+1. [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
+**Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) (preprint)
+
+
+
+## AI+X: AI for Industrial Fault Diagnosis/Healthcare:
+1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
 Xingyue Wang\*, **Hanrong Zhang**\*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
 IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
 
-* [Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection](https://ieeexplore.ieee.org/abstract/document/10114639)<br>
+1. [Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection](https://ieeexplore.ieee.org/abstract/document/10114639)<br>
 Peng Peng\*, **Hanrong Zhang**\*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
 IEEE Sensors Journal (IF=4.3, JCR Q1 SCI)
 
-* [SAKA: an intelligent platform for semi-automated knowledge graph construction and application](https://link.springer.com/article/10.1007/s11761-023-00371-x)<br>
-**Hanrong Zhang**, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
-Service Oriented Computing and Applications
-
-* [An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources](https://ieeexplore.ieee.org/abstract/document/10035077)<br>
-**Hanrong Zhang**, Xinyue Wang, Bo Qin, Hongwei Wang<br>
-IEEE International Conference on e-Business Engineering (ICEBE 2022)
-
-* [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
-**Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) (preprint)
-
-* [SCLIFD: Supervised Contrastive Knowledge Distillation for Incremental Fault Diagnosis under Limited Fault Data]()<br>
+1. [SCLIFD: Supervised Contrastive Knowledge Distillation for Incremental Fault Diagnosis under Limited Fault Data]()<br>
 **Hanrong Zhang**, Peng Peng, Mengxuan Li, Gongzhuang Peng, Hongwei Wang, [Weiming Shen](https://scholar.google.ca/citations?user=FuSHsx4AAAAJ&hl=en) (preprint)
 
-- [Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10152774)<br>
+1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
+**Hanrong Zhang**\*, Yifei Yao\* (preprint)
+
+1. [Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10152774)<br>
 Wanqiu Huang, **Hanrong Zhang**, Peng Peng, Hongwei Wang<br>
 International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2023, **Best Paper Award Finalist**)
 
-* [Debiasing Medical Visual Question Answering via Counterfactual Training](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)<br>
+1. [Debiasing Medical Visual Question Answering via Counterfactual Training](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)<br>
 Chenlu Zhan\*, Peng Peng\*, **Hanrong Zhang**, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang<br>
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023)
+
+
+## Knowledge Graph:
+1. [SAKA: an intelligent platform for semi-automated knowledge graph construction and application](https://link.springer.com/article/10.1007/s11761-023-00371-x)<br>
+**Hanrong Zhang**, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
+Service Oriented Computing and Applications
+
+1. [An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources](https://ieeexplore.ieee.org/abstract/document/10035077)<br>
+**Hanrong Zhang**, Xinyue Wang, Bo Qin, Hongwei Wang<br>
+IEEE International Conference on e-Business Engineering (ICEBE 2022)
+
+
+
 
 Honors
 ======
@@ -97,4 +113,4 @@ Teachings
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=761&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=794&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ'></script>
