@@ -36,7 +36,7 @@ I consistently seek simple yet effective methods, grounded in deep insights and 
 
 
 ## Trustworthy Machine Learning:
-1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents]()<br>
+1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) (preprint)
 
 1. [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
