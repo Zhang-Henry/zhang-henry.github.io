@@ -54,7 +54,7 @@ Peng Peng\*, **Hanrong Zhang**\*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
 IEEE Sensors Journal (IF=4.3, JCR Q1 SCI)
 
 1. [SCLIFD: Supervised Contrastive Knowledge Distillation for Incremental Fault Diagnosis under Limited Fault Data]()<br>
-**Hanrong Zhang**, Peng Peng, Mengxuan Li, Gongzhuang Peng, Hongwei Wang, [Weiming Shen](https://scholar.google.ca/citations?user=FuSHsx4AAAAJ&hl=en) (preprint)
+**Hanrong Zhang**, Peng Peng, Mengxuan Li, Gongzhuang Peng, Hongwei Wang, [Weiming Shen](https://scholar.google.ca/citations?user=FuSHsx4AAAAJ&hl=en) (preprint, IEEE Transactions on Industrial Informatics Under Revision(**IF=12.3**, JCR Q1 SCI)) 
 
 1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
 **Hanrong Zhang**\*, Yifei Yao\* (preprint)
