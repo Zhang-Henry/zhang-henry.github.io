@@ -84,6 +84,7 @@ Honors
 ======
 
 ### Scholarships
+- **National Scholarship for Graduate Students (Top 0.2%)**, ZJU, 2023 - 2024
 - **National Scholarship for Graduate Students (Top 0.2%)**, ZJU, 2022 - 2023
 - **First-class full-ride Scholarship (1/75, ￥62000)**, UoL, 2020 - 2021
 - **National Scholarship for Undergraduate Students (Top 0.2%)**, SWJTU, 2019 - 2020
