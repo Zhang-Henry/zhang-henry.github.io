@@ -24,7 +24,7 @@ I consistently seek simple yet effective methods, grounded in deep insights and 
   **Ranking: 1/82**; Supervisor: Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang)
 
 - **University of Leeds** (QS 75) | Sep. 2018 -- Jun. 2022<br>
-  BSc. Computer Science - **Honors Class I** @ School of Computing, United Kingdom
+  BSc. Computer Science - **Honors First Class** @ School of Computing, United Kingdom
 
 - **Southwest Jiaotong University** | Sep. 2018 -- Jun. 2022<br>
   BEng. Computer Science and Technology, China<br>
@@ -91,7 +91,7 @@ Honors
 - Second-class Scholarship (￥25000), UoL, 2018 - 2019
 
 ### Academic Awards
-- Award of Honor for Graduate, ZJU, 2022 - 2023
+- Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024
 - Graduate with Merit A Performance, ZJU, 2022 - 2023
 - **Provincial Outstanding Graduate**, SWJTU, 2022;
 - **Best Student in Computer Science (1/75)**, UoL, 2020 - 2021
