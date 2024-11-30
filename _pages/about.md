@@ -20,7 +20,7 @@ I consistently seek simple yet effective methods, grounded in deep insights and 
 
 # Education
 - **Zhejiang University** (QS 44) | Sep. 2022 -- Mar. 2025 (Expected)<br>
-  MEng. Computer Technology @ ZJU-UIUC Joint Institute, China<br>
+  MEng. Computer Engineering @ ZJU-UIUC Joint Institute, China<br>
   **Ranking: 1/82**; Supervisor: Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang)
 
 - **University of Leeds** (QS 75) | Sep. 2018 -- Jun. 2022<br>
