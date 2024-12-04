@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Master student majoring in Computer Technology at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang). I work closely with Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ UMass Amherst and Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers.
+I am currently a Master student majoring in Computer Technology at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang). I work closely with Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst and Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University.
 
 My research interests lie at:
 - **Trustworthy Machine Learning**: LLM (Agent) Safety and Security, Adversarial Attack/Defense;
