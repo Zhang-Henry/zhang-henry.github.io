@@ -11,10 +11,9 @@ redirect_from:
 I am currently a Master student majoring in Computer Technology at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang). I work closely with Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst and Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University.
 
 My research interests lie at:
-- **Trustworthy Machine Learning**: LLM (Agent) Safety and Security, Adversarial Attack/Defense;
-- **Machine Learning**: Deep Learning, e.g., Incremental Learning, Contrastive Learning, Anomaly/Out-of-Distribution Detection; Knowledge Graph
-
-- **AI/ML+X**: AI for Industrial Fault Diagnosis, AI for Healthcare
+- **Trustworthy Machine Learning**: LLM Agent Safety and Security, Adversarial Attack/Defense;
+- **Machine Learning**: LLM-based Agent; Self-supervised Learning; Continuous Learning; Knowledge Graph;
+- **Data Mining**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; AI for Healthcare;
 
 I consistently seek simple yet effective methods, grounded in deep insights and supported by strong theoretical foundations.
 
