@@ -97,7 +97,7 @@ Honors
 - **Best Student Overall (1/300, 4 majors)**, UoL, 2018 - 2019
 - Pacemaker to Merit Student (Top 1%), SWJTU, 2018 - 2019 & 2019 - 2020 & 2020 - 2021
 
-### Competiton Awards
+### Competition Awards
 - Mathematical Modeling Contest for College Students, *National Second Prize (Top 0.5% of 45,000 teams)*, Sep. 2020
 - Students Service Outsourcing Innovation and Entrepreneurship Competition, *National Second Prize (Top 3%)*, Aug. 2020
 - MathorCup College Mathematical Modeling Competition,  *First Prize (Top 3%)*, May 2020
