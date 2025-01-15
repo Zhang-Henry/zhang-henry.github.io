@@ -47,8 +47,8 @@ My research interest includes neural machine translation and computer vision. I 
   **Ranking: 1/75**; Supervisor: Prof. [Tianrui Li](https://scholar.google.com/citations?user=CQ1HneMAAAAJ)
 
 
-# 📝 Publications
-### * denotes equal contribution
+# 📝 Publications(*Equal Contribution)
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
