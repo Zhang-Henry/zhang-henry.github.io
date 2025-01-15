@@ -112,14 +112,14 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 
 # 🎖 Honors and Awards
 
-### Scholarships
+## Scholarships
 - **National Scholarship for Graduate Students (Top 0.2%)**, ZJU, 2023 - 2024
 - **National Scholarship for Graduate Students (Top 0.2%)**, ZJU, 2022 - 2023
 - **First-class full-ride Scholarship (1/75, ￥62000)**, UoL, 2020 - 2021
 - **National Scholarship for Undergraduate Students (Top 0.2%)**, SWJTU, 2019 - 2020
 - Second-class Scholarship (3/75, ￥25000), UoL, 2018 - 2019
 
-### Academic Awards
+## Academic Awards
 - Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024
 - Graduate with Merit A Performance, ZJU, 2022 - 2023
 - **Provincial Outstanding Graduate**, SWJTU, 2022;
@@ -127,7 +127,7 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 - **Best Student Overall (1/300, 4 majors)**, UoL, 2018 - 2019
 - Pacemaker to Merit Student (Top 1%), SWJTU, 2018 - 2019 & 2019 - 2020 & 2020 - 2021
 
-### Competition Awards
+## Competition Awards
 - Mathematical Modeling Contest for College Students, *National Second Prize (Top 0.5% of 45,000 teams)*, Sep. 2020
 - Students Service Outsourcing Innovation and Entrepreneurship Competition, *National Second Prize (Top 3%)*, Aug. 2020
 - MathorCup College Mathematical Modeling Competition,  *First Prize (Top 3%)*, May 2020
@@ -138,7 +138,7 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 
 Teachings
 ======
-- Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University & University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 & Spring 2024 (for undergraduates)
+- Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergraduates)
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
 
 <!-- # 💻 Internships
