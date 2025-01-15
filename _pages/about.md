@@ -65,11 +65,11 @@ My research interest includes neural machine translation and computer vision. I 
 ## Trustworthy Machine Learning:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) (preprint)<br>
-\[arxiv\](https://arxiv.org/abs/2410.02644) \[code\](https://github.com/agiresearch/ASB)
+\[arxiv(https://arxiv.org/abs/2410.02644)\] \[code(https://github.com/agiresearch/ASB)\]
 
 1. [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
 **Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) (preprint)<br>
-\[arxiv\](https://arxiv.org/abs/2405.14672) \[code\](https://github.com/Zhang-Henry/INACTIVE)
+\[arxiv(https://arxiv.org/abs/2405.14672)\] \[code(https://github.com/Zhang-Henry/INACTIVE)\]
 
 
 
