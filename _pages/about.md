@@ -28,8 +28,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2025.01*: &nbsp;🎉🎉 1 paper is accepted by IEEE Transactions on Industrial Informatics.
+- *2024.11*: &nbsp;🎉🎉 I obtain the National Scholarship for Graduate Students in Zhejiang University.
+- *2024.04*: &nbsp;🎉🎉 1 paper is accepted by IEEE Transactions on Industrial Informatics.
+- *2023.11*: &nbsp;🎉🎉 I obtain the National Scholarship for Graduate Students in Zhejiang University.
 
 
 # 📖 Educations
@@ -63,9 +65,11 @@ My research interest includes neural machine translation and computer vision. I 
 ## Trustworthy Machine Learning:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) (preprint)
+[arxiv](https://arxiv.org/abs/2410.02644)[code](https://github.com/agiresearch/ASB)
 
 1. [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
 **Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) (preprint)
+[arxiv](https://arxiv.org/abs/2405.14672)[code](https://github.com/Zhang-Henry/INACTIVE)
 
 
 
@@ -136,9 +140,6 @@ Teachings
 ======
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University & University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 & Spring 2024 (for undergraduates)
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
