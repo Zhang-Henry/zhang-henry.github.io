@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student majoring in Computer Technology at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang). I work closely with Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst and Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University.
+I am currently a Master student majoring in Computer Engineering at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang). I work closely with Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst and Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University.
 
 My research interests lie at:
 - **Trustworthy Machine Learning**: LLM Agent Safety and Security, Adversarial Attack/Defense;
@@ -64,18 +64,18 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 ## Trustworthy Machine Learning:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
-**Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) (preprint)
-[arxiv](https://arxiv.org/abs/2410.02644)[code](https://github.com/agiresearch/ASB)
+**Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) (preprint)<br>
+\[arxiv\](https://arxiv.org/abs/2410.02644) \[code\](https://github.com/agiresearch/ASB)
 
 1. [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
-**Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) (preprint)
-[arxiv](https://arxiv.org/abs/2405.14672)[code](https://github.com/Zhang-Henry/INACTIVE)
+**Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) (preprint)<br>
+\[arxiv\](https://arxiv.org/abs/2405.14672) \[code\](https://github.com/Zhang-Henry/INACTIVE)
 
 
 
 ## AI+X: AI for Industrial Fault Diagnosis/Healthcare:
 1. [SCLIFD: Supervised Contrastive Knowledge Distillation for Incremental Fault Diagnosis under Limited Fault Data]()<br>
-**Hanrong Zhang**, Peng Peng, Mengxuan Li, Gongzhuang Peng, Hongwei Wang, [Weiming Shen](https://scholar.google.ca/citations?user=FuSHsx4AAAAJ&hl=en)
+**Hanrong Zhang**, Peng Peng, Mengxuan Li, Gongzhuang Peng, Hongwei Wang, [Weiming Shen](https://scholar.google.ca/citations?user=FuSHsx4AAAAJ&hl=en)<br>
 IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
 
 1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
@@ -117,7 +117,7 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 - **National Scholarship for Graduate Students (Top 0.2%)**, ZJU, 2022 - 2023
 - **First-class full-ride Scholarship (1/75, ￥62000)**, UoL, 2020 - 2021
 - **National Scholarship for Undergraduate Students (Top 0.2%)**, SWJTU, 2019 - 2020
-- Second-class Scholarship (￥25000), UoL, 2018 - 2019
+- Second-class Scholarship (3/75, ￥25000), UoL, 2018 - 2019
 
 ### Academic Awards
 - Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024
@@ -141,8 +141,8 @@ Teachings
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University & University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 & Spring 2024 (for undergraduates)
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=794&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ'></script>
