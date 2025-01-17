@@ -76,9 +76,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 ## AI+X: AI for Industrial Fault Diagnosis/Healthcare:
-1. [SCLIFD: Supervised Contrastive Knowledge Distillation for Incremental Fault Diagnosis under Limited Fault Data]()<br>
-**Hanrong Zhang**, Peng Peng, Mengxuan Li, Gongzhuang Peng, Hongwei Wang, [Weiming Shen](https://scholar.google.ca/citations?user=FuSHsx4AAAAJ&hl=en)<br>
-IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
+1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
+**Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
+IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)<br>
+\[[arxiv](https://arxiv.org/pdf/2501.09525)\] \[[code](https://github.com/Zhang-Henry/SCLIFD_TII)\]
 
 1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
 Xingyue Wang\*, **Hanrong Zhang**\*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
