@@ -28,6 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 1 paper is accepted by ICLR 2025.
 - *2025.01*: &nbsp;🎉🎉 1 paper is accepted by IEEE Transactions on Industrial Informatics.
 - *2024.11*: &nbsp;🎉🎉 I obtain the National Scholarship for Graduate Students in Zhejiang University.
 - *2024.04*: &nbsp;🎉🎉 1 paper is accepted by IEEE Transactions on Industrial Informatics.
@@ -66,7 +67,8 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 ## Trustworthy Machine Learning:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
-**Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) (preprint)<br>
+**Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) <br>
+International Conference on Learning Representations 2025 (ICLR 2025)
 \[[arxiv](https://arxiv.org/abs/2410.02644)\] \[[code](https://github.com/agiresearch/ASB)\]
 
 1. [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
