@@ -65,7 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-## Trustworthy Machine Learning:
+## Trustworthy AI:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) <br>
 International Conference on Learning Representations 2025 (ICLR 2025)
