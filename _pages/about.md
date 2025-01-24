@@ -77,7 +77,7 @@ International Conference on Learning Representations 2025 (ICLR 2025)
 
 
 
-## AI+X: AI for Industrial Fault Diagnosis/Healthcare:
+## Machine Learning and Data Mining:
 1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
 **Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
 IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)<br>
