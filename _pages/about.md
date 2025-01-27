@@ -20,8 +20,8 @@ redirect_from:
 I am currently a Master student majoring in Computer Engineering at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang). I work closely with Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst and Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University.
 
 My research interests lie at:
-- **Trustworthy AI**: LLM Agent Safety and Security, Adversarial Attack/Defense;
-- **Machine Learning**: LLM-based Agent; Self-supervised Learning; Continuous Learning; Knowledge Graph;
+- **Trustworthy AI**: MLLM (Agent) Safety and Security, Adversarial Attack/Defense, MLLM hallucination;
+- **Machine Learning**: MLLM; LLM-based Agent; Self-supervised Learning; Incremental Learning; Knowledge Graph;
 - **Data Mining**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; AI for Healthcare;
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
