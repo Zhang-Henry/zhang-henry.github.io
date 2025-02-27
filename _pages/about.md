@@ -28,10 +28,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 1 paper is accepted by ICLR 2025.
-- *2025.01*: &nbsp;🎉🎉 1 paper is accepted by IEEE Transactions on Industrial Informatics.
+- *2025.02*: &nbsp;🎉🎉 [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672) is accepted by CVPR 2025.
+- *2025.01*: &nbsp;🎉🎉 [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644) is accepted by ICLR 2025.
+- *2025.01*: &nbsp;🎉🎉 [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525) is accepted by IEEE Transactions on Industrial Informatics.
 - *2024.11*: &nbsp;🎉🎉 I obtain the National Scholarship for Graduate Students in Zhejiang University.
-- *2024.04*: &nbsp;🎉🎉 1 paper is accepted by IEEE Transactions on Industrial Informatics.
+- *2024.04*: &nbsp;🎉🎉 [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599) is accepted by IEEE Transactions on Industrial Informatics.
 - *2023.11*: &nbsp;🎉🎉 I obtain the National Scholarship for Graduate Students in Zhejiang University.
 
 
@@ -68,11 +69,12 @@ My research interest includes neural machine translation and computer vision. I 
 ## Trustworthy AI:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) <br>
-International Conference on Learning Representations 2025 (ICLR 2025)
+International Conference on Learning Representations (ICLR 2025)
 \[[arxiv](https://arxiv.org/abs/2410.02644)\] \[[code](https://github.com/agiresearch/ASB)\] \[[website](https://luckfort.github.io/ASBench/)\] 
 
-1. [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
-**Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) (preprint)<br>
+1. [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
+**Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) <br>
+Computer Vision and Pattern Recognition Conference (CVPR 2025)
 \[[arxiv](https://arxiv.org/abs/2405.14672)\] \[[code](https://github.com/Zhang-Henry/INACTIVE)\]
 
 
