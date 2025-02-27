@@ -28,12 +28,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 I've been awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.
 - *2025.02*: &nbsp;🎉🎉 [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672) is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644) is accepted by ICLR 2025.
 - *2025.01*: &nbsp;🎉🎉 [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525) is accepted by IEEE Transactions on Industrial Informatics.
-- *2024.11*: &nbsp;🎉🎉 I obtain the National Scholarship for Graduate Students in Zhejiang University.
+- *2024.11*: &nbsp;🎉🎉 I've been awarded the National Scholarship for Graduate Students at Zhejiang University.
 - *2024.04*: &nbsp;🎉🎉 [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599) is accepted by IEEE Transactions on Industrial Informatics.
-- *2023.11*: &nbsp;🎉🎉 I obtain the National Scholarship for Graduate Students in Zhejiang University.
+- *2023.11*: &nbsp;🎉🎉 I've been awarded the National Scholarship for Graduate Students at Zhejiang University.
 
 
 # 📖 Educations
@@ -127,6 +128,8 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 - Second-class Scholarship (3/75, ￥25000), UoL, 2018 - 2019
 
 ## Academic Awards
+- **Outstanding Graduate in Zhejiang Province**, ZJU, 2025;
+- **Outstanding Graduate at Zhejiang University**, ZJU, 2025;
 - Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024
 - Graduate with Merit A Performance, ZJU, 2022 - 2023
 - **Provincial Outstanding Graduate**, SWJTU, 2022;
