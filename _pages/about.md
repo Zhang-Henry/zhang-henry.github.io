@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- **Zhejiang University** (QS 44) | Sep. 2022 -- Mar. 2025 (Expected)<br>
+- **Zhejiang University** (QS 44) | Sep. 2022 -- Mar. 2025 <br>
   MEng. Computer Engineering @ ZJU-UIUC Joint Institute, China<br>
   **Ranking: 1/82**; Supervisor: Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang)
 
