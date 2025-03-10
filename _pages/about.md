@@ -83,7 +83,7 @@ Computer Vision and Pattern Recognition Conference (CVPR 2025)
 ## Machine Learning and Data Mining:
 1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
 **Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
-IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)<br>
+IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
 \[[arxiv](https://arxiv.org/pdf/2501.09525)\] \[[code](https://github.com/Zhang-Henry/SCLIFD_TII)\]
 
 1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
