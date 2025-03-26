@@ -142,7 +142,7 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 - May Day Mathematical Modeling Competition, *First Prize (Top 3%)*, May 2020
 - Asia-Pacific Mathematical Modeling Contest, *First Prize (Top 3%)*, Nov. 2019
 - Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 3%)*, Nov. 2019
-- American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020
+<!--- American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020-->
 
 <!--Teachings
 ======
