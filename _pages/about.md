@@ -21,10 +21,8 @@ I am currently a Master student majoring in Computer Engineering at ZJU-UIUC Joi
 
 My research interests lie at:
 - **Machine Learning**: (Multimodal) Large Language Models; LLM-based Agent; Self-supervised Learning;
-- **Trustworthy AI**: MLLM (Agent) Safety and Security, Responsible AIGC;
-- **Data Mining and AI Application**: AI for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; AI for Healthcare;
-<!--
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+- **Trustworthy ML**: MLLM (Agent) Safety and Security, Responsible AIGC;
+- **Data Mining and ML Application**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;
 
 
 # 🔥 News
@@ -67,7 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-## Trustworthy AI:
+## Trustworthy ML:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) <br>
 International Conference on Learning Representations (ICLR 2025)
@@ -146,10 +144,10 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 - Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 3%)*, Nov. 2019
 - American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020
 
-Teachings
+<!--Teachings
 ======
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergraduates)
-- Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
+- Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)-->
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
