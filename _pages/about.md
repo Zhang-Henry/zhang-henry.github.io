@@ -68,12 +68,12 @@ My research interests lie at:
 ## Trustworthy ML:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) <br>
-International Conference on Learning Representations (ICLR 2025)
+Proceedings of the Thirteenth International Conference on Learning Representations (ICLR), 2025.
 \[[arxiv](https://arxiv.org/abs/2410.02644)\] \[[code](https://github.com/agiresearch/ASB)\] \[[website](https://luckfort.github.io/ASBench/)\] 
 
 1. [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
 **Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) <br>
-Computer Vision and Pattern Recognition Conference (CVPR 2025)
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 \[[arxiv](https://arxiv.org/abs/2405.14672)\] \[[code](https://github.com/Zhang-Henry/INACTIVE)\]
 
 
