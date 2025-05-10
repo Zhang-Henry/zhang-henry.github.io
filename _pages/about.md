@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student majoring in Computer Engineering at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang). I work closely with Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst and Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University.
+I'm an incoming Ph.D. Student in Computer Science at University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). Previously, I received my MEng degree in Computer Engineering at Zhejiang University. I also work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst.
 
 My research interests lie at:
 - **Machine Learning**: (Multimodal) Large Language Models; LLM-based Agent; Self-supervised Learning;
@@ -26,6 +26,7 @@ My research interests lie at:
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 I will be starting my CS Ph.D. in [BDSC Lab](https://bdsc-uic.github.io/index.html) at University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
 - *2025.03*: &nbsp;🎉🎉 I've been awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.
 - *2025.02*: &nbsp;🎉🎉 [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672) is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644) is accepted by ICLR 2025.
@@ -36,12 +37,16 @@ My research interests lie at:
 
 
 # 📖 Educations
-- **Zhejiang University** (QS 44) | Sep. 2022 -- Mar. 2025 <br>
-  MEng. Computer Engineering @ ZJU-UIUC Joint Institute, China<br>
+- **University of Illinois Chicago** | Aug. 2025 -- <br>
+  Ph.D. Computer Science, USA<br>
+  **Ranking: 1/82**; Supervisor: Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ)
+  
+- **Zhejiang University** | Sep. 2022 -- Mar. 2025 <br>
+  MEng. Computer Engineering, China<br>
   **Ranking: 1/82**; Supervisor: Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang)
 
 - **University of Leeds** (QS 75) | Sep. 2018 -- Jun. 2022<br>
-  BSc. Computer Science - **Honors First Class** @ School of Computing, United Kingdom
+  BSc. Computer Science - **Honors First Class Degree**, United Kingdom
 
 - **Southwest Jiaotong University** | Sep. 2018 -- Jun. 2022<br>
   BEng. Computer Science and Technology, China<br>
