@@ -39,7 +39,7 @@ My research interests lie at:
 # 📖 Educations
 - **University of Illinois Chicago** | Aug. 2025 -- <br>
   Ph.D. Computer Science, USA<br>
-  **Ranking: 1/82**; Supervisor: Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ)
+  Supervisor: Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ)
   
 - **Zhejiang University** | Sep. 2022 -- Mar. 2025 <br>
   MEng. Computer Engineering, China<br>
