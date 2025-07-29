@@ -20,8 +20,8 @@ redirect_from:
 I'm an incoming Ph.D. Student in Computer Science at University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). Previously, I received my MEng degree in Computer Engineering at Zhejiang University. I also work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst.
 
 My research interests lie at:
-- **Machine Learning**: (Multimodal) Large Language Models; LLM-based Agent; Self-supervised Learning;
-- **Trustworthy ML**: MLLM (Agent) Safety and Security, Responsible AIGC;
+- **Machine Learning**: (Multimodal) Large Language Models; LLM-based Agent; Reinforcement Learning;
+- **Trustworthy ML**: MLLM (Agent) Safety and Security; 
 - **Data Mining and ML Application**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;
 
 
