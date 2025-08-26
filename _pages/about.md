@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming Ph.D. Student in Computer Science at University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). Previously, I received my MEng degree in Computer Engineering at Zhejiang University. I also work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst.
+I'm a Ph.D. Student in Computer Science at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). Previously, I received my MEng degree in Computer Engineering from Zhejiang University. I also work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst.
 
-My research interests lie at:
+My research interests lie in:
 - **Machine Learning**: (Multimodal) Large Language Models; LLM-based Agent; Reinforcement Learning;
 - **Trustworthy ML**: MLLM (Agent) Safety and Security; 
 - **Data Mining and ML Application**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 I will be starting my CS Ph.D. in [BDSC Lab](https://bdsc-uic.github.io/index.html) at University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
+- *2025.08*: &nbsp;🎉🎉 I will be starting my CS Ph.D. in [BDSC Lab](https://bdsc-uic.github.io/index.html) at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
 - *2025.03*: &nbsp;🎉🎉 I've been awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.
 - *2025.02*: &nbsp;🎉🎉 [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672) is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644) is accepted by ICLR 2025.
@@ -133,12 +133,12 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 ## Academic Awards
 - **Outstanding Graduate in Zhejiang Province**, ZJU, 2025;
 - **Outstanding Graduate at Zhejiang University**, ZJU, 2025;
-- Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024
-- Graduate with Merit A Performance, ZJU, 2022 - 2023
+- Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024;
+- Graduate with Merit A Performance, ZJU, 2022 - 2023;
 - **Provincial Outstanding Graduate**, SWJTU, 2022;
-- **Best Student in Computer Science (1/75)**, UoL, 2020 - 2021
-- **Best Student Overall (1/300, 4 majors)**, UoL, 2018 - 2019
-- Pacemaker to Merit Student (Top 1%), SWJTU, 2018 - 2019 & 2019 - 2020 & 2020 - 2021
+- **Best Student in Computer Science (1/75)**, UoL, 2020 - 2021;
+- **Best Student Overall (1/300, 4 majors)**, UoL, 2018 - 2019;
+- Pacemaker to Merit Student (Top 1%), SWJTU, 2018 - 2019 & 2019 - 2020 & 2020 - 2021;
 
 ## Competition Awards
 - Mathematical Modeling Contest for College Students, *National Second Prize (Top 0.5% of 45,000 teams)*, Sep. 2020
@@ -149,13 +149,13 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 - Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 3%)*, Nov. 2019
 <!--- American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020-->
 
-<!--Teachings
+Teachings
 ======
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergraduates)
-- Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)-->
+- Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2025.05 - 2025.08*, Alibaba Group, China.
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=794&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ'></script>
