@@ -131,14 +131,14 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 - Second-class Scholarship (3/75, ￥25000), UoL, 2018 - 2019
 
 ## Academic Awards
-- **Outstanding Graduate in Zhejiang Province**, ZJU, 2025;
-- **Outstanding Graduate at Zhejiang University**, ZJU, 2025;
-- Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024;
-- Graduate with Merit A Performance, ZJU, 2022 - 2023;
-- **Provincial Outstanding Graduate**, SWJTU, 2022;
-- **Best Student in Computer Science (1/75)**, UoL, 2020 - 2021;
-- **Best Student Overall (1/300, 4 majors)**, UoL, 2018 - 2019;
-- Pacemaker to Merit Student (Top 1%), SWJTU, 2018 - 2019 & 2019 - 2020 & 2020 - 2021;
+- **Outstanding Graduate in Zhejiang Province**, ZJU, 2025
+- **Outstanding Graduate at Zhejiang University**, ZJU, 2025
+- Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024
+- Graduate with Merit A Performance, ZJU, 2022 - 2023
+- **Provincial Outstanding Graduate**, SWJTU, 2022
+- **Best Student in Computer Science (1/75)**, UoL, 2020 - 2021
+- **Best Student Overall (1/300, 4 majors)**, UoL, 2018 - 2019
+- Pacemaker to Merit Student (Top 1%), SWJTU, 2018 - 2019 & 2019 - 2020 & 2020 - 2021
 
 ## Competition Awards
 - Mathematical Modeling Contest for College Students, *National Second Prize (Top 0.5% of 45,000 teams)*, Sep. 2020
