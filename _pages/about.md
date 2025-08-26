@@ -149,13 +149,13 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 - Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 3%)*, Nov. 2019
 <!--- American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020-->
 
-Teachings
+<!--- Teachings
 ======
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergraduates)
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
 
 # 💻 Internships
-- *2025.05 - 2025.08*, Alibaba Group, China.
+- *2025.05 - 2025.08*, Alibaba Group, China.-->
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=794&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ'></script>
