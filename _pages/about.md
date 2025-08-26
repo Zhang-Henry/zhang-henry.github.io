@@ -121,8 +121,7 @@ Service Oriented Computing and Applications
 IEEE International Conference on e-Business Engineering (ICEBE 2022)
 
 
-Internships
-======
+# 💻 Internships
 - Research Intern, Alibaba Group, 2025.05 - 2025.08
 
 # 🎖 Honors and Awards
@@ -153,8 +152,7 @@ Internships
 - Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 3%)*, Nov. 2019
 <!--- American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020-->
 
-Teachings
-======
+# 💻 Teachings
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergraduates)
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
 
