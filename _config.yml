@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanrong Zhang"
-description              : "PhD Student in CS"
+description              : "CS PhD Student"
 repository               : "Zhang-Henry/zhang-henry.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Hanrong Zhang (张涵容)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
-  location         : "Hangzhou, China"
+  location         : "Chicago, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=qG5_O40AAAAJ&hl=zh-CN"
