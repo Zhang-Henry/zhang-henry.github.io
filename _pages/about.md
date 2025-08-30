@@ -111,7 +111,6 @@ Chenlu Zhan\*, Peng Peng\*, **Hanrong Zhang**, Haiyue Sun, Chunnan Shang, Tao Ch
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023)
 
 
-## Knowledge Graph:
 1. [SAKA: an intelligent platform for semi-automated knowledge graph construction and application](https://link.springer.com/article/10.1007/s11761-023-00371-x)<br>
 **Hanrong Zhang**, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
 Service Oriented Computing and Applications
