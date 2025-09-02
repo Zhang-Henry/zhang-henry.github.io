@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Ph.D. Student in Computer Science at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). Previously, I received my MEng degree in Computer Engineering from Zhejiang University. I also work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) @ Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) @ University of Massachusetts Amherst.
+I'm a Ph.D. Student in Computer Science at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). Previously, I received my MEng degree in Computer Engineering from Zhejiang University. I was a research scientist intern at Alibaba Group.
+I also work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) at Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) at the University of Massachusetts Amherst. 
 
 My research interests lie in:
 - **Machine Learning**: (Multimodal) Large Language Models; LLM-based Agent; Reinforcement Learning;
-- **Trustworthy ML**: MLLM (Agent) Safety and Security; 
+- **Trustworthy ML**: MLLM (Agent) Safety and Security; Self-supervised Learning security;
 - **Data Mining and ML Application**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;
+
+If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com.
 
 
 # 🔥 News
