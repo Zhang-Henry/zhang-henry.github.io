@@ -21,9 +21,9 @@ I'm a Ph.D. Student in Computer Science at the University of Illinois Chicago, u
 I also work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) at Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) at the University of Massachusetts Amherst. 
 
 My research interests lie in:
-- **Machine Learning**: (Multimodal) Large Language Models; LLM-based Agent; Reinforcement Learning;
+- **Large Language Model**: LLM Post-training; LLM Agent; Agentic Reinforcement Learning; LLM Reasoning; 
 - **Trustworthy ML**: MLLM (Agent) Safety and Security; Self-supervised Learning security;
-- **Data Mining and ML Application**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;
+- **Machine Learning and Data Mining**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;
 
 If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com.
 
