@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a Ph.D. Student in Computer Science at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). Previously, I received my MEng degree in Computer Engineering from Zhejiang University. I was a research scientist intern at Alibaba Group.
+Hi, there! I'm a Ph.D. Student in Computer Science at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). Prior to this, I received my MEng degree in Computer Engineering from Zhejiang University. I was also a research scientist intern at Alibaba Group.
 I also work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) at Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) at the University of Massachusetts Amherst. 
 
 My research interests lie in:
