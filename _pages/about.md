@@ -124,7 +124,7 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 
 
 # 💻 Internships
-- Research Intern, Alibaba Group, 2025.05 - 2025.08
+- Research Scientist Intern, Alibaba Group, 2025.05 - 2025.08
 
 # 🎖 Honors and Awards
 
