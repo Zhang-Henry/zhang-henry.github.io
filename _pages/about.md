@@ -106,7 +106,7 @@ IEEE Sensors Journal (IF=4.3, JCR Q1 SCI) <strong><span class='show_paper_citati
 
 
 1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
-Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Medical Image Analysis Under Review)
+Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review)
 
 1. [Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10152774)<br>
 Wanqiu Huang, **Hanrong Zhang**, Peng Peng, Hongwei Wang<br>
