@@ -5,7 +5,8 @@
       "WebFetch(domain:juleskreuer.eu)",
       "WebFetch(domain:api.juleskreuer.eu)",
       "WebFetch(domain:github.com)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "WebFetch(domain:localhost)"
     ],
     "deny": [],
     "ask": []

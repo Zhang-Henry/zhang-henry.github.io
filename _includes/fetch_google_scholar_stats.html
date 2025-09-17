@@ -42,13 +42,22 @@
         function loadFallbackData() {
             console.log('Using fallback citation data');
             var citationEles = document.getElementsByClassName('show_paper_citations');
+            console.log('Found citation elements for fallback:', citationEles.length);
+            
             Array.prototype.forEach.call(citationEles, function(element) {
                 var paperId = element.getAttribute('data');
+                console.log('Setting fallback for paper ID:', paperId);
+                
                 var fallbackCitations = {
-                    'ASB': 62, 'INACTIVE': 0, 'SCLIFD': 2, 'GOOFD': 0, 'BGAN': 13
+                    'ASB': 62, 
+                    'INACTIVE': 0, 
+                    'SCLIFD': 2, 
+                    'GOOFD': 0, 
+                    'BGAN': 13
                 };
                 var citations = fallbackCitations[paperId] || 0;
                 element.innerHTML = ' | Citations: ' + citations;
+                console.log('Set fallback citations for', paperId + ':', citations);
             });
         }
         
@@ -77,7 +86,24 @@
                 });
         }
         
-        // Start loading data
+        // Embedded data as immediate fallback
+        var embeddedData = {
+            "citedby": 77,
+            "name": "Hanrong Zhang",
+            "updated": "2025-01-17 12:00:00",
+            "publications": {
+                "ASB": {"title": "Agent Security Bench", "num_citations": 62},
+                "INACTIVE": {"title": "Invisible Backdoor Attack", "num_citations": 0},
+                "SCLIFD": {"title": "Class Incremental Fault Diagnosis", "num_citations": 2},
+                "GOOFD": {"title": "Generalized Out-of-distribution Fault Diagnosis", "num_citations": 0},
+                "BGAN": {"title": "Imbalanced Chemical Process Fault Diagnosis", "num_citations": 13}
+            }
+        };
+        
+        // Use embedded data immediately, then try to update with remote data
+        processData(embeddedData);
+        
+        // Also try to load fresh data from remote sources
         tryLoadData(dataSources, 0);
     });
 </script>
