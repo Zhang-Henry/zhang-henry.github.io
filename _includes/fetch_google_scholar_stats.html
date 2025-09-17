@@ -1,19 +1,83 @@
 <script>
     $(document).ready(function () {
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@google-scholar-stats/'
+        var dataUrl = gsDataBaseUrl + "gs_data.json"
         {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/'
+        var dataUrl = gsDataBaseUrl + "gs_data.json"
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+        
+        console.log('Fetching Google Scholar data from:', dataUrl);
+        
+        function processData(data) {
+            console.log('Successfully loaded citation data:', data);
+            
+            // Update total citations if element exists
+            var totalCitElement = document.getElementById('total_cit');
+            if (totalCitElement && data['citedby']) {
+                totalCitElement.innerHTML = data['citedby'];
+                console.log('Updated total citations:', data['citedby']);
+            }
+            
+            // Update individual paper citations
+            var citationEles = document.getElementsByClassName('show_paper_citations');
+            console.log('Found citation elements:', citationEles.length);
+            
+            Array.prototype.forEach.call(citationEles, function(element) {
+                var paperId = element.getAttribute('data');
+                console.log('Processing paper ID:', paperId);
+                
+                if (data['publications'] && data['publications'][paperId]) {
+                    var numCitations = data['publications'][paperId]['num_citations'];
+                    element.innerHTML = ' | Citations: ' + numCitations;
+                    console.log('Updated citations for', paperId + ':', numCitations);
+                } else {
+                    console.log('No data found for paper ID:', paperId);
+                    element.innerHTML = ' | Citations: 0';
+                }
             });
-        });
-    })
+        }
+        
+        function loadFallbackData() {
+            console.log('Using fallback citation data');
+            var citationEles = document.getElementsByClassName('show_paper_citations');
+            Array.prototype.forEach.call(citationEles, function(element) {
+                var paperId = element.getAttribute('data');
+                var fallbackCitations = {
+                    'ASB': 62, 'INACTIVE': 0, 'SCLIFD': 2, 'GOOFD': 0, 'BGAN': 13
+                };
+                var citations = fallbackCitations[paperId] || 0;
+                element.innerHTML = ' | Citations: ' + citations;
+            });
+        }
+        
+        // Try to load from multiple sources
+        var dataSources = [
+            dataUrl,
+            '/google-scholar-stats/gs_data.json',  // Local fallback
+            './google-scholar-stats/gs_data.json'  // Relative path fallback
+        ];
+        
+        function tryLoadData(sources, index) {
+            if (index >= sources.length) {
+                console.error('All data sources failed, using hardcoded fallback');
+                loadFallbackData();
+                return;
+            }
+            
+            $.getJSON(sources[index])
+                .done(function(data) {
+                    console.log('Successfully loaded from source', index + ':', sources[index]);
+                    processData(data);
+                })
+                .fail(function() {
+                    console.log('Failed to load from source', index + ':', sources[index]);
+                    tryLoadData(sources, index + 1);
+                });
+        }
+        
+        // Start loading data
+        tryLoadData(dataSources, 0);
+    });
 </script>
