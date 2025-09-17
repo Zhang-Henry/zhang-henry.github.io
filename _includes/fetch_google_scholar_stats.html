@@ -1,5 +1,5 @@
 <script>
-    $(document).ready(function () {
+    function initGoogleScholarStats() {
         {% if site.google_scholar_stats_use_cdn %}
         var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@google-scholar-stats/'
         var dataUrl = gsDataBaseUrl + "gs_data.json"
@@ -105,5 +105,53 @@
         
         // Also try to load fresh data from remote sources
         tryLoadData(dataSources, 0);
-    });
+    }
+    
+    // Initialize when DOM is ready and jQuery is available
+    if (typeof jQuery !== 'undefined') {
+        $(document).ready(initGoogleScholarStats);
+    } else {
+        // Fallback: wait for window load
+        window.addEventListener('load', function() {
+            // Wait a bit more for jQuery to load
+            setTimeout(function() {
+                if (typeof jQuery !== 'undefined') {
+                    initGoogleScholarStats();
+                } else {
+                    // Pure JavaScript fallback
+                    initGoogleScholarStatsVanilla();
+                }
+            }, 1000);
+        });
+    }
+    
+    // Vanilla JavaScript version as ultimate fallback
+    function initGoogleScholarStatsVanilla() {
+        console.log('Using vanilla JavaScript fallback for citations');
+        
+        var citationEles = document.getElementsByClassName('show_paper_citations');
+        console.log('Found citation elements (vanilla):', citationEles.length);
+        
+        var fallbackCitations = {
+            'ASB': 62, 
+            'INACTIVE': 0, 
+            'SCLIFD': 2, 
+            'GOOFD': 0, 
+            'BGAN': 13
+        };
+        
+        for (var i = 0; i < citationEles.length; i++) {
+            var element = citationEles[i];
+            var paperId = element.getAttribute('data');
+            var citations = fallbackCitations[paperId] || 0;
+            element.innerHTML = ' | Citations: ' + citations;
+            console.log('Set vanilla citations for', paperId + ':', citations);
+        }
+        
+        // Update total citations
+        var totalCitElement = document.getElementById('total_cit');
+        if (totalCitElement) {
+            totalCitElement.innerHTML = '77';
+        }
+    }
 </script>

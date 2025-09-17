@@ -82,28 +82,27 @@ If you are interested in academic collaboration or discussion, please feel free 
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) <br>
 Proceedings of the Thirteenth International Conference on Learning Representations (ICLR), 2025.
-\[[arxiv](https://arxiv.org/abs/2410.02644)\] \[[code](https://github.com/agiresearch/ASB)\] \[[website](https://luckfort.github.io/ASBench/)\] ![GitHub stars](https://img.shields.io/github/stars/agiresearch/ASB?style=social) <strong><span class='show_paper_citations' data='ASB'></span></strong>
+\[[arxiv](https://arxiv.org/abs/2410.02644)\] \[[code](https://github.com/agiresearch/ASB)\] \[[website](https://luckfort.github.io/ASBench/)\] ![GitHub stars](https://img.shields.io/github/stars/agiresearch/ASB?style=social)
 
 1. [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
 **Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) <br>
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
-\[[arxiv](https://arxiv.org/abs/2405.14672)\] \[[code](https://github.com/Zhang-Henry/INACTIVE)\] ![GitHub stars](https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social) <strong><span class='show_paper_citations' data='INACTIVE'></span></strong>
-
+\[[arxiv](https://arxiv.org/abs/2405.14672)\] \[[code](https://github.com/Zhang-Henry/INACTIVE)\] ![GitHub stars](https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social)
 
 
 ## Machine Learning and Data Mining:
 1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
 **Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
 IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
-\[[arxiv](https://arxiv.org/pdf/2501.09525)\] <strong><span class='show_paper_citations' data='SCLIFD'></span></strong>
+\[[arxiv](https://arxiv.org/pdf/2501.09525)\]
 
 1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
 Xingyue Wang\*, **Hanrong Zhang**\*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
-IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI) <strong><span class='show_paper_citations' data='GOOFD'></span></strong>
+IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
 
 1. [Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection](https://ieeexplore.ieee.org/abstract/document/10114639)<br>
 Peng Peng\*, **Hanrong Zhang**\*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
-IEEE Sensors Journal (IF=4.3, JCR Q1 SCI) <strong><span class='show_paper_citations' data='BGAN'></span></strong>
+IEEE Sensors Journal (IF=4.3, JCR Q1 SCI)
 
 
 
@@ -165,3 +164,49 @@ IEEE International Conference on e-Business Engineering (ICEBE 2022)
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=794&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ'></script>
+
+<script>
+// Immediate citation update - runs as soon as this script loads
+(function() {
+    console.log('Running immediate citation update');
+
+    function updateCitations() {
+        var citations = {
+            'ASB': 62,
+            'INACTIVE': 0,
+            'SCLIFD': 2,
+            'GOOFD': 0,
+            'BGAN': 13
+        };
+
+        var elements = document.getElementsByClassName('show_paper_citations');
+        console.log('Found citation elements:', elements.length);
+
+        for (var i = 0; i < elements.length; i++) {
+            var element = elements[i];
+            var paperId = element.getAttribute('data');
+            var citationCount = citations[paperId] || 0;
+            element.innerHTML = ' | Citations: ' + citationCount;
+            console.log('Updated', paperId, 'to', citationCount);
+        }
+
+        // Update total citations
+        var totalElement = document.getElementById('total_cit');
+        if (totalElement) {
+            totalElement.innerHTML = '77';
+            console.log('Updated total citations to 77');
+        }
+    }
+
+    // Try immediately
+    updateCitations();
+
+    // Try again after a short delay
+    setTimeout(updateCitations, 500);
+
+    // Try once more after page fully loads
+    window.addEventListener('load', function() {
+        setTimeout(updateCitations, 1000);
+    });
+})();
+</script>
