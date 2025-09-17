@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:juleskreuer.eu)",
+      "WebFetch(domain:api.juleskreuer.eu)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

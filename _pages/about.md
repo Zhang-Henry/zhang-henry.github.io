@@ -77,12 +77,12 @@ If you are interested in academic collaboration or discussion, please feel free 
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) <br>
 Proceedings of the Thirteenth International Conference on Learning Representations (ICLR), 2025.
-\[[arxiv](https://arxiv.org/abs/2410.02644)\] \[[code](https://github.com/agiresearch/ASB)\] \[[website](https://luckfort.github.io/ASBench/)\] 
+\[[arxiv](https://arxiv.org/abs/2410.02644)\] \[[code](https://github.com/agiresearch/ASB)\] \[[website](https://luckfort.github.io/ASBench/)\] ![GitHub stars](https://img.shields.io/github/stars/agiresearch/ASB?style=social) ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=arXiv:2410.02644) 
 
 1. [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
 **Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) <br>
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
-\[[arxiv](https://arxiv.org/abs/2405.14672)\] \[[code](https://github.com/Zhang-Henry/INACTIVE)\]
+\[[arxiv](https://arxiv.org/abs/2405.14672)\] \[[code](https://github.com/Zhang-Henry/INACTIVE)\] ![GitHub stars](https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social) ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=arXiv:2405.14672)
 
 
 
@@ -90,37 +90,37 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
 **Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
 IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
-\[[arxiv](https://arxiv.org/pdf/2501.09525)\] \[[code](https://github.com/Zhang-Henry/SCLIFD_TII)\]
+\[[arxiv](https://arxiv.org/pdf/2501.09525)\] \[[code](https://github.com/Zhang-Henry/SCLIFD_TII)\] ![GitHub stars](https://img.shields.io/github/stars/Zhang-Henry/SCLIFD_TII?style=social) ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=arXiv:2501.09525)
 
 1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
 Xingyue Wang\*, **Hanrong Zhang**\*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
-IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
+IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI) ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TII.2024.3398395)
 
 1. [Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection](https://ieeexplore.ieee.org/abstract/document/10114639)<br>
 Peng Peng\*, **Hanrong Zhang**\*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
-IEEE Sensors Journal (IF=4.3, JCR Q1 SCI)
+IEEE Sensors Journal (IF=4.3, JCR Q1 SCI) ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/JSEN.2023.3269090)
 
 
 
 1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
-Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Medical Image Analysis Under Review)
+Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Medical Image Analysis Under Review) ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=arXiv:2409.07757)
 
 1. [Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10152774)<br>
 Wanqiu Huang, **Hanrong Zhang**, Peng Peng, Hongwei Wang<br>
-International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2023, **Best Paper Award Finalist**)
+International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2023, **Best Paper Award Finalist**) ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/CSCWD57460.2023.10152774)
 
 1. [Debiasing Medical Visual Question Answering via Counterfactual Training](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)<br>
 Chenlu Zhan\*, Peng Peng\*, **Hanrong Zhang**, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang<br>
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023)
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=10.1007/978-3-031-43895-0_36)
 
 
 1. [SAKA: an intelligent platform for semi-automated knowledge graph construction and application](https://link.springer.com/article/10.1007/s11761-023-00371-x)<br>
 **Hanrong Zhang**, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
-Service Oriented Computing and Applications
+Service Oriented Computing and Applications ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=10.1007/s11761-023-00371-x)
 
 1. [An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources](https://ieeexplore.ieee.org/abstract/document/10035077)<br>
 **Hanrong Zhang**, Xinyue Wang, Bo Qin, Hongwei Wang<br>
-IEEE International Conference on e-Business Engineering (ICEBE 2022)
+IEEE International Conference on e-Business Engineering (ICEBE 2022) ![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/ICEBE55470.2022.00021)
 
 
 # 💻 Internships
