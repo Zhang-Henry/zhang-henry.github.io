@@ -3,7 +3,9 @@
     "allow": [
       "WebSearch",
       "WebFetch(domain:juleskreuer.eu)",
-      "WebFetch(domain:api.juleskreuer.eu)"
+      "WebFetch(domain:api.juleskreuer.eu)",
+      "WebFetch(domain:github.com)",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": []
