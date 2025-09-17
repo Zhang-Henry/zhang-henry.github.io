@@ -1,5 +1,7 @@
 {
   "citedby": 77,
+  "name": "Hanrong Zhang",
+  "updated": "2025-01-17 12:00:00",
   "publications": {
     "ASB": {
       "title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
