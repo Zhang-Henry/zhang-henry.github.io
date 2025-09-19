@@ -28,14 +28,15 @@ I work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) at Rutgers Univ
 <!-- **Total Citations: <span id='total_cit'>77</span>** -->
 
 My research interests lie in:
-- **Large Language Model**: LLM Post-training; LLM Agent; Agentic Reinforcement Learning; LLM Reasoning;
-- **Trustworthy ML**: MLLM (Agent) Safety and Security; Self-supervised Learning security;
+- **Large Language Model**: LLM-based Agent; Reinforcement Learning; LLM Reasoning; LLM Post-training; 
+- **Trustworthy AI**: MLLM (Agent) Safety and Security; Self-supervised Learning security;
 - **Machine Learning and Data Mining**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;
 
 If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com.
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 - *2025.08*: &nbsp;🎉🎉 I will be starting my CS Ph.D. in [BDSC Lab](https://bdsc-uic.github.io/index.html) at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
 - *2025.03*: &nbsp;🎉🎉 I've been awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.
 - *2025.02*: &nbsp;🎉🎉 [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672) is accepted by CVPR 2025.
@@ -107,9 +108,14 @@ Peng Peng\*, **Hanrong Zhang**\*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
 IEEE Sensors Journal (IF=4.3, JCR Q1 SCI)
 
 
+1. [SAKA: an intelligent platform for semi-automated knowledge graph construction and application](https://link.springer.com/article/10.1007/s11761-023-00371-x)<br>
+**Hanrong Zhang**, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
+Service Oriented Computing and Applications
 
-1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
-Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review)
+1. [An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources](https://ieeexplore.ieee.org/abstract/document/10035077)<br>
+**Hanrong Zhang**, Xinyue Wang, Bo Qin, Hongwei Wang<br>
+IEEE International Conference on e-Business Engineering (ICEBE 2022)
+
 
 1. [Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10152774)<br>
 Wanqiu Huang, **Hanrong Zhang**, Peng Peng, Hongwei Wang<br>
@@ -119,15 +125,13 @@ International Conference on Computer Supported Cooperative Work in Design (IEEE 
 Chenlu Zhan\*, Peng Peng\*, **Hanrong Zhang**, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang<br>
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023)
 
+1. [Industrial Data Synthesis Framework for Fault Diagnosis Using Diffusion and Flow-Based Models](https://ieeexplore.ieee.org/abstract/document/11033333/)<br>
+Shuting Tao, Xiangming Meng, **Hanrong Zhang**, Hongwei Wang<br>
+International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2025)
 
-1. [SAKA: an intelligent platform for semi-automated knowledge graph construction and application](https://link.springer.com/article/10.1007/s11761-023-00371-x)<br>
-**Hanrong Zhang**, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
-Service Oriented Computing and Applications
-
-1. [An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources](https://ieeexplore.ieee.org/abstract/document/10035077)<br>
-**Hanrong Zhang**, Xinyue Wang, Bo Qin, Hongwei Wang<br>
-IEEE International Conference on e-Business Engineering (ICEBE 2022)
-
+## Arxiv:
+1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
+Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review)
 
 # 💻 Internships
 - Research Scientist Intern, Alibaba Group, 2025.05 - 2025.08
