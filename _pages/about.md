@@ -136,6 +136,10 @@ Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of B
 # 💻 Internships
 - Research Scientist Intern, Alibaba Group, 2025.05 - 2025.08
 
+
+# Academic Service
+- Reviewer, Pattern recognition
+
 # 🎖 Honors and Awards
 
 ## Scholarships
