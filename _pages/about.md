@@ -49,7 +49,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 
 
 # 📖 Educations
-- **University of Illinois Chicago** | Aug. 2025 -- <br>
+- **University of Illinois Chicago** | Aug. 2025 -- Present <br>
   Ph.D. Computer Science, USA<br>
   Supervisor: Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ)
 
