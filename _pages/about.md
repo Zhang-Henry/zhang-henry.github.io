@@ -36,8 +36,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for ICLR 2026.
-- *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
+- *2025.9*: &nbsp;🎉🎉 Invited as a reviewer for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition), ICLR 2026 and CVPR 2026.
 - *2025.08*: &nbsp;🎉🎉 I will be starting my CS Ph.D. in [BDSC Lab](https://bdsc-uic.github.io/index.html) at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
 - *2025.03*: &nbsp;🎉🎉 I've been awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.
 - *2025.02*: &nbsp;🎉🎉 [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672) is accepted by CVPR 2025.
@@ -170,6 +169,7 @@ Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of B
 # 📝 Academic Service
 - Reviewer, Pattern Recognition
 - Reviewer, ICLR 2026
+- Reviewer, CVPR 2026
 
 # 💻 Teachings
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergraduates)
