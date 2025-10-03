@@ -168,8 +168,8 @@ Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of B
 
 # 📝 Academic Service
 - Reviewer, Pattern Recognition
-- Reviewer, ICLR 2026
-- Reviewer, CVPR 2026
+- Reviewer, ICLR
+- Reviewer, CVPR
 
 # 💻 Teachings
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergraduates)
