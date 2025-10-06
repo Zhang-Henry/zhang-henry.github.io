@@ -28,13 +28,11 @@ I work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) at Rutgers Univ
 <!-- **Total Citations: <span id='total_cit'>77</span>** -->
 
 My research interests lie in:
-- **Large Language Model**: LLM-based Agent; Reinforcement Learning; LLM Reasoning; LLM Post-training; 
+- **Large Language Model**: LLM-based Agent; Reinforcement Learning; LLM Reasoning; LLM Post-training;
 - **Trustworthy AI**: MLLM (Agent) Safety and Security; Self-supervised Learning security;
 - **Machine Learning and Data Mining**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;
 
 If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com.
-
-📄 **[Download my CV (PDF)](/assets/pdf/Hanrong_Zhang_CV.pdf)**
 
 
 # 🔥 News
@@ -177,7 +175,7 @@ Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of B
 - Reviewer, [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
 - Reviewer, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 
-  
+
 # 💻 Teachings
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergraduates)
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
