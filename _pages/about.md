@@ -34,6 +34,8 @@ My research interests lie in:
 
 If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com.
 
+📄 **[Download my CV (PDF)](/assets/pdf/Hanrong_Zhang_CV.pdf)**
+
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for ICLR, CVPR, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) and [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24).

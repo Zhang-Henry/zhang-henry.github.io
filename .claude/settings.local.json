@@ -6,7 +6,8 @@
       "WebFetch(domain:api.juleskreuer.eu)",
       "WebFetch(domain:github.com)",
       "Bash(python3:*)",
-      "WebFetch(domain:localhost)"
+      "WebFetch(domain:localhost)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []
