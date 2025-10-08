@@ -21,8 +21,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, there! I'm Hanrong Zhang (张涵容), a Ph.D. Student in Computer Science at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) (IEEE/ACM Fellow). Prior to this, I received my MEng degree in Computer Engineering from Zhejiang University. I was also a research scientist intern at Alibaba Group.
-
-
 I work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) at Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) at the University of Massachusetts Amherst.
 
 <!-- **Total Citations: <span id='total_cit'>77</span>** -->
@@ -34,6 +32,7 @@ My research interests lie in:
 
 If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com.
 
+📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!**
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for ICLR, CVPR, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) and [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24).
