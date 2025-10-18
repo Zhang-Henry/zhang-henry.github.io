@@ -36,7 +36,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!**
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for ICLR, CVPR, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) and [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24).
+- *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for ICLR, CVPR, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) and [IEEE Trans. on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24).
 - *2025.08*: &nbsp;🎉🎉 I will be starting my CS Ph.D. in [BDSC Lab](https://bdsc-uic.github.io/index.html) at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
 - *2025.04*: &nbsp;🎉🎉 Give a talk at [Xtra Computing Group](https://www.xtra.science/) of Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) at School of Computing, NUS.
 - *2025.03*: &nbsp;🎉🎉 I've been awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.
@@ -173,8 +173,9 @@ Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of B
 - Reviewer, CVPR
 
 ## Journal Reviewer
-- Reviewer, [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
 - Reviewer, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+- Reviewer, [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
+- Reviewer, [IEEE Transactions on Computational Biology and Bioinformatics]()
 
 
 # 💻 Teachings
