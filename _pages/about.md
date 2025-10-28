@@ -137,7 +137,7 @@ Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of B
 
 # 💻 Internships
 - Research Scientist Intern, Alibaba Group, 2025.05 - 2025.08
-
+    - Research on RL for Human-Agent Multi-turn Interaction
 
 
 # 🎖 Honors and Awards
@@ -174,7 +174,7 @@ Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of B
 - Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
 ## Journal Reviewer
-- Reviewer, [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)(TNNLS)
+- Reviewer, [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)
 - Reviewer, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - Reviewer, [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
 - Reviewer, [IEEE Transactions on Computational Biology and Bioinformatics]()
