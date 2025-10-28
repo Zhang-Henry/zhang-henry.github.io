@@ -170,11 +170,11 @@ Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of B
 
 # 📝 Academic Service
 ## Conference Reviewer
-- Reviewer, ICLR
-- Reviewer, CVPR
+- Reviewer, International Conference on Learning Representations (ICLR)
+- Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
 ## Journal Reviewer
-- Reviewer, [IEEE Transaction on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+- Reviewer, [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)(TNNLS)
 - Reviewer, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - Reviewer, [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
 - Reviewer, [IEEE Transactions on Computational Biology and Bioinformatics]()
