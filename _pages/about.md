@@ -40,7 +40,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 - *2025.10*: &nbsp;🎉🎉 Invited as a reviewer for ICLR 2026, CVPR 2026, [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) and [IEEE Trans. on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24).
 - *2025.08*: &nbsp;🎉🎉 I will be starting my CS Ph.D. in [BDSC Lab](https://bdsc-uic.github.io/index.html) at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
-- *2025.04*: &nbsp;🎉🎉 Give a talk at [Xtra Computing Group](https://www.xtra.science/) of Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) at School of Computing, NUS.
+- *2025.04*: &nbsp;🎉🎉 Give a talk at [Xtra Computing Group](https://www.xtra.science/2025/04/invited-speakers/) of Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) at School of Computing, NUS.
 - *2025.03*: &nbsp;🎉🎉 I've been awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.
 - *2025.02*: &nbsp;🎉🎉 [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672) (First author) is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644) (First author) is accepted by ICLR 2025.
