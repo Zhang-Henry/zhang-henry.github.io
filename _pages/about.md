@@ -180,6 +180,8 @@ Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of B
 - Reviewer, [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
 - Reviewer, [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
 - Reviewer, [IEEE Transactions on Computational Biology and Bioinformatics]()
+- Reviewer, [IEEE Transactions on Industrial Cyber-Physical Systems]()
+  
 
 # Volunteer
 - ICLR 2025
