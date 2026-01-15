@@ -135,7 +135,7 @@ International Conference on Computer Supported Cooperative Work in Design (IEEE 
 
 ## Preprint:
 1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
-Yifei Yao\*, **Hanrong Zhang**\*, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review)
+Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review)
 
 # 💻 Internships
 - Research Scientist Intern, Alibaba Group, 2025.05 - 2025.08
