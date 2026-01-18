@@ -141,7 +141,23 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 - Research Scientist Intern, Alibaba Group, 2025.05 - 2025.08
     - Research on RL for Human-Agent Multi-turn Interaction
 
+# 📝 Academic Service
+## Conference Reviewer
+- Reviewer, International Conference on Learning Representations (ICLR)
+- Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
+## Journal Reviewer
+- Reviewer, [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
+- Reviewer, [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)
+- Reviewer, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+- Reviewer, [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
+- Reviewer, [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
+- Reviewer, [IEEE Transactions on Computational Biology and Bioinformatics]()
+- Reviewer, [IEEE Transactions on Industrial Cyber-Physical Systems]()
+  
+## Volunteer
+- ICLR 2025
+  
 # 🎖 Honors and Awards
 
 ## Scholarships
@@ -170,23 +186,7 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 - Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 3%)*, Nov. 2019
 <!--- American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020-->
 
-# 📝 Academic Service
-## Conference Reviewer
-- Reviewer, International Conference on Learning Representations (ICLR)
-- Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
-## Journal Reviewer
-- Reviewer, [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
-- Reviewer, [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)
-- Reviewer, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
-- Reviewer, [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
-- Reviewer, [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
-- Reviewer, [IEEE Transactions on Computational Biology and Bioinformatics]()
-- Reviewer, [IEEE Transactions on Industrial Cyber-Physical Systems]()
-  
-
-# Volunteer
-- ICLR 2025
 
 
 # 💻 Teachings
