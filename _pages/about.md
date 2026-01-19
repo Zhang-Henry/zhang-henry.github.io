@@ -142,7 +142,7 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
     - Research on RL for Human-Agent Multi-turn Interaction
 
 # 📝 Academic Service
-## Conference Reviewer
+## Conference Program Committee/Reviewer
 - Reviewer, International Conference on Learning Representations (ICLR)
 - Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
