@@ -36,7 +36,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!**
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Invited as a reviewer for [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
+- *2026.01*: &nbsp;🎉🎉 Invited as a reviewer for [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) and ECCV 2026.
 - *2025.11*: &nbsp;🎉🎉 Invited as a reviewer for [TMLR](https://jmlr.org/tmlr/).
 - *2025.10*: &nbsp;🎉🎉 Invited as a reviewer for ICLR 2026, CVPR 2026, [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) and [IEEE Trans. on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24).
@@ -143,17 +143,18 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 
 # 📝 Academic Service
 ## Conference Program Committee/Reviewer
-- Reviewer, International Conference on Learning Representations (ICLR)
-- Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- International Conference on Learning Representations (ICLR) 2026
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+- European Conference on Computer Vision (ECCV) 2026
 
 ## Journal Reviewer
-- Reviewer, [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
-- Reviewer, [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)
-- Reviewer, [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
-- Reviewer, [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
-- Reviewer, [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
-- Reviewer, [IEEE Transactions on Computational Biology and Bioinformatics]()
-- Reviewer, [IEEE Transactions on Industrial Cyber-Physical Systems]()
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
+- [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)
+- [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+- [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
+- [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
+- [IEEE Transactions on Computational Biology and Bioinformatics]()
+- [IEEE Transactions on Industrial Cyber-Physical Systems]()
   
 ## Volunteer
 - ICLR 2025
