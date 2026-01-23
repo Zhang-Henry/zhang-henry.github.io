@@ -151,7 +151,7 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
 - [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)
 - [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
-- [Transactions on Machine Learning Research](https://jmlr.org/tmlr/)
+- [Transactions on Machine Learning Research](https://jmlr.org/tmlr/) (TMLR)
 - [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
 - [IEEE Transactions on Computational Biology and Bioinformatics]()
 - [IEEE Transactions on Industrial Cyber-Physical Systems]()
