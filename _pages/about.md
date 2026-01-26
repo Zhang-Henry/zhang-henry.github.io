@@ -36,7 +36,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!**
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Invited as a reviewer for [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) and ECCV 2026.
+- *2026.01*: &nbsp;🎉🎉 Invited as a reviewer for [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), ECCV 2026, ICML 2026.
 - *2025.11*: &nbsp;🎉🎉 Invited as a reviewer for [TMLR](https://jmlr.org/tmlr/).
 - *2025.10*: &nbsp;🎉🎉 Invited as a reviewer for ICLR 2026, CVPR 2026, [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) and [IEEE Trans. on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24).
@@ -144,6 +144,7 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 # 📝 Academic Service
 ## Conference Program Committee/Reviewer
 - International Conference on Learning Representations (ICLR) 2026
+- International Conference on Machine Learning (ICML) 2026
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
 - European Conference on Computer Vision (ECCV) 2026
 
