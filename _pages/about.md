@@ -26,9 +26,9 @@ I work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) at Rutgers Univ
 <!-- **Total Citations: <span id='total_cit'>77</span>** -->
 
 My research interests lie in:
-- **Large Language Model**: LLM Agent; Reinforcement Learning; LLM Reasoning; LLM Post-training;
-- **Trustworthy AI**: LLM (Agent) Safety and Security;
-- **Machine Learning and Data Mining**: ML for Industrial Fault Diagnosis, Self-supervised Learning
+- **LLM Agent**: Agent Training; Tool Learning; Data Synthethis; Agentic RL; Agent Safety and Security;
+- **Large Language Model**: LLM Reasoning; LLM Post-training;
+<!--- **Machine Learning and Data Mining**: ML for Industrial Fault Diagnosis, Self-supervised Learning-->
 <!-- - **Machine Learning and Data Mining**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;-->
 
 If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com.
