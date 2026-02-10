@@ -131,6 +131,9 @@ Shuting Tao, Xiangming Meng, **Hanrong Zhang**, Hongwei Wang<br>
 International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2025)
 
 ## Preprint:
+1. [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://www.arxiv.org/pdf/2602.06052)<br>
+Worked as a core contributor
+
 1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
 Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review)
 
