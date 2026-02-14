@@ -67,6 +67,10 @@ If you are interested in academic collaboration or discussion, please feel free 
 
 # 📝 Publications
 
+<a href="https://scholar.google.com/citations?user=qG5_O40AAAAJ&hl=zh-CN">
+  <img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/Zhang-Henry/zhang-henry.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations">
+</a>
+
 ### * denotes Equal Contribution
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
