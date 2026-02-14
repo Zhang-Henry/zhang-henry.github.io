@@ -49,12 +49,15 @@
                 console.log('Setting fallback for paper ID:', paperId);
                 
                 var fallbackCitations = {
-                    'ASB': 62, 
-                    'INACTIVE': 0, 
-                    'SCLIFD': 2, 
-                    'GOOFD': 0, 
+                    'ASB': 62,
+                    'INACTIVE': 0,
+                    'SCLIFD': 2,
+                    'GOOFD': 0,
                     'BGAN': 13
                 };
+                // Update total citations fallback
+                var totalCitElement = document.getElementById('total_cit');
+                if (totalCitElement) { totalCitElement.innerHTML = '212'; }
                 var citations = fallbackCitations[paperId] || 0;
                 element.innerHTML = ' | Citations: ' + citations;
                 console.log('Set fallback citations for', paperId + ':', citations);
@@ -88,9 +91,9 @@
         
         // Embedded data as immediate fallback
         var embeddedData = {
-            "citedby": 77,
+            "citedby": 212,
             "name": "Hanrong Zhang",
-            "updated": "2025-01-17 12:00:00",
+            "updated": "2026-02-14 12:00:00",
             "publications": {
                 "ASB": {"title": "Agent Security Bench", "num_citations": 62},
                 "INACTIVE": {"title": "Invisible Backdoor Attack", "num_citations": 0},
@@ -151,7 +154,7 @@
         // Update total citations
         var totalCitElement = document.getElementById('total_cit');
         if (totalCitElement) {
-            totalCitElement.innerHTML = '77';
+            totalCitElement.innerHTML = '212';
         }
     }
 </script>

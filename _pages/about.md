@@ -234,8 +234,8 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
         // Update total citations
         var totalElement = document.getElementById('total_cit');
         if (totalElement) {
-            totalElement.innerHTML = '77';
-            console.log('Updated total citations to 77');
+            totalElement.innerHTML = '212';
+            console.log('Updated total citations to 212');
         }
     }
 
