@@ -33,7 +33,7 @@ My research interests lie in:
 
 If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com.
 
-📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!**
+<!-- 📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!** -->
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Invited as a reviewer for [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), ECCV 2026, ICML 2026, KDD 2026.
@@ -141,26 +141,7 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 - Research Scientist Intern, Alibaba Group, 2025.05 - 2025.08
     - Research on RL for Human-Agent Multi-turn Interaction
 
-# 📝 Academic Service
-## Conference Program Committee/Reviewer
-- International Conference on Learning Representations (ICLR) 2026
-- International Conference on Machine Learning (ICML) 2026
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
-- European Conference on Computer Vision (ECCV) 2026
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
 
-## Journal Reviewer
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
-- [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)
-- [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
-- [Transactions on Machine Learning Research](https://jmlr.org/tmlr/) (TMLR)
-- [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
-- [IEEE Transactions on Computational Biology and Bioinformatics]()
-- [IEEE Transactions on Industrial Cyber-Physical Systems]()
-  
-## Volunteer
-- ICLR 2025
-  
 # 🎖 Honors and Awards
 
 ## Scholarships
@@ -188,6 +169,28 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 - Asia-Pacific Mathematical Modeling Contest, *First Prize (Top 3%)*, Nov. 2019
 - Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 3%)*, Nov. 2019
 <!--- American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020-->
+
+
+# 📝 Academic Service
+## Conference Program Committee/Reviewer
+- International Conference on Learning Representations (ICLR) 2026
+- International Conference on Machine Learning (ICML) 2026
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+- European Conference on Computer Vision (ECCV) 2026
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
+- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2026
+
+## Journal Reviewer
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
+- [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)
+- [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+- [Transactions on Machine Learning Research](https://jmlr.org/tmlr/) (TMLR)
+- [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
+- [IEEE Transactions on Computational Biology and Bioinformatics]()
+- [IEEE Transactions on Industrial Cyber-Physical Systems]()
+
+## Volunteer
+- ICLR 2025
 
 
 
