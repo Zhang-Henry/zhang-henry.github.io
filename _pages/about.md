@@ -8,22 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<!-- Include Google Scholar stats script -->
-{% include fetch_google_scholar_stats.html %}
-
 <span class='anchor' id='about-me'></span>
 
 Hi, there! I'm Hanrong Zhang (张涵容), a Ph.D. Student in Computer Science at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) (IEEE/ACM Fellow). Prior to this, I received my MEng degree in Computer Engineering from Zhejiang University. I was also a research scientist intern at Alibaba Group.
 I work closely with Prof. [Yongfeng Zhang](https://yongfeng.me/) at Rutgers University and Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) at the University of Massachusetts Amherst.
-
-<!-- **Total Citations: <span id='total_cit'>77</span>** -->
 
 My research interests lie in:
 - **LLM Agent**: Agent Training; Tool Learning; Data Synthethis; Agentic RL; Agent Safety and Security;
@@ -66,10 +54,6 @@ If you are interested in academic collaboration or discussion, please feel free 
 
 
 # 📝 Publications
-
-<a href="https://scholar.google.com/citations?user=qG5_O40AAAAJ&hl=zh-CN">
-  <img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/Zhang-Henry/zhang-henry.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations">
-</a>
 
 ### * denotes Equal Contribution
 
@@ -205,49 +189,3 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=794&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ'></script>
-
-<script>
-// Immediate citation update - runs as soon as this script loads
-(function() {
-    console.log('Running immediate citation update');
-
-    function updateCitations() {
-        var citations = {
-            'ASB': 62,
-            'INACTIVE': 0,
-            'SCLIFD': 2,
-            'GOOFD': 0,
-            'BGAN': 13
-        };
-
-        var elements = document.getElementsByClassName('show_paper_citations');
-        console.log('Found citation elements:', elements.length);
-
-        for (var i = 0; i < elements.length; i++) {
-            var element = elements[i];
-            var paperId = element.getAttribute('data');
-            var citationCount = citations[paperId] || 0;
-            element.innerHTML = ' | Citations: ' + citationCount;
-            console.log('Updated', paperId, 'to', citationCount);
-        }
-
-        // Update total citations
-        var totalElement = document.getElementById('total_cit');
-        if (totalElement) {
-            totalElement.innerHTML = '212';
-            console.log('Updated total citations to 212');
-        }
-    }
-
-    // Try immediately
-    updateCitations();
-
-    // Try again after a short delay
-    setTimeout(updateCitations, 500);
-
-    // Try once more after page fully loads
-    window.addEventListener('load', function() {
-        setTimeout(updateCitations, 1000);
-    });
-})();
-</script>
