@@ -410,3 +410,26 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/*
+   Paper citation badges
+   ========================================================================== */
+
+.citation-badge {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 600;
+  line-height: 1;
+  padding: 3px 8px;
+  border-radius: 10px;
+  background-color: #e8f0fe;
+  color: #1a73e8;
+  vertical-align: middle;
+  margin-left: 4px;
+  text-decoration: none !important;
+
+  .citation-icon {
+    margin-right: 3px;
+  }
+}

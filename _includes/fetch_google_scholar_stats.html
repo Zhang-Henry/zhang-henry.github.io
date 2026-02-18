@@ -21,7 +21,8 @@
                 var paperId = element.getAttribute('data');
                 if (data['publications'] && data['publications'][paperId]) {
                     var numCitations = data['publications'][paperId]['num_citations'];
-                    element.innerHTML = ' | Citations: ' + numCitations;
+                    element.className = 'citation-badge';
+                    element.innerHTML = '<span class="citation-icon">&#x1F4D6;</span>' + numCitations + ' cited';
                 }
             });
         });
