@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
 Hi, there! I'm Hanrong Zhang (张涵容), a Ph.D. Student in Computer Science at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) (IEEE/ACM Fellow). Prior to this, I received my MEng degree in Computer Engineering from Zhejiang University. I was also a research scientist intern at Alibaba Group.
@@ -54,6 +61,8 @@ If you are interested in academic collaboration or discussion, please feel free 
 
 
 # 📝 Publications
+
+My published papers can be found at <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>.
 
 ### * denotes Equal Contribution
 

@@ -1,0 +1,29 @@
+<script>
+    $(document).ready(function () {
+        {% if site.google_scholar_stats_use_cdn %}
+        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        {% else %}
+        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        {% endif %}
+        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+            var totalCitElement = document.getElementById('total_cit');
+            if (totalCitElement) {
+                totalCitElement.innerHTML = data['citedby'];
+            }
+
+            var scholar_url = document.getElementsByClassName('scholar_url');
+            Array.prototype.forEach.call(scholar_url, function(element) {
+                element.href = "https://scholar.google.com/citations?user=" + data['scholar_id'];
+            });
+
+            var citationEles = document.getElementsByClassName('show_paper_citations');
+            Array.prototype.forEach.call(citationEles, function(element) {
+                var paperId = element.getAttribute('data');
+                if (data['publications'] && data['publications'][paperId]) {
+                    var numCitations = data['publications'][paperId]['num_citations'];
+                    element.innerHTML = ' | Citations: ' + numCitations;
+                }
+            });
+        });
+    })
+</script>
