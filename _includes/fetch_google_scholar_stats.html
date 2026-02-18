@@ -16,13 +16,13 @@
                 element.href = "https://scholar.google.com/citations?user=" + data['scholar_id'];
             });
 
-            var citationEles = document.getElementsByClassName('show_paper_citations');
-            Array.prototype.forEach.call(citationEles, function(element) {
+            var citationEles = [].slice.call(document.getElementsByClassName('show_paper_citations'));
+            citationEles.forEach(function(element) {
                 var paperId = element.getAttribute('data');
                 if (data['publications'] && data['publications'][paperId]) {
                     var numCitations = data['publications'][paperId]['num_citations'];
-                    element.className = 'citation-badge';
-                    element.innerHTML = '<span class="citation-icon">&#x1F4D6;</span>' + numCitations + ' cited';
+                    element.classList.add('citation-badge');
+                    element.innerHTML = '<i class="ai ai-google-scholar"></i> ' + numCitations + ' cited';
                 }
             });
         });
