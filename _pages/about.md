@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! I'm Hanrong Zhang (张涵容), a CS Ph.D. Student at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) (IEEE Fellow/ACM Fellow). Prior to this, I received my Master degree in Computer Engineering from Zhejiang University. I was also a research intern at Alibaba Group.
+Hi, there! I'm Hanrong Zhang (张涵容), a CS Ph.D. Student at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) (IEEE Fellow/ACM Fellow), also an incoming Google student researcher in 2026 summer. I received my Master degree in Computer Engineering from Zhejiang University. I was also a research intern at Alibaba Group.
 
 My research interests lie in:
 - **LLM Agent**: Agent Training; Tool Learning; Data Synthethis; Agentic RL; Agent Safety and Security;
@@ -30,6 +30,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 <!-- 📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!** -->
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 I will join Google as a student researcher in 2026 summer.
 - *2026.01*: &nbsp;🎉🎉 Invited as a reviewer for [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), ECCV 2026, ICML 2026, KDD 2026.
 - *2025.11*: &nbsp;🎉🎉 Invited as a reviewer for [TMLR](https://jmlr.org/tmlr/).
 - *2025.10*: &nbsp;🎉🎉 Invited as a reviewer for ICLR 2026, CVPR 2026, [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
