@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! I'm Hanrong Zhang (张涵容), a CS Ph.D. Student at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) (IEEE Fellow/ACM Fellow), also an incoming Google student researcher in 2026 summer. I received my Master degree in Computer Engineering from Zhejiang University. I was also a research intern at Alibaba Group.
+Hi, there! I'm Hanrong Zhang (张涵容), a CS PhD Student at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) (IEEE Fellow/ACM Fellow), also an incoming Google Student Researcher in 2026 summer. I received my Master degree in Computer Engineering from Zhejiang University. I was also a research intern at Alibaba Group.
 
 My research interests lie in:
 - **LLM Agent**: Agent Training; Tool Learning; Data Synthethis; Agentic RL; Agent Safety and Security;
@@ -30,7 +30,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 <!-- 📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!** -->
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 I will join Google as a student researcher in 2026 summer.
+- *2026.02*: &nbsp;🎉🎉 I will join Google as a Student Researcher in 2026 summer.
 - *2026.01*: &nbsp;🎉🎉 Invited as a reviewer for [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), ECCV 2026, ICML 2026, KDD 2026.
 - *2025.11*: &nbsp;🎉🎉 Invited as a reviewer for [TMLR](https://jmlr.org/tmlr/).
 - *2025.10*: &nbsp;🎉🎉 Invited as a reviewer for ICLR 2026, CVPR 2026, [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
@@ -45,18 +45,18 @@ If you are interested in academic collaboration or discussion, please feel free 
 
 # 📖 Educations
 - **University of Illinois Chicago** | Aug. 2025 -- Present <br>
-  Ph.D. Computer Science, USA<br>
+  Ph.D. in Computer Science, USA<br>
   Supervisor: Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ)
 
 - **Zhejiang University** | Sep. 2022 -- Mar. 2025 <br>
-  MEng. Computer Engineering, China<br>
+  Master of Engineering in Computer Engineering, China<br>
   **Ranking: 1/82**; Supervisor: Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang)
 
 - **University of Leeds** (QS 75) | Sep. 2018 -- Jun. 2022<br>
-  BSc. Computer Science - **Honors First Class Degree**, United Kingdom
+  Bchelor of Science in Computer Science - **Honors First Class Degree**, United Kingdom
 
 - **Southwest Jiaotong University** | Sep. 2018 -- Jun. 2022<br>
-  BEng. Computer Science and Technology, China<br>
+  Bchelor of Engineering in Computer Science and Technology, China<br>
   **Ranking: 1/75**; Supervisor: Prof. [Tianrui Li](https://scholar.google.com/citations?user=CQ1HneMAAAAJ)
 
 
@@ -135,8 +135,10 @@ Worked as a core contributor <span class='show_paper_citations' data='qG5_O40AAA
 Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review) <span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span>
 
 # 💻 Internships
-- Research Scientist Intern, Alibaba Group, 2025.05 - 2025.08
+- Student Researcher, Google, 2026.05 - 2026.08 (upcoming)
+- Research Intern, Alibaba Group, 2025.05 - 2025.08
     - Research on RL for Human-Agent Multi-turn Interaction
+
 
 
 # 🎖 Honors and Awards
@@ -192,9 +194,9 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 
 
 
-# 💻 Teachings
-- Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergraduates)
-- Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
+<!-- # 💻 Teachings
+- Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergrad)
+- Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for grad) -->
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=794&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ'></script>
