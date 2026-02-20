@@ -53,10 +53,10 @@ If you are interested in academic collaboration or discussion, please feel free 
   **Ranking: 1/82**; Supervisor: Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang)
 
 - **University of Leeds** (QS 75) | Sep. 2018 -- Jun. 2022<br>
-  Bchelor of Science in Computer Science - **Honors First Class Degree**, United Kingdom
+  Bachelor of Science in Computer Science - **Honors First Class Degree**, United Kingdom
 
 - **Southwest Jiaotong University** | Sep. 2018 -- Jun. 2022<br>
-  Bchelor of Engineering in Computer Science and Technology, China<br>
+  Bachelor of Engineering in Computer Science and Technology, China<br>
   **Ranking: 1/75**; Supervisor: Prof. [Tianrui Li](https://scholar.google.com/citations?user=CQ1HneMAAAAJ)
 
 
