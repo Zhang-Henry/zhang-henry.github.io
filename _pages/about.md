@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! I'm Hanrong Zhang (张涵容), a CS PhD Student at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ) (IEEE Fellow/ACM Fellow), also an incoming Google Student Researcher in 2026 summer. I received my Master degree in Computer Engineering from Zhejiang University. I was also a research intern at Alibaba Group.
+Hi, there! I'm Hanrong Zhang (张涵容), a CS PhD Student at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) (IEEE Fellow/ACM Fellow), also an incoming Google Student Researcher in 2026 summer. I received my Master degree in Computer Engineering from Zhejiang University. I was also a research intern at Alibaba Group.
 
 My research interests lie in:
 - **LLM Agent**: Agent Training; Tool Learning; Data Synthethis; Agentic RL; Agent Safety and Security;
@@ -46,7 +46,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 # 📖 Educations
 - **University of Illinois Chicago** | Aug. 2025 -- Present <br>
   Ph.D. in Computer Science, USA<br>
-  Supervisor: Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ)
+  Supervisor: Prof. [Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
 
 - **Zhejiang University** | Sep. 2022 -- Mar. 2025 <br>
   Master of Engineering in Computer Engineering, China<br>
