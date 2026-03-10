@@ -60,7 +60,7 @@ If you are interested in academic collaboration or discussion, please feel free 
   **Ranking: 1/75**; Supervisor: Prof. [Tianrui Li](https://scholar.google.com/citations?user=CQ1HneMAAAAJ)
 
 # 💻 Internships
-- Student Researcher, **Google**, 2026.05 - 2026.08 (upcoming)
+- Student Researcher, **Google**, 2026.05 - 2026.08 (incoming)
 - Research Intern, **Alibaba Group**, 2025.05 - 2025.08
     - Research on RL for Human-Agent Multi-turn Interaction
 
