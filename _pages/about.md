@@ -137,7 +137,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 ## Machine Learning and Data Mining:
 1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
 **Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
-IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:3fE2CSJIrl8C'></span>
+IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span>
 
 1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
 Xingyue Wang\*, **Hanrong Zhang**\*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
