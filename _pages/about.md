@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! I'm Hanrong Zhang (张涵容), a CS PhD Student at the University of Illinois Chicago, fortunate to be advised by Prof. [Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) (IEEE Fellow/ACM Fellow), also an incoming Google Student Researcher in 2026 summer. I received my Master degree in Computer Engineering from Zhejiang University. I was also a research intern at Alibaba Group.
+Hi, there! I'm Hanrong Zhang (张涵容), a CS PhD Student advised by Prof. [Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) (IEEE Fellow/ACM Fellow), also an incoming Google Student Researcher in 2026 summer. I received my Master degree from Zhejiang University, where I was honored as an Outstanding Graduate in Zhejiang Province and at Zhejiang University, and received the National Scholarship twice. I was also a research intern at Alibaba Group.
 
 My research interests lie in:
 - **LLM Agent**: Agent Training; Tool Learning; Data Synthethis; Agentic RL; Agent Safety and Security;
@@ -25,7 +25,7 @@ My research interests lie in:
 <!--- **Machine Learning and Data Mining**: ML for Industrial Fault Diagnosis, Self-supervised Learning-->
 <!-- - **Machine Learning and Data Mining**: ML for Industrial Fault Diagnosis, Anomaly/Out-of-Distribution Detection; ML for Healthcare;-->
 
-If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com.
+<!-- If you are interested in academic collaboration or discussion, please feel free to contact me zhanghr0709 [AT]  gmail.com. -->
 
 <!-- 📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!** -->
 
@@ -68,19 +68,39 @@ If you are interested in academic collaboration or discussion, please feel free 
 
 <div class="opensource-grid">
   <div class="opensource-card">
-    <h3><a href="https://github.com/OpenLAIR/dr-claw">Dr. Claw</a></h3>
-    <p>AI Research Assistant — Full-stack research workspace</p>
-    <a href="https://github.com/OpenLAIR/dr-claw"><img src="https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social" alt="GitHub stars"></a>
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/OpenLAIR/dr-claw" class="opensource-repo-name">OpenLAIR / <strong>dr-claw</strong></a>
+    </div>
+    <p class="opensource-desc">A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power</p>
+    <div class="opensource-meta">
+      <a href="https://github.com/OpenLAIR/dr-claw/stargazers"><img src="https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/OpenLAIR/dr-claw/network/members"><img src="https://img.shields.io/github/forks/OpenLAIR/dr-claw?style=social" alt="GitHub forks"></a>
+    </div>
   </div>
   <div class="opensource-card">
-    <h3><a href="https://github.com/agiresearch/ASB">Agent Security Bench</a></h3>
-    <p>Benchmarking attacks &amp; defenses in LLM-based agents (ICLR 2025)</p>
-    <a href="https://github.com/agiresearch/ASB"><img src="https://img.shields.io/github/stars/agiresearch/ASB?style=social" alt="GitHub stars"></a>
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/agiresearch/ASB" class="opensource-repo-name">agiresearch / <strong>ASB</strong></a>
+    </div>
+    <p class="opensource-desc">Benchmarking attacks &amp; defenses in LLM-based agents</p>
+    <span class="opensource-venue">ICLR 2025</span>
+    <div class="opensource-meta">
+      <a href="https://github.com/agiresearch/ASB/stargazers"><img src="https://img.shields.io/github/stars/agiresearch/ASB?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/agiresearch/ASB/network/members"><img src="https://img.shields.io/github/forks/agiresearch/ASB?style=social" alt="GitHub forks"></a>
+    </div>
   </div>
   <div class="opensource-card">
-    <h3><a href="https://github.com/Zhang-Henry/INACTIVE">INACTIVE</a></h3>
-    <p>Invisible Backdoor Attack against Self-supervised Learning (CVPR 2025)</p>
-    <a href="https://github.com/Zhang-Henry/INACTIVE"><img src="https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social" alt="GitHub stars"></a>
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/Zhang-Henry/INACTIVE" class="opensource-repo-name">Zhang-Henry / <strong>INACTIVE</strong></a>
+    </div>
+    <p class="opensource-desc">Invisible Backdoor Attack against Self-supervised Learning</p>
+    <span class="opensource-venue">CVPR 2025</span>
+    <div class="opensource-meta">
+      <a href="https://github.com/Zhang-Henry/INACTIVE/stargazers"><img src="https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/Zhang-Henry/INACTIVE/network/members"><img src="https://img.shields.io/github/forks/Zhang-Henry/INACTIVE?style=social" alt="GitHub forks"></a>
+    </div>
   </div>
 </div>
 
