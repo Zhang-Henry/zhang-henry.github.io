@@ -106,7 +106,7 @@ My research interests lie in:
 
 # 📝 Publications
 
-Current citations: <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>. \* denotes Equal Contribution
+Current citation: <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>. \* denotes Equal Contribution.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,12 +124,12 @@ Current citations: <a class='scholar_url' href='https://scholar.google.com/citat
 ## Trustworthy ML:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) <br>
-Proceedings of the Thirteenth International Conference on Learning Representations (ICLR), 2025.
+ICLR 2025
 \[[code](https://github.com/agiresearch/ASB)\] \[[website](https://luckfort.github.io/ASBench/)\] ![GitHub stars](https://img.shields.io/github/stars/agiresearch/ASB?style=social) <span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span>
 
 1. [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
 **Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) <br>
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+CVPR 2025
 \[[code](https://github.com/Zhang-Henry/INACTIVE)\] ![GitHub stars](https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social) <span class='show_paper_citations' data='qG5_O40AAAAJ:UebtZRa9Y70C'></span>
 
 
@@ -153,20 +153,20 @@ Service Oriented Computing and Applications <span class='show_paper_citations' d
 
 1. [An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources](https://ieeexplore.ieee.org/abstract/document/10035077)<br>
 **Hanrong Zhang**, Xinyue Wang, Bo Qin, Hongwei Wang<br>
-IEEE International Conference on e-Business Engineering (ICEBE 2022) <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span>
+IEEE ICEBE 2022 <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span>
 
 
 1. [Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10152774)<br>
 Wanqiu Huang, **Hanrong Zhang**, Peng Peng, Hongwei Wang<br>
-International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2023, **Best Paper Award Finalist**) <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
+IEEE CSCWD 2023, **Best Paper Award Finalist** <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
 
 1. [Debiasing Medical Visual Question Answering via Counterfactual Training](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)<br>
 Chenlu Zhan\*, Peng Peng\*, **Hanrong Zhang**, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang<br>
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) <span class='show_paper_citations' data='qG5_O40AAAAJ:qjMakFHDy7sC'></span>
+MICCAI 2023 <span class='show_paper_citations' data='qG5_O40AAAAJ:qjMakFHDy7sC'></span>
 
 1. [Industrial Data Synthesis Framework for Fault Diagnosis Using Diffusion and Flow-Based Models](https://ieeexplore.ieee.org/abstract/document/11033333/)<br>
 Shuting Tao, Xiangming Meng, **Hanrong Zhang**, Hongwei Wang<br>
-International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2025) <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC8C'></span>
+IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC8C'></span>
 
 ## Preprint:
 1. [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://www.arxiv.org/pdf/2602.06052)<br>
@@ -209,12 +209,12 @@ Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint,
 
 # 📝 Academic Service
 ## Conference Program Committee/Reviewer
-- International Conference on Learning Representations (ICLR) 2026
-- International Conference on Machine Learning (ICML) 2026
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
-- European Conference on Computer Vision (ECCV) 2026
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
-- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2026
+- ICLR 2026
+- ICML 2026
+- CVPR 2026
+- ECCV 2026
+- KDD 2026
+- MICCAI 2026
 
 ## Journal Reviewer
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
