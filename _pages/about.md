@@ -64,6 +64,26 @@ If you are interested in academic collaboration or discussion, please feel free 
 - Research Intern, **Alibaba Group**, 2025.05 - 2025.08
     - Research on RL for Human-Agent Multi-turn Interaction
 
+# 🛠️ Open Source Projects
+
+<div class="opensource-grid">
+  <div class="opensource-card">
+    <h3><a href="https://github.com/OpenLAIR/dr-claw">Dr. Claw</a></h3>
+    <p>AI Research Assistant — Full-stack research workspace</p>
+    <a href="https://github.com/OpenLAIR/dr-claw"><img src="https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social" alt="GitHub stars"></a>
+  </div>
+  <div class="opensource-card">
+    <h3><a href="https://github.com/agiresearch/ASB">Agent Security Bench</a></h3>
+    <p>Benchmarking attacks &amp; defenses in LLM-based agents (ICLR 2025)</p>
+    <a href="https://github.com/agiresearch/ASB"><img src="https://img.shields.io/github/stars/agiresearch/ASB?style=social" alt="GitHub stars"></a>
+  </div>
+  <div class="opensource-card">
+    <h3><a href="https://github.com/Zhang-Henry/INACTIVE">INACTIVE</a></h3>
+    <p>Invisible Backdoor Attack against Self-supervised Learning (CVPR 2025)</p>
+    <a href="https://github.com/Zhang-Henry/INACTIVE"><img src="https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social" alt="GitHub stars"></a>
+  </div>
+</div>
+
 # 📝 Publications
 
 My published papers can be found at <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>.
@@ -98,8 +118,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 ## Machine Learning and Data Mining:
 1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
 **Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
-IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
-<span class='show_paper_citations' data='qG5_O40AAAAJ:3fE2CSJIrl8C'></span>
+IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:3fE2CSJIrl8C'></span>
 
 1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
 Xingyue Wang\*, **Hanrong Zhang**\*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>

@@ -433,3 +433,51 @@
     margin-right: 3px;
   }
 }
+
+
+/*
+   Open Source Projects grid
+   ========================================================================== */
+
+.opensource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1em;
+  margin: 1em 0 1.5em;
+}
+
+.opensource-card {
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  padding: 1.2em;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(#000, 0.1);
+    transform: translateY(-2px);
+  }
+
+  h3 {
+    margin: 0 0 0.4em;
+    font-size: 1.1em;
+
+    a {
+      text-decoration: none;
+      color: $link-color;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  p {
+    margin: 0 0 0.6em;
+    font-size: 0.9em;
+    color: mix(#fff, #000, 30%);
+  }
+
+  img {
+    vertical-align: middle;
+  }
+}
