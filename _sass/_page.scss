@@ -496,15 +496,17 @@
 }
 
 .opensource-venue {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   font-size: 0.75em;
   font-weight: 600;
   padding: 2px 8px;
   border-radius: 12px;
   background: #dafbe1;
   color: #1a7f37;
-  margin-left: auto;
   white-space: nowrap;
+  height: 20px;
+  line-height: 20px;
 }
 
 .opensource-meta {
