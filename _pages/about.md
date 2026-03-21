@@ -124,12 +124,12 @@ Current citation: <a class='scholar_url' href='https://scholar.google.com/citati
 ## LLM Agents:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
 **Hanrong Zhang**, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br>
-ICLR 2025
-\[[code](https://github.com/agiresearch/ASB)\] \[[website](https://luckfort.github.io/ASBench/)\] ![GitHub stars](https://img.shields.io/github/stars/agiresearch/ASB?style=social) <span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span>
+**ICLR 2025**
+\[[website](https://luckfort.github.io/ASBench/)\] [![GitHub stars](https://img.shields.io/github/stars/agiresearch/ASB?style=social)](https://github.com/agiresearch/ASB) <span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span>
 
 1. [GAM: Hierarchical Graph Memory for LLM-based Agents](#)<br>
-Zhaofen Wu*, **Hanrong Zhang***, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang<br>
-ICLR 2026 Workshop MemAgents
+Zhaofen Wu\*, **Hanrong Zhang**\*, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang<br>
+**ICLR 2026 Workshop MemAgents**
 
 1. [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://www.arxiv.org/pdf/2602.06052)<br>
 Worked as a core contributor <span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span>
@@ -138,34 +138,34 @@ Worked as a core contributor <span class='show_paper_citations' data='qG5_O40AAA
 ## Machine Learning and Data Mining:
 1. [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
 **Hanrong Zhang**\*, Zhenting Wang\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma <br>
-CVPR 2025
-\[[code](https://github.com/Zhang-Henry/INACTIVE)\] ![GitHub stars](https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social) <span class='show_paper_citations' data='qG5_O40AAAAJ:UebtZRa9Y70C'></span>
+**CVPR 2025**
+[![GitHub stars](https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social)](https://github.com/Zhang-Henry/INACTIVE) <span class='show_paper_citations' data='qG5_O40AAAAJ:UebtZRa9Y70C'></span>
 
 1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
 **Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
-IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span>
+**IEEE Transactions on Industrial Informatics** (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span>
 
 1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
 Xingyue Wang\*, **Hanrong Zhang**\*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
-IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span>
+**IEEE Transactions on Industrial Informatics** (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span>
 
 1. [Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection](https://ieeexplore.ieee.org/abstract/document/10114639)<br>
 Peng Peng\*, **Hanrong Zhang**\*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
-IEEE Sensors Journal (IF=4.3, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
+**IEEE Sensors Journal** (IF=4.3, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
 
 
 1. [SAKA: an intelligent platform for semi-automated knowledge graph construction and application](https://link.springer.com/article/10.1007/s11761-023-00371-x)<br>
 **Hanrong Zhang**, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
-Service Oriented Computing and Applications <span class='show_paper_citations' data='qG5_O40AAAAJ:d1gkVwhDpl0C'></span>
+**Service Oriented Computing and Applications** <span class='show_paper_citations' data='qG5_O40AAAAJ:d1gkVwhDpl0C'></span>
 
 1. [An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources](https://ieeexplore.ieee.org/abstract/document/10035077)<br>
 **Hanrong Zhang**, Xinyue Wang, Bo Qin, Hongwei Wang<br>
-IEEE ICEBE 2022 <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span>
+**IEEE ICEBE 2022** <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span>
 
 
 1. [Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10152774)<br>
 Wanqiu Huang, **Hanrong Zhang**, Peng Peng, Hongwei Wang<br>
-IEEE CSCWD 2023, **Best Paper Award Finalist** <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
+**IEEE CSCWD 2023**, **Best Paper Award Finalist** <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
 
 1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
 Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review) <span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span>
