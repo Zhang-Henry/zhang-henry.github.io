@@ -167,6 +167,9 @@ IEEE ICEBE 2022 <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO
 Wanqiu Huang, **Hanrong Zhang**, Peng Peng, Hongwei Wang<br>
 IEEE CSCWD 2023, **Best Paper Award Finalist** <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
 
+1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
+Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review) <span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span>
+
 <!-- 1. [Debiasing Medical Visual Question Answering via Counterfactual Training](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)<br>
 Chenlu Zhan\*, Peng Peng\*, **Hanrong Zhang**, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang<br>
 MICCAI 2023 <span class='show_paper_citations' data='qG5_O40AAAAJ:TFP_iSt0sucC'></span>
@@ -175,8 +178,6 @@ MICCAI 2023 <span class='show_paper_citations' data='qG5_O40AAAAJ:TFP_iSt0sucC'>
 Shuting Tao, Xiangming Meng, **Hanrong Zhang**, Hongwei Wang<br>
 IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC8C'></span> -->
 
-1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
-Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review) <span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span>
 
 
 # 🎖 Honors and Awards
