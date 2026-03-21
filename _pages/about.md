@@ -162,7 +162,7 @@ IEEE CSCWD 2023, **Best Paper Award Finalist** <span class='show_paper_citations
 
 1. [Debiasing Medical Visual Question Answering via Counterfactual Training](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)<br>
 Chenlu Zhan\*, Peng Peng\*, **Hanrong Zhang**, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang<br>
-MICCAI 2023 <span class='show_paper_citations' data='qG5_O40AAAAJ:qjMakFHDy7sC'></span>
+MICCAI 2023 <span class='show_paper_citations' data='qG5_O40AAAAJ:TFP_iSt0sucC'></span>
 
 1. [Industrial Data Synthesis Framework for Fault Diagnosis Using Diffusion and Flow-Based Models](https://ieeexplore.ieee.org/abstract/document/11033333/)<br>
 Shuting Tao, Xiangming Meng, **Hanrong Zhang**, Hongwei Wang<br>
