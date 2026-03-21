@@ -104,7 +104,7 @@ My research interests lie in:
   </div>
 </div>
 
-# 📝 Selected Publications
+# 📝 Selected Publications and Preprints
 
 Current citation: <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>. \* denotes Equal Contribution.
 
@@ -187,25 +187,24 @@ IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC
 - **National Scholarship for Graduate Students (Top 0.2%)**, ZJU, 2022 - 2023
 - **First-class full-ride Scholarship (1/75, ￥62000)**, UoL, 2020 - 2021
 - **National Scholarship for Undergraduate Students (Top 0.2%)**, SWJTU, 2019 - 2020
-- Second-class Scholarship (3/75, ￥25000), UoL, 2018 - 2019
+<!-- - Second-class Scholarship (3/75, ￥25000), UoL, 2018 - 2019 -->
 
 ## Academic Awards
-- **Outstanding Graduate in Zhejiang Province**, ZJU, 2025
-- **Outstanding Graduate at Zhejiang University**, ZJU, 2025
-- Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024
-- Graduate with Merit A Performance, ZJU, 2022 - 2023
+- **Outstanding Graduate in Zhejiang Province and at Zhejiang University**, ZJU, 2025
+<!-- - Award of Honor for Graduate, ZJU, 2022 - 2023, 2023 - 2024
+- Graduate with Merit A Performance, ZJU, 2022 - 2023 -->
 - **Provincial Outstanding Graduate**, SWJTU, 2022
 - **Best Student in Computer Science (1/75)**, UoL, 2020 - 2021
 - **Best Student Overall (1/300, 4 majors)**, UoL, 2018 - 2019
-- Pacemaker to Merit Student (Top 1%), SWJTU, 2018 - 2019 & 2019 - 2020 & 2020 - 2021
+<!-- - Pacemaker to Merit Student (Top 1%), SWJTU, 2018 - 2019 & 2019 - 2020 & 2020 - 2021 -->
 
 ## Competition Awards
-- Mathematical Modeling Contest for College Students, *National Second Prize (Top 0.5% of 45,000 teams)*, Sep. 2020
-- Students Service Outsourcing Innovation and Entrepreneurship Competition, *National Second Prize (Top 3%)*, Aug. 2020
-- MathorCup College Mathematical Modeling Competition,  *First Prize (Top 3%)*, May 2020
-- May Day Mathematical Modeling Competition, *First Prize (Top 3%)*, May 2020
-- Asia-Pacific Mathematical Modeling Contest, *First Prize (Top 3%)*, Nov. 2019
-- Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize (Top 3%)*, Nov. 2019
+- Mathematical Modeling Contest for College Students, *National Second Prize*, Sep. 2020
+- Students Service Outsourcing Innovation and Entrepreneurship Competition, *National Second Prize*, Aug. 2020
+- MathorCup College Mathematical Modeling Competition,  *First Prize*, May 2020
+- May Day Mathematical Modeling Competition, *First Prize*, May 2020
+- Asia-Pacific Mathematical Modeling Contest, *First Prize*, Nov. 2019
+- Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize*, Nov. 2019
 <!--- American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020-->
 
 
@@ -228,8 +227,8 @@ IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC
 - [IEEE Transactions on Computational Biology and Bioinformatics]()
 - [IEEE Transactions on Industrial Cyber-Physical Systems]()
 
-## Volunteer
-- ICLR 2025
+<!-- ## Volunteer
+- ICLR 2025 -->
 
 
 
