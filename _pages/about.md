@@ -106,7 +106,7 @@ My research interests lie in:
 
 # 📝 Selected Publications and Preprints
 
-Current citation: <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>. \* denotes Equal Contribution.
+\* denotes Equal Contribution. <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
