@@ -104,7 +104,7 @@ My research interests lie in:
   </div>
 </div>
 
-# 📝 Publications
+# 📝 Selected Publications
 
 Current citation: <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>. \* denotes Equal Contribution.
 
@@ -121,19 +121,26 @@ Current citation: <a class='scholar_url' href='https://scholar.google.com/citati
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-## Trustworthy ML:
+## LLM Agents:
 1. [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644)<br>
-**Hanrong Zhang**, Jingyuan Huang, [Kai Mei](https://dongyuanjushi.github.io/), Yifei Yao, [Zhenting Wang](https://zhentingwang.github.io/), Chenlu Zhan, Hongwei Wang, [Yongfeng Zhang](https://yongfeng.me/) <br>
+**Hanrong Zhang**, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang <br>
 ICLR 2025
 \[[code](https://github.com/agiresearch/ASB)\] \[[website](https://luckfort.github.io/ASBench/)\] ![GitHub stars](https://img.shields.io/github/stars/agiresearch/ASB?style=social) <span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span>
 
-1. [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
-**Hanrong Zhang**\*, [Zhenting Wang](https://zhentingwang.github.io/)\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) <br>
-CVPR 2025
-\[[code](https://github.com/Zhang-Henry/INACTIVE)\] ![GitHub stars](https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social) <span class='show_paper_citations' data='qG5_O40AAAAJ:UebtZRa9Y70C'></span>
+1. [GAM: Hierarchical Graph Memory for LLM-based Agents](#)<br>
+Zhaofen Wu*, **Hanrong Zhang***, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang<br>
+ICLR 2026 Workshop MemAgents
+
+1. [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://www.arxiv.org/pdf/2602.06052)<br>
+Worked as a core contributor <span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span>
 
 
 ## Machine Learning and Data Mining:
+1. [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)<br>
+**Hanrong Zhang**\*, Zhenting Wang\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma <br>
+CVPR 2025
+\[[code](https://github.com/Zhang-Henry/INACTIVE)\] ![GitHub stars](https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social) <span class='show_paper_citations' data='qG5_O40AAAAJ:UebtZRa9Y70C'></span>
+
 1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
 **Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
 IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span>
@@ -160,22 +167,16 @@ IEEE ICEBE 2022 <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO
 Wanqiu Huang, **Hanrong Zhang**, Peng Peng, Hongwei Wang<br>
 IEEE CSCWD 2023, **Best Paper Award Finalist** <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
 
-1. [Debiasing Medical Visual Question Answering via Counterfactual Training](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)<br>
+<!-- 1. [Debiasing Medical Visual Question Answering via Counterfactual Training](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)<br>
 Chenlu Zhan\*, Peng Peng\*, **Hanrong Zhang**, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang<br>
 MICCAI 2023 <span class='show_paper_citations' data='qG5_O40AAAAJ:TFP_iSt0sucC'></span>
 
 1. [Industrial Data Synthesis Framework for Fault Diagnosis Using Diffusion and Flow-Based Models](https://ieeexplore.ieee.org/abstract/document/11033333/)<br>
 Shuting Tao, Xiangming Meng, **Hanrong Zhang**, Hongwei Wang<br>
-IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC8C'></span>
-
-## Preprint:
-1. [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://www.arxiv.org/pdf/2602.06052)<br>
-Worked as a core contributor <span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span>
+IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC8C'></span> -->
 
 1. [From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion](https://arxiv.org/abs/2409.07757)<br>
 Yifei Yao\*, **Hanrong Zhang**\*, Xiaoxiao Li, Hongwei Wang, Ying Chi (preprint, Journal of Biomedical and Health Informatics Under Review) <span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span>
-
-
 
 
 # 🎖 Honors and Awards
