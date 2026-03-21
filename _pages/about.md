@@ -102,11 +102,22 @@ My research interests lie in:
       <span class="opensource-venue">CVPR 2025</span>
     </div>
   </div>
+  <div class="opensource-card">
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems" class="opensource-repo-name">HenryPengZou / <strong>Awesome-Human-Agent-Collaboration-Interaction-Systems</strong></a>
+    </div>
+    <p class="opensource-desc">LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey</p>
+    <div class="opensource-meta">
+      <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/stargazers"><img src="https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/network/members"><img src="https://img.shields.io/github/forks/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub forks"></a>
+    </div>
+  </div>
 </div>
 
 # 📝 Selected Publications and Preprints
 
-\* denotes Equal Contribution. <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>.
+\* denotes Equal Contribution. <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
