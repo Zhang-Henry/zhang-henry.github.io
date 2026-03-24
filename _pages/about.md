@@ -30,6 +30,7 @@ My research interests lie in:
 <!-- 📢  **I am actively looking for research internships for Summer 2026. Feel free to reach out if you think I am a good fit!** -->
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Invited as a reviewer for NeurIPS 2026.
 - *2026.02*: &nbsp;🎉🎉 I will join Google as a Student Researcher in 2026 summer.
 - *2026.01*: &nbsp;🎉🎉 Invited as a reviewer for [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), ECCV 2026, ICML 2026, KDD 2026.
 - *2025.11*: &nbsp;🎉🎉 Invited as a reviewer for [TMLR](https://jmlr.org/tmlr/).
@@ -222,6 +223,7 @@ IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC
 # 📝 Academic Service
 ## Conference Program Committee/Reviewer
 - ICLR 2026
+- NeurIPS 2026
 - ICML 2026
 - CVPR 2026
 - ECCV 2026
