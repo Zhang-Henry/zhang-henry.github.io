@@ -468,14 +468,14 @@
 
 .internship-logo {
   flex-shrink: 0;
-  width: 56px;
+  width: 72px;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
 
   img {
-    height: 18px;
-    width: auto;
+    width: 72px;
+    height: 22px;
     object-fit: contain;
   }
 }
@@ -483,12 +483,16 @@
 .internship-info {
   flex: 1;
   min-width: 0;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: 1em;
 
   .internship-role {
+    grid-column: 1;
+    grid-row: 1;
     font-size: 0.95em;
     font-weight: 600;
     color: $text-color;
-    margin: 0;
   }
 
   .internship-company {
@@ -497,16 +501,31 @@
   }
 
   .internship-date {
+    grid-column: 2;
+    grid-row: 1;
     font-size: 0.82em;
     color: #586069;
-    margin-top: 0.15em;
+    white-space: nowrap;
+    text-align: right;
+    align-self: baseline;
   }
 
   .internship-desc {
+    grid-column: 1;
+    grid-row: 2;
     font-size: 0.85em;
     color: #586069;
-    margin-top: 0.3em;
     line-height: 1.5;
+  }
+
+  .internship-location {
+    grid-column: 2;
+    grid-row: 2;
+    font-size: 0.82em;
+    color: #8b949e;
+    white-space: nowrap;
+    text-align: right;
+    align-self: baseline;
   }
 
   .internship-badge {
@@ -607,5 +626,535 @@
   img {
     vertical-align: middle;
     height: 20px;
+  }
+}
+
+/* ==========================================================================
+   Education list (card layout with left accent)
+   ========================================================================== */
+
+.education-list {
+  margin: 1em 0 1.5em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75em;
+}
+
+.education-item {
+  padding: 0.75em 1em;
+  border: 1px solid $border-color;
+  border-left: 3px solid $link-color;
+  border-radius: 6px;
+  background: #fff;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    border-color: darken($border-color, 15%);
+    box-shadow: 0 3px 12px rgba(#000, 0.08);
+  }
+
+  &.phd {
+    border-left-color: #c41e3a;
+    &:hover { border-left-color: #c41e3a; }
+  }
+
+  &.master {
+    border-left-color: #1a73e8;
+    &:hover { border-left-color: #1a73e8; }
+  }
+
+  &.bachelor {
+    border-left-color: #2ea44f;
+    &:hover { border-left-color: #2ea44f; }
+  }
+}
+
+.education-info {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: 1em;
+
+  .education-school {
+    font-size: 1.02em;
+    font-weight: 700;
+    color: $link-color;
+  }
+
+  .education-date {
+    font-size: 0.82em;
+    color: #586069;
+    white-space: nowrap;
+    text-align: right;
+    align-self: baseline;
+  }
+
+  .education-degree {
+    font-size: 0.9em;
+    font-weight: 500;
+    color: $text-color;
+  }
+
+  .education-location {
+    font-size: 0.82em;
+    color: #8b949e;
+    white-space: nowrap;
+    text-align: right;
+    align-self: baseline;
+  }
+
+  .education-detail {
+    grid-column: 1 / -1;
+    font-size: 0.85em;
+    color: #586069;
+    line-height: 1.5;
+
+    a {
+      color: $link-color;
+    }
+  }
+}
+
+.education-badge {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 600;
+  padding: 1px 8px;
+  border-radius: 12px;
+  vertical-align: middle;
+  margin-left: 0.4em;
+
+  &.current {
+    background: #fff3cd;
+    color: #856404;
+  }
+
+  &.honors {
+    background: #dafbe1;
+    color: #1a7f37;
+  }
+}
+
+.education-qs {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 600;
+  padding: 1px 8px;
+  border-radius: 12px;
+  background: #e8f0fe;
+  color: #1a73e8;
+  vertical-align: middle;
+  margin-left: 0.4em;
+}
+
+.education-highlight {
+  font-weight: 600;
+  color: $link-color;
+}
+
+/* ==========================================================================
+   Bio card (intro + research interests)
+   ========================================================================== */
+
+.bio-card {
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  padding: 1.2em 1.4em;
+  background: #fff;
+  margin: 0.5em 0 1.5em;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    border-color: darken($border-color, 15%);
+    box-shadow: 0 3px 12px rgba(#000, 0.08);
+  }
+}
+
+.bio-text {
+  font-size: 0.95em;
+  line-height: 1.7;
+  color: $text-color;
+  margin: 0 0 0.8em !important;
+
+  a {
+    color: $link-color;
+  }
+}
+
+.bio-interests {
+  padding-top: 0.8em;
+  border-top: 1px solid lighten($border-color, 5%);
+}
+
+.bio-interests-label {
+  display: block;
+  font-size: 0.82em;
+  font-weight: 700;
+  color: #586069;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.5em;
+}
+
+.bio-groups {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
+}
+
+.bio-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.bio-group-title {
+  font-size: 0.85em;
+  font-weight: 700;
+  color: $link-color;
+  margin-right: 0.3em;
+  white-space: nowrap;
+
+  &::after {
+    content: ':';
+  }
+}
+
+.bio-tag {
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: 500;
+  padding: 3px 10px;
+  border-radius: 14px;
+  background: #f1f3f5;
+  color: #586069;
+  white-space: nowrap;
+}
+
+
+/* ==========================================================================
+   News list (date badge + content)
+   ========================================================================== */
+
+.news-list {
+  margin: 1em 0 1.5em;
+  display: flex;
+  flex-direction: column;
+}
+
+.news-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8em;
+  padding: 0.15em 0;
+  border-bottom: 1px solid lighten($border-color, 5%);
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.news-date {
+  flex-shrink: 0;
+  width: 66px;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #1a73e8;
+  background: #e8f0fe;
+  text-align: center;
+  padding: 2px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.news-content {
+  flex: 1;
+  font-size: 0.92em;
+  line-height: 1.55;
+  color: $text-color;
+
+  a {
+    color: $link-color;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+}
+
+/* ==========================================================================
+   Honors & Awards (grouped cards)
+   ========================================================================== */
+
+.awards-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin: 1em 0 1.5em;
+}
+
+.awards-card {
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  background: #fff;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    border-color: darken($border-color, 15%);
+    box-shadow: 0 3px 12px rgba(#000, 0.08);
+  }
+}
+
+.awards-card-header {
+  padding: 0.55em 1.2em;
+  font-size: 0.95em;
+  font-weight: 700;
+  color: $link-color;
+  background: lighten($border-color, 5%);
+  border-bottom: 1px solid $border-color;
+
+  i {
+    margin-right: 0.4em;
+    font-size: 0.9em;
+  }
+}
+
+.awards-card-body {
+  padding: 0;
+}
+
+.award-row {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  padding: 0.35em 1.2em;
+  border-bottom: 1px solid lighten($border-color, 5%);
+  font-size: 0.9em;
+  line-height: 1.4;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.award-name {
+  flex: 1;
+  min-width: 0;
+  font-weight: 600;
+  color: $text-color;
+}
+
+.award-note {
+  flex-shrink: 0;
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 600;
+  padding: 0 7px;
+  border-radius: 12px;
+  background: #dafbe1;
+  color: #1a7f37;
+  white-space: nowrap;
+}
+
+.award-result {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 600;
+  padding: 0 7px;
+  border-radius: 12px;
+  background: #e8f0fe;
+  color: #1a73e8;
+  white-space: nowrap;
+}
+
+.award-meta {
+  flex-shrink: 0;
+  font-size: 0.88em;
+  color: #586069;
+  white-space: nowrap;
+  margin-left: auto;
+}
+
+
+/* ==========================================================================
+   Academic Service (tag cards)
+   ========================================================================== */
+
+.service-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin: 1em 0 1.5em;
+}
+
+.service-card {
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  background: #fff;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    border-color: darken($border-color, 15%);
+    box-shadow: 0 3px 12px rgba(#000, 0.08);
+  }
+}
+
+.service-card-header {
+  padding: 0.55em 1.2em;
+  font-size: 0.95em;
+  font-weight: 700;
+  color: $link-color;
+  background: lighten($border-color, 5%);
+  border-bottom: 1px solid $border-color;
+
+  i {
+    margin-right: 0.4em;
+    font-size: 0.9em;
+  }
+}
+
+.service-card-body {
+  padding: 0.8em 1.2em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+
+.service-tag {
+  display: inline-block;
+  font-size: 0.82em;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 16px;
+  white-space: nowrap;
+
+  &.conf {
+    background: #e8f0fe;
+    color: #1a73e8;
+  }
+
+  &.journal {
+    background: #dafbe1;
+    color: #1a7f37;
+  }
+}
+
+
+/* ==========================================================================
+   Publications (clean list)
+   ========================================================================== */
+
+.pub-section-title {
+  font-size: 1em;
+  font-weight: 700;
+  color: $text-color;
+  margin: 1.2em 0 0.5em;
+}
+
+.pub-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1em;
+  counter-reset: pub-counter;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  background: #fff;
+  overflow: hidden;
+}
+
+.pub-item {
+  display: flex;
+  gap: 0.6em;
+  padding: 0.55em 1em;
+  counter-increment: pub-counter;
+  font-size: 0.9em;
+  line-height: 1.5;
+  border-bottom: 1px solid lighten($border-color, 5%);
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &::before {
+    content: counter(pub-counter) ".";
+    flex-shrink: 0;
+    font-weight: 600;
+    color: #586069;
+    min-width: 1.2em;
+    padding-top: 0.05em;
+  }
+}
+
+.pub-content {
+  flex: 1;
+  min-width: 0;
+
+  a {
+    color: $link-color;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  b {
+    color: $text-color;
+  }
+}
+
+.pub-me {
+  font-weight: 700;
+}
+
+.pub-award {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 600;
+  padding: 1px 8px;
+  border-radius: 12px;
+  background: #fff3cd;
+  color: #856404;
+  vertical-align: middle;
+}
+
+.pub-tag {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 1px 7px;
+  border-radius: 12px;
+  vertical-align: middle;
+
+  &.if {
+    background: #fff3cd;
+    color: #856404;
+  }
+
+  &.sci {
+    background: #dafbe1;
+    color: #1a7f37;
+  }
+}
+
+
+/* ==========================================================================
+   Language toggle visibility
+   ========================================================================== */
+
+.lang-zh {
+  display: none !important;
+}
+
+html.zh {
+  .lang-en {
+    display: none !important;
+  }
+  .lang-zh {
+    display: inline !important;
   }
 }

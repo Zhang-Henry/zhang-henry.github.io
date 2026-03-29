@@ -16,6 +16,8 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
+    display: flex;
+    align-items: center;
     padding: .5em;
     font-family: $sans-serif-narrow;
 
@@ -34,12 +36,37 @@
 }
 
 .masthead__menu {
+  flex: 1;
+  min-width: 0;
 
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+  }
+}
+
+.lang-toggle {
+  flex-shrink: 0;
+  margin-left: 0.5em;
+  background: transparent;
+  border: 1.5px solid $masthead-link-color;
+  color: $masthead-link-color;
+  padding: 2px 12px;
+  border-radius: 14px;
+  font-size: 0.78em;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: $sans-serif-narrow;
+  letter-spacing: 0.02em;
+  line-height: 1.6;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background: $masthead-link-color;
+    color: #fff;
   }
 }
 

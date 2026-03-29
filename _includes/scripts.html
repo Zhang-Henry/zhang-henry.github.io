@@ -1,4 +1,19 @@
 <script src="assets/js/main.min.js"></script>
 
+<script>
+function toggleLang() {
+  var html = document.documentElement;
+  if (html.classList.contains('zh')) {
+    html.classList.remove('zh');
+    localStorage.setItem('lang', 'en');
+  } else {
+    html.classList.add('zh');
+    localStorage.setItem('lang', 'zh');
+  }
+  // Trigger greedy-nav recalculation
+  window.dispatchEvent(new Event('resize'));
+}
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
