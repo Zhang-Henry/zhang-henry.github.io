@@ -218,7 +218,7 @@ IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC
 - MathorCup College Mathematical Modeling Competition,  *First Prize*, May 2020
 - May Day Mathematical Modeling Competition, *First Prize*, May 2020
 - Asia-Pacific Mathematical Modeling Contest, *First Prize*, Nov. 2019
-- Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize*, Nov. 2019
+<!-- - Mathematical Modeling Competition in Southwest Jiaotong University, *First Prize*, Nov. 2019 -->
 <!--- American College Student Mathematical Modeling Contest, *Honorable Mention (Top 10%)*, Jan. 2020-->
 
 
