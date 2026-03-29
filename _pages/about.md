@@ -143,8 +143,8 @@ Zhaofen Wu\*, **Hanrong Zhang**\*, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen
 **ICLR 2026 Workshop MemAgents**
 
 1. [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://www.arxiv.org/pdf/2602.06052)<br>
-Worked as a core contributor <span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span>
-preprint
+Worked as a core contributor
+preprint <span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span>
 
 
 ## Machine Learning and Data Mining:
