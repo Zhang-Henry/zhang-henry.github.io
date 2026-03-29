@@ -809,15 +809,14 @@
 }
 
 .bio-group-title {
-  font-size: 0.85em;
-  font-weight: 700;
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 14px;
+  background: rgba($link-color, 0.12);
   color: $link-color;
-  margin-right: 0.3em;
   white-space: nowrap;
-
-  &::after {
-    content: ':';
-  }
 }
 
 .bio-tag {

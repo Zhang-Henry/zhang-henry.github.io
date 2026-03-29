@@ -24,16 +24,20 @@ redirect_from:
   </p>
   <div class="bio-interests">
     <span class="bio-interests-label"><span class="lang-en">Research Interests</span><span class="lang-zh">研究方向</span></span>
-    <div class="bio-tags">
-      <span class="bio-tag primary">LLM Agent</span>
-      <span class="bio-tag">Agent Training</span>
-      <span class="bio-tag">Tool Learning</span>
-      <span class="bio-tag">Data Synthesis</span>
-      <span class="bio-tag">Agentic RL</span>
-      <span class="bio-tag">Agent Safety & Security</span>
-      <span class="bio-tag primary">Large Language Model</span>
-      <span class="bio-tag">LLM Reasoning</span>
-      <span class="bio-tag">LLM Post-training</span>
+    <div class="bio-groups">
+      <div class="bio-group">
+        <span class="bio-group-title">LLM Agent</span>
+        <span class="bio-tag">Agent Training</span>
+        <span class="bio-tag">Tool Learning</span>
+        <span class="bio-tag">Data Synthesis</span>
+        <span class="bio-tag">Agentic RL</span>
+        <span class="bio-tag">Agent Safety &amp; Security</span>
+      </div>
+      <div class="bio-group">
+        <span class="bio-group-title">LLM</span>
+        <span class="bio-tag">LLM Reasoning</span>
+        <span class="bio-tag">LLM Post-training</span>
+      </div>
     </div>
   </div>
 </div>
