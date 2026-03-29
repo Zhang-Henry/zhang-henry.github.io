@@ -439,6 +439,90 @@
    Open Source Projects grid
    ========================================================================== */
 
+/* ==========================================================================
+   Internship list
+   ========================================================================== */
+
+.internship-list {
+  margin: 1em 0 1.5em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.internship-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  padding: 1em 1.2em;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  background: #fff;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    border-color: darken($border-color, 15%);
+    box-shadow: 0 3px 12px rgba(#000, 0.08);
+  }
+}
+
+.internship-logo {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    max-width: 48px;
+    max-height: 48px;
+    object-fit: contain;
+  }
+}
+
+.internship-info {
+  flex: 1;
+  min-width: 0;
+
+  .internship-role {
+    font-size: 0.95em;
+    font-weight: 600;
+    color: $text-color;
+    margin: 0;
+  }
+
+  .internship-company {
+    font-weight: 700;
+    color: $link-color;
+  }
+
+  .internship-date {
+    font-size: 0.82em;
+    color: #586069;
+    margin-top: 0.15em;
+  }
+
+  .internship-desc {
+    font-size: 0.85em;
+    color: #586069;
+    margin-top: 0.3em;
+    line-height: 1.5;
+  }
+
+  .internship-badge {
+    display: inline-block;
+    font-size: 0.72em;
+    font-weight: 600;
+    padding: 1px 8px;
+    border-radius: 12px;
+    background: #fff3cd;
+    color: #856404;
+    margin-left: 0.5em;
+    vertical-align: middle;
+  }
+}
+
 .opensource-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));

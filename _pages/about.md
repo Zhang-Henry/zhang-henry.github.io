@@ -60,9 +60,28 @@ My research interests lie in:
   **Ranking: 1/75**; Supervisor: Prof. [Tianrui Li](https://scholar.google.com/citations?user=CQ1HneMAAAAJ)
 
 # 💻 Internships
-- Student Researcher, **Google**, 2026.05 - 2026.08 (incoming)
-- Research Intern, **Alibaba Group**, 2025.05 - 2025.08
-    - Research on RL for Human-Agent Multi-turn Interaction
+
+<div class="internship-list">
+  <div class="internship-item">
+    <div class="internship-logo">
+      <img src="/images/google-logo.png" alt="Google">
+    </div>
+    <div class="internship-info">
+      <div class="internship-role">Student Researcher · <span class="internship-company">Google</span> <span class="internship-badge">Incoming</span></div>
+      <div class="internship-date">2026.05 – 2026.08</div>
+    </div>
+  </div>
+  <div class="internship-item">
+    <div class="internship-logo">
+      <img src="/images/alibaba-logo.png" alt="Alibaba Group">
+    </div>
+    <div class="internship-info">
+      <div class="internship-role">Research Intern · <span class="internship-company">Alibaba Group</span></div>
+      <div class="internship-date">2025.05 – 2025.08</div>
+      <div class="internship-desc">Research on RL for Human-Agent Multi-turn Interaction</div>
+    </div>
+  </div>
+</div>
 
 # 🛠️ Open Source Projects
 
@@ -223,7 +242,7 @@ IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC
 
 
 # 📝 Academic Service
-- **Conference Program Committee/Reviewer**: ICLR (2026), ICML (2026), CVPR (2026), ECCV (2026), KDD (2026), MICCAI (2026)
+- **Conference Program Committee/Reviewer**: ICLR (2026), ICML (2026), NeurIPS (2026), CVPR (2026), ECCV (2026), KDD (2026), MICCAI (2026)
 - **Journal Reviewer**: TPAMI, TNNLS, Pattern Recognition, TMLR, IEEE Trans. on Industrial Informatics, IEEE Trans. on Reliability, IEEE Trans. on Computational Biology and Bioinformatics, IEEE Trans. on Industrial Cyber-Physical Systems
 
 <!-- ## Volunteer
