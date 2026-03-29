@@ -20,23 +20,23 @@ redirect_from:
 <div class="bio-card">
   <p class="bio-text">
     <span class="lang-en">Hi, there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (IEEE Fellow/ACM Fellow), also an incoming Google Student Researcher in 2026 summer. I received my Master degree from Zhejiang University, where I was honored as an Outstanding Graduate in Zhejiang Province and at Zhejiang University, and received the National Scholarship twice. I was also a research intern at Alibaba Group.</span>
-    <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校（UIC）计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授（IEEE Fellow / ACM Fellow），同时将于2026年夏季加入 Google 担任 Student Researcher。我于浙江大学获得硕士学位，曾获浙江省优秀毕业生及浙江大学优秀毕业生荣誉，两次获得国家奖学金。此前在阿里巴巴集团担任研究实习生。</span>
+    <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校（UIC）计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授（IEEE Fellow / ACM Fellow），同时将于2026年夏季加入 Google 担任 学生研究员。我于浙江大学获得硕士学位，曾获浙江省优秀毕业生及浙江大学优秀毕业生荣誉，两次获得国家奖学金。此前在阿里巴巴集团担任研究实习生。</span>
   </p>
   <div class="bio-interests">
     <span class="bio-interests-label"><span class="lang-en">Research Interests</span><span class="lang-zh">研究方向</span></span>
     <div class="bio-groups">
       <div class="bio-group">
-        <span class="bio-group-title">LLM Agent</span>
-        <span class="bio-tag">Agent Training</span>
-        <span class="bio-tag">Tool Learning</span>
-        <span class="bio-tag">Data Synthesis</span>
-        <span class="bio-tag">Agentic RL</span>
-        <span class="bio-tag">Agent Safety &amp; Security</span>
+        <span class="bio-group-title"><span class="lang-en">LLM Agent</span><span class="lang-zh">大语言模型智能体</span></span>
+        <span class="bio-tag"><span class="lang-en">Agent Training</span><span class="lang-zh">智能体训练</span></span>
+        <span class="bio-tag"><span class="lang-en">Tool Learning</span><span class="lang-zh">工具学习</span></span>
+        <span class="bio-tag"><span class="lang-en">Data Synthesis</span><span class="lang-zh">数据合成</span></span>
+        <span class="bio-tag"><span class="lang-en">Agentic RL</span><span class="lang-zh">智能体强化学习</span></span>
+        <span class="bio-tag"><span class="lang-en">Agent Safety &amp; Security</span><span class="lang-zh">智能体安全</span></span>
       </div>
       <div class="bio-group">
-        <span class="bio-group-title">LLM</span>
-        <span class="bio-tag">LLM Reasoning</span>
-        <span class="bio-tag">LLM Post-training</span>
+        <span class="bio-group-title"><span class="lang-en">LLM</span><span class="lang-zh">大语言模型</span></span>
+        <span class="bio-tag"><span class="lang-en">LLM Reasoning</span><span class="lang-zh">大模型推理</span></span>
+        <span class="bio-tag"><span class="lang-en">LLM Post-training</span><span class="lang-zh">大模型后训练</span></span>
       </div>
     </div>
   </div>
