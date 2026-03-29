@@ -247,19 +247,19 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/pdf/2501.09525">Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
-    <b>IEEE Trans. Industrial Informatics</b> (IF=12.3, SCI Q1 Top) <span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span>
+    <b>IEEE Trans. Industrial Informatics</b> <span class="pub-tag if">IF=12.3</span> <span class="pub-tag sci">SCI Q1 Top</span> <span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10510599">Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning</a><br>
     Xingyue Wang*, <span class="pub-me">Hanrong Zhang</span>*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
-    <b>IEEE Trans. Industrial Informatics</b> (IF=12.3, SCI Q1 Top) <span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span>
+    <b>IEEE Trans. Industrial Informatics</b> <span class="pub-tag if">IF=12.3</span> <span class="pub-tag sci">SCI Q1 Top</span> <span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10114639">Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection</a><br>
     Peng Peng*, <span class="pub-me">Hanrong Zhang</span>*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
-    <b>IEEE Sensors Journal</b> (IF=4.3, SCI Q1) <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
+    <b>IEEE Sensors Journal</b> <span class="pub-tag if">IF=4.3</span> <span class="pub-tag sci">SCI Q1</span> <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
