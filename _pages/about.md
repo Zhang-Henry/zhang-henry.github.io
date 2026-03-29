@@ -154,15 +154,15 @@ Worked as a core contributor <span class='show_paper_citations' data='qG5_O40AAA
 
 1. [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525)<br>
 **Hanrong Zhang**, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
-**IEEE Transactions on Industrial Informatics** (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span>
+**IEEE Transactions on Industrial Informatics** (**IF=12.3**, SCI Q1 Top) <span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span>
 
 1. [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)<br>
 Xingyue Wang\*, **Hanrong Zhang**\*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
-**IEEE Transactions on Industrial Informatics** (**IF=12.3**, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span>
+**IEEE Transactions on Industrial Informatics** (**IF=12.3**, SCI Q1 Top) <span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span>
 
 1. [Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection](https://ieeexplore.ieee.org/abstract/document/10114639)<br>
 Peng Peng\*, **Hanrong Zhang**\*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
-**IEEE Sensors Journal** (IF=4.3, JCR Q1 SCI) <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
+**IEEE Sensors Journal** (IF=4.3, SCI Q1) <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
 
 
 1. [SAKA: an intelligent platform for semi-automated knowledge graph construction and application](https://link.springer.com/article/10.1007/s11761-023-00371-x)<br>
