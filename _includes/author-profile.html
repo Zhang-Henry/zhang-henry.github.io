@@ -9,7 +9,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name"><span class="lang-en">{{ author.name }}</span><span class="lang-zh">{{ site.data.i18n.zh.name | default: author.name }}</span></h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -17,22 +17,22 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+        <li><div style="white-space: normal; margin-bottom: 1em;"><span class="lang-en">{{ site.description }}</span><span class="lang-zh">{{ site.data.i18n.zh.description | default: site.description }}</span></div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span class="lang-en">{{ author.location }}</span><span class="lang-zh">{{ site.data.i18n.zh.location | default: author.location }}</span></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> <span class="lang-en">Website</span><span class="lang-zh">网站</span></a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <span class="lang-en">Email</span><span class="lang-zh">邮箱</span></a></li>
       {% endif %}
       {% if author.cv %}
-        <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a></li>
+        <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> <span class="lang-en">CV</span><span class="lang-zh">简历</span></a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -41,7 +41,7 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> <span class="lang-en">Twitter</span><span class="lang-zh">推特</span></a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -50,7 +50,7 @@
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> <span class="lang-en">LinkedIn</span><span class="lang-zh">领英</span></a></li>
       {% endif %}
       {% if author.dblp %}
         <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a></li>
@@ -95,7 +95,7 @@
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
       {% endif %}
       {% if author.weibo %}
-        <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
+        <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> <span class="lang-en">Weibo</span><span class="lang-zh">微博</span></a></li>
       {% endif %}
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
@@ -107,7 +107,7 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> <span class="lang-en">Google Scholar</span><span class="lang-zh">谷歌学术</span></a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
@@ -119,7 +119,7 @@
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
       {% if author.wikipedia %}
-        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> <span class="lang-en">Wikipedia</span><span class="lang-zh">维基百科</span></a></li>
 {% endif %}
     </ul>
       <div class="author__urls_sm">

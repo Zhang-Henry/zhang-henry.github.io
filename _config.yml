@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Hanrong Zhang"
 description              : "CS PhD Student"
+description_zh           : "计算机科学博士生"
 repository               : "Zhang-Henry/zhang-henry.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,9 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hanrong Zhang"
+  name_zh          : "张涵容"
   avatar           : "images/android-chrome-512x512.png"
   bio              :
   location         : "Chicago, USA"
+  location_zh      : "美国芝加哥"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=qG5_O40AAAAJ&hl=zh-CN"

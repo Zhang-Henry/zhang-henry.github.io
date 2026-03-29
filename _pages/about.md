@@ -140,13 +140,9 @@ redirect_from:
       <img src="/images/google-logo.png" alt="Google">
     </div>
     <div class="internship-info">
-      <div class="internship-header">
-        <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google</span> <span class="internship-badge">Incoming</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google</span> <span class="internship-badge">即将入职</span></span></div>
-        <div class="internship-meta">
-          <div class="internship-date">2026.05 – 2026.08</div>
-          <div class="internship-location"><span class="lang-en">Mountain View, CA, USA</span><span class="lang-zh">美国加州山景城</span></div>
-        </div>
-      </div>
+      <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google</span> <span class="internship-badge">Incoming</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google</span> <span class="internship-badge">即将入职</span></span></div>
+      <div class="internship-date">2026.05 – 2026.08</div>
+      <div class="internship-location"><span class="lang-en">Mountain View, CA, USA</span><span class="lang-zh">美国加州山景城</span></div>
     </div>
   </div>
   <div class="internship-item">
@@ -154,14 +150,10 @@ redirect_from:
       <img src="/images/alibaba-logo.png" alt="Alibaba Group">
     </div>
     <div class="internship-info">
-      <div class="internship-header">
-        <div class="internship-role"><span class="lang-en">Research Intern · <span class="internship-company">Alibaba Group</span></span><span class="lang-zh">研究实习生 · <span class="internship-company">阿里巴巴集团</span></span></div>
-        <div class="internship-meta">
-          <div class="internship-date">2025.05 – 2025.08</div>
-          <div class="internship-location"><span class="lang-en">Hangzhou, Zhejiang, China</span><span class="lang-zh">中国浙江杭州</span></div>
-        </div>
-      </div>
+      <div class="internship-role"><span class="lang-en">Research Intern · <span class="internship-company">Alibaba Group</span></span><span class="lang-zh">研究实习生 · <span class="internship-company">阿里巴巴集团</span></span></div>
+      <div class="internship-date">2025.05 – 2025.08</div>
       <div class="internship-desc"><span class="lang-en">Research on RL for Human-Agent Multi-turn Interaction</span><span class="lang-zh">人机多轮交互强化学习研究</span></div>
+      <div class="internship-location"><span class="lang-en">Hangzhou, Zhejiang, China</span><span class="lang-zh">中国浙江杭州</span></div>
     </div>
   </div>
 </div>
