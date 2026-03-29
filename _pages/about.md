@@ -220,23 +220,8 @@ IEEE CSCWD 2025 <span class='show_paper_citations' data='qG5_O40AAAAJ:M3ejUd6NZC
 
 
 # 📝 Academic Service
-## Conference Program Committee/Reviewer
-- ICLR 2026
-- ICML 2026
-- CVPR 2026
-- ECCV 2026
-- KDD 2026
-- MICCAI 2026
-
-## Journal Reviewer
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
-- [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)
-- [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
-- [Transactions on Machine Learning Research](https://jmlr.org/tmlr/) (TMLR)
-- [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)
-- [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
-- [IEEE Transactions on Computational Biology and Bioinformatics]()
-- [IEEE Transactions on Industrial Cyber-Physical Systems]()
+- **Conference Program Committee/Reviewer**: ICLR (2026), ICML (2026), CVPR (2026), ECCV (2026), KDD (2026), MICCAI (2026)
+- **Journal Reviewer**: TPAMI, TNNLS, Pattern Recognition, TMLR, IEEE Trans. on Industrial Informatics, IEEE Trans. on Reliability, IEEE Trans. on Computational Biology and Bioinformatics, IEEE Trans. on Industrial Cyber-Physical Systems
 
 <!-- ## Volunteer
 - ICLR 2025 -->
