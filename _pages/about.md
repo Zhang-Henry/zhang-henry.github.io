@@ -217,6 +217,12 @@ redirect_from:
 
 <div class="pub-list">
   <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2604.01687">EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
+    <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
+    <b>Preprint</b>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
     <b>ICLR 2025</b> <a href="https://luckfort.github.io/ASBench/">[Website]</a> <a href="https://github.com/agiresearch/ASB">[Code]</a> <a href="https://github.com/agiresearch/ASB/stargazers"><img style="height:20px;vertical-align:middle" src="https://img.shields.io/github/stars/agiresearch/ASB?style=social" alt="GitHub stars"></a> <span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span>
