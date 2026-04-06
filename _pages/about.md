@@ -46,6 +46,10 @@ redirect_from:
 
 <div class="news-list">
   <div class="news-item">
+    <span class="news-date">2026.04</span>
+    <span class="news-content"><span class="lang-en">🎉 Three papers are accepted by ACL 2026. See you in San Diego!</span><span class="lang-zh">🎉 三篇论文被 ACL 2026 录用，圣地亚哥见！</span></span>
+  </div>
+  <div class="news-item">
     <span class="news-date">2026.02</span>
     <span class="news-content"><span class="lang-en">🎉 I will join Google as a Student Researcher in 2026 summer.</span><span class="lang-zh">🎉 将于2026年夏季加入 Google 担任 Student Researcher。</span></span>
   </div>
@@ -231,7 +235,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="#">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang<br>
-    <b>ICLR 2026 Workshop MemAgents</b>
+    <b>ACL 2026; ICLR 2026 Workshop MemAgents</b>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
