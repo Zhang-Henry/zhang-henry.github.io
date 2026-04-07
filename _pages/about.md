@@ -236,7 +236,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="#">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
-    <b>ACL 2026; ICLR 2026 Workshop MemAgents</b>
+    <b>ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</b> <span class="pub-tag oral">Oral</span>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
