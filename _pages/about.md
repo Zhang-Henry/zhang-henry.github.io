@@ -112,7 +112,7 @@ redirect_from:
     <div class="education-info">
       <div class="education-school"><span class="lang-en">Zhejiang University</span><span class="lang-zh">浙江大学</span></div>
       <div class="education-date"><span class="lang-en">Sep. 2022 – Mar. 2025</span><span class="lang-zh">2022年9月 – 2025年3月</span></div>
-      <div class="education-degree"><span class="lang-en">Master of Engineering in Computer Engineering</span><span class="lang-zh">计算机工程硕士</span></div>
+      <div class="education-degree"><span class="lang-en">M.Eng. in Computer Engineering</span><span class="lang-zh">计算机工程硕士</span></div>
       <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
       <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/82</span> · Supervisor: Prof. <a href="https://person.zju.edu.cn/en/hwang">Hongwei Wang</a></span><span class="lang-zh"><span class="education-highlight">排名：1/82</span> · 导师：<a href="https://person.zju.edu.cn/en/hwang">王宏伟</a>教授</span></div>
     </div>
@@ -121,7 +121,7 @@ redirect_from:
     <div class="education-info">
       <div class="education-school"><span class="lang-en">University of Leeds <span class="education-qs">QS 75</span> <span class="education-badge honors">First Class Honours</span></span><span class="lang-zh">利兹大学 <span class="education-qs">QS 75</span> <span class="education-badge honors">一等荣誉学位</span></span></div>
       <div class="education-date"><span class="lang-en">Sep. 2018 – Jun. 2022</span><span class="lang-zh">2018年9月 – 2022年6月</span></div>
-      <div class="education-degree"><span class="lang-en">Bachelor of Science in Computer Science</span><span class="lang-zh">计算机科学理学学士</span></div>
+      <div class="education-degree"><span class="lang-en">B.S. in Computer Science</span><span class="lang-zh">计算机科学理学学士</span></div>
       <div class="education-location"><span class="lang-en">United Kingdom</span><span class="lang-zh">英国</span></div>
     </div>
   </div>
@@ -129,7 +129,7 @@ redirect_from:
     <div class="education-info">
       <div class="education-school"><span class="lang-en">Southwest Jiaotong University</span><span class="lang-zh">西南交通大学</span></div>
       <div class="education-date"><span class="lang-en">Sep. 2018 – Jun. 2022</span><span class="lang-zh">2018年9月 – 2022年6月</span></div>
-      <div class="education-degree"><span class="lang-en">Bachelor of Engineering in Computer Science and Technology</span><span class="lang-zh">计算机科学与技术工学学士</span></div>
+      <div class="education-degree"><span class="lang-en">B.Eng. in Computer Science and Technology</span><span class="lang-zh">计算机科学与技术工学学士</span></div>
       <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
       <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/75</span> · Supervisor: Prof. <a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">Tianrui Li</a></span><span class="lang-zh"><span class="education-highlight">排名：1/75</span> · 导师：<a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">李天瑞</a>教授</span></div>
     </div>
@@ -215,14 +215,15 @@ redirect_from:
 
 <h1 id="-publications"><span class="lang-en">📝 Selected Publications and Preprints</span><span class="lang-zh">📝 代表性论文</span></h1>
 
-<span class="lang-en">\* denotes Equal Contribution.</span><span class="lang-zh">\* 表示同等贡献。</span> <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>
+<span class="lang-en">\* denotes Equal Contribution.
+† denotes Corresponding Author.</span><span class="lang-zh">\* 表示同等贡献。† 表示通讯作者。</span> <a class='scholar_url' href='https://scholar.google.com/citations?user=qG5_O40AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations"></a>
 
 <div class="pub-section-title"><span class="lang-en">LLM Agents</span><span class="lang-zh">大语言模型智能体</span></div>
 
 <div class="pub-list">
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.01687">EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
-    <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
+    <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen†, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
     <b>Preprint</b>
   </div></div>
 
@@ -234,7 +235,7 @@ redirect_from:
 
   <div class="pub-item"><div class="pub-content">
     <a href="#">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
-    Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang<br>
+    Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
     <b>ACL 2026; ICLR 2026 Workshop MemAgents</b>
   </div></div>
 
@@ -250,7 +251,7 @@ redirect_from:
 <div class="pub-list">
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a><br>
-    <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma<br>
+    <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
     <b>CVPR 2025</b> <a href="https://github.com/Zhang-Henry/INACTIVE">[Code]</a> <a href="https://github.com/Zhang-Henry/INACTIVE/stargazers"><img style="height:20px;vertical-align:middle" src="https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social" alt="GitHub stars"></a> <span class='show_paper_citations' data='qG5_O40AAAAJ:UebtZRa9Y70C'></span>
   </div></div>
 
