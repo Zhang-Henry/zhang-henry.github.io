@@ -267,11 +267,11 @@ redirect_from:
     <b>IEEE Trans. Industrial Informatics</b> <span class="pub-tag if">IF=12.3</span> <span class="pub-tag sci">SCI Q1 Top</span> <span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span>
   </div></div>
 
-  <div class="pub-item"><div class="pub-content">
+  <!-- <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10114639">Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection</a><br>
     Peng Peng*, <span class="pub-me">Hanrong Zhang</span>*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
     <b>IEEE Sensors Journal</b> <span class="pub-tag if">IF=4.3</span> <span class="pub-tag sci">SCI Q1</span> <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
-  </div></div>
+  </div></div> -->
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://link.springer.com/article/10.1007/s11761-023-00371-x">SAKA: an intelligent platform for semi-automated knowledge graph construction and application</a><br>
@@ -279,17 +279,17 @@ redirect_from:
     <b>Service Oriented Computing and Applications</b> <span class='show_paper_citations' data='qG5_O40AAAAJ:d1gkVwhDpl0C'></span>
   </div></div>
 
-  <div class="pub-item"><div class="pub-content">
+  <!-- <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10035077">An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Bo Qin, Hongwei Wang<br>
     <b>IEEE ICEBE 2022</b> <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span>
-  </div></div>
+  </div></div> -->
 
-  <div class="pub-item"><div class="pub-content">
+  <!-- <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10152774">Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis</a><br>
     Wanqiu Huang, <span class="pub-me">Hanrong Zhang</span>, Peng Peng, Hongwei Wang<br>
     <b>IEEE CSCWD 2023</b> <span class="pub-award"><span class="lang-en">Best Paper Award Finalist</span><span class="lang-zh">最佳论文提名</span></span> <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
-  </div></div>
+  </div></div> -->
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
