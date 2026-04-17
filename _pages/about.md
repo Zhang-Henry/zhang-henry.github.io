@@ -19,7 +19,7 @@ redirect_from:
 
 <div class="bio-card">
   <p class="bio-text">
-    <span class="lang-en">Hi, there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS), also an incoming Google Student Researcher in 2026 summer. Prior to that, I received my CS Master degree from Zhejiang University, was awarded the National Scholarship twice. I was also a research intern at Alibaba Group.</span>
+    <span class="lang-en">Hi, there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS), also an incoming Google Student Researcher in 2026 summer. Prior to that, I received my CS Master degree from Zhejiang University, and was awarded the National Scholarship twice. I was also a research intern at Alibaba Group.</span>
     <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)，同时将于2026年夏季加入Google担任学生研究员。此前我于浙江大学获得计算机硕士学位，两次获得国家奖学金，也在阿里巴巴集团担任过研究实习生。</span>
   </p>
   <div class="bio-interests">
@@ -234,7 +234,7 @@ redirect_from:
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="#">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
+    <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
     <b>ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</b> <span class="pub-tag oral">Oral</span>
   </div></div>
