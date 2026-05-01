@@ -252,8 +252,7 @@ redirect_from:
 
 <div class="pub-section-title"><span class="lang-en">Machine Learning and Data Mining</span><span class="lang-zh">机器学习与数据挖掘</span></div>
 
-
-
+<div class="pub-list">
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
@@ -296,7 +295,6 @@ redirect_from:
     <b>IEEE CSCWD 2023</b> <span class="pub-award"><span class="lang-en">Best Paper Award Finalist</span><span class="lang-zh">最佳论文提名</span></span> <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
   </div></div> -->
 
-<div class="pub-list">
   <div class="pub-item"><div class="pub-content">
     Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption<br>
     Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
