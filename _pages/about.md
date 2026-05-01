@@ -47,6 +47,10 @@ redirect_from:
 <div class="news-list">
   <div class="news-item">
     <span class="news-date">2026.04</span>
+    <span class="news-content"><span class="lang-en">🎉 One paper is accepted by ICML 2026.</span><span class="lang-zh">🎉 一篇论文被 ICML 2026 录用。</span></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026.04</span>
     <span class="news-content"><span class="lang-en">🎉 Three papers are accepted by ACL 2026. See you in San Diego!</span><span class="lang-zh">🎉 三篇论文被 ACL 2026 录用，圣地亚哥见！</span></span>
   </div>
   <div class="news-item">
@@ -248,7 +252,8 @@ redirect_from:
 
 <div class="pub-section-title"><span class="lang-en">Machine Learning and Data Mining</span><span class="lang-zh">机器学习与数据挖掘</span></div>
 
-<div class="pub-list">
+
+
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
@@ -290,6 +295,13 @@ redirect_from:
     Wanqiu Huang, <span class="pub-me">Hanrong Zhang</span>, Peng Peng, Hongwei Wang<br>
     <b>IEEE CSCWD 2023</b> <span class="pub-award"><span class="lang-en">Best Paper Award Finalist</span><span class="lang-zh">最佳论文提名</span></span> <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
   </div></div> -->
+
+<div class="pub-list">
+  <div class="pub-item"><div class="pub-content">
+    Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption<br>
+    Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
+    <b>ICML 2026</b>
+  </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
