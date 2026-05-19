@@ -21,6 +21,7 @@ author_profile: true
   </div>
   <div class="pub-actions">
     <a class="pub-action scholar_url" href="https://scholar.google.com/citations?user=qG5_O40AAAAJ"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+    <span class="pub-action"><i class="ai ai-google-scholar"></i> <span id="total_cit">...</span> citations</span>
     <a class="pub-action pub-action-primary" href="{{ '/#-publications' | relative_url }}"><span class="lang-en">Selected Publications</span><span class="lang-zh">代表性论文</span></a>
   </div>
 </div>
@@ -66,14 +67,14 @@ author_profile: true
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a><br>
-    Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, Liangwei Yang, Rui Yang, Wooseong Yang, Chin-Yuan Yeh, <span class="pub-me">Hanrong Zhang</span>, Haozhen Zhang, Siqi Zhu, Henry Peng Zou, Wanjia Zhao, Song Wang, Wujiang Xu, Zixuan Ke, Zheng Hui, Dawei Li, Yaozu Wu, Langzhou He, Chen Wang, Xiongxiao Xu, Baixiang Huang, Juntao Tan, Shelby Heinecke, Huan Wang, Caiming Xiong, Ahmed A. Metwally, Jun Yan, Chen-Yu Lee, Hanqing Zeng, Yinglong Xia, Xiaokai Wei, Ali Payani, Yu Wang, Haitong Ma, Wenya Wang, Chenguang Wang, Yu Zhang, Xin Wang, Yongfeng Zhang, Jiaxuan You, Hanghang Tong, Xiao Luo, Xue Liu, Yizhou Sun, Wei Wang, Julian McAuley, James Zou, Jiawei Han, Philip S. Yu, Kai Shu<br>
+    Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, Liangwei Yang, Rui Yang, Wooseong Yang, Chin-Yuan Yeh, <span class="pub-me">Hanrong Zhang (core contributor)</span>, Haozhen Zhang, Siqi Zhu, Henry Peng Zou, Wanjia Zhao, Song Wang, Wujiang Xu, Zixuan Ke, Zheng Hui, Dawei Li, Yaozu Wu, Langzhou He, Chen Wang, Xiongxiao Xu, Baixiang Huang, Juntao Tan, Shelby Heinecke, Huan Wang, Caiming Xiong, Ahmed A. Metwally, Jun Yan, Chen-Yu Lee, Hanqing Zeng, Yinglong Xia, Xiaokai Wei, Ali Payani, Yu Wang, Haitong Ma, Wenya Wang, Chenguang Wang, Yu Zhang, Xin Wang, Yongfeng Zhang, Jiaxuan You, Hanghang Tong, Xiao Luo, Xue Liu, Yizhou Sun, Wei Wang, Julian McAuley, James Zou, Jiawei Han, Philip S. Yu, Kai Shu<br>
     <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:aqlVkmm33-oC"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption<br>
     Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><span class="show_paper_citations" data=""></span></div>
+    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span></div>
   </div></div>
 </div>
 

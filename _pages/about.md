@@ -219,6 +219,7 @@ redirect_from:
   </div>
   <div class="pub-actions">
     <a class="pub-action scholar_url" href="https://scholar.google.com/citations?user=qG5_O40AAAAJ"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+    <span class="pub-action"><i class="ai ai-google-scholar"></i> <span id="total_cit">...</span> citations</span>
     <a class="pub-action pub-action-primary" href="{{ '/publications/' | relative_url }}"><span class="lang-en">Full Publications</span><span class="lang-zh">全部论文</span></a>
   </div>
 </div>
@@ -299,7 +300,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption<br>
     Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><span class="show_paper_citations" data=""></span></div>
+    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
