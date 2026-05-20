@@ -32,13 +32,13 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph-based Agentic Memory for LLM Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><a class="pub-link" href="https://arxiv.org/abs/2604.12285">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><a class="pub-link" href="https://arxiv.org/abs/2604.12285">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:NaGl4SEjCO4C"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen†, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a></div>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class="show_paper_citations" data="qG5_O40AAAAJ:JV2RwH3_ST0C"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -50,19 +50,19 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2505.00753">LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey</a><br>
     Henry Peng Zou, Wei-Chieh Huang, Yaozu Wu, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, <span class="pub-me">Hanrong Zhang</span>, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2505.00753">Paper</a><a class="pub-link" href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems">Website</a></div>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2505.00753">Paper</a><a class="pub-link" href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems">Website</a><span class="show_paper_citations" data="qG5_O40AAAAJ:maZDTaKrznsC"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.00892">When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation</a><br>
     Henry Peng Zou, Chunyu Miao, Wei-Chieh Huang, Yankai Chen, Yue Zhou, <span class="pub-me">Hanrong Zhang</span>, Yaozu Wu, Liancheng Fang, Zhengyao Gu, Zhen Zhang, Kening Zheng, Fangxin Wang, Yi Nian, Shanghao Li, Wenzhe Fan, Langzhou He, Weizhi Zhang, Xue Liu, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.00892">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.00892">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:blknAaTinKkC"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.03592">Unveiling Language Routing Isolation in Multilingual MoE Models for Interpretable Subnetwork Adaptation</a><br>
     Kening Zheng, Wei-Chieh Huang, Jiahao Huo, Zhonghao Li, Henry Peng Zou, Yibo Yan, Xin Zou, Jungang Li, Junzhuo Li, <span class="pub-me">Hanrong Zhang</span>, Xuming Hu, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.03592">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.03592">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:NMxIlDl6LWMC"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -90,7 +90,7 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack against Self-supervised Learning</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
-    <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2405.14672">Paper</a><a class="pub-link" href="https://github.com/Zhang-Henry/INACTIVE">Code</a><span class="show_paper_citations" data="qG5_O40AAAAJ:UebtZRa9Y70C"></span></div>
+    <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2405.14672">Paper</a><a class="pub-link" href="https://github.com/Zhang-Henry/INACTIVE">Code</a><span class="show_paper_citations" data="qG5_O40AAAAJ:GnPB-g6toBAC"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -102,7 +102,7 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://doi.org/10.1109/CSCWD64889.2025.11033333">Industrial Data Synthesis Framework for Fault Diagnosis Using Diffusion and Flow-Based Models</a><br>
     Shuting Tao, Xiangming Meng, <span class="pub-me">Hanrong Zhang</span>, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE CSCWD 2025</span><a class="pub-link" href="https://doi.org/10.1109/CSCWD64889.2025.11033333">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">IEEE CSCWD 2025</span><a class="pub-link" href="https://doi.org/10.1109/CSCWD64889.2025.11033333">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:M3ejUd6NZC8C"></span></div>
   </div></div>
 </div>
 
@@ -146,7 +146,7 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://conferences.miccai.org/2023/papers/169-Paper1588.html">Debiasing Medical Visual Question Answering via Counterfactual Training</a><br>
     Chenlu Zhan, Peng Peng, <span class="pub-me">Hanrong Zhang</span>, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">MICCAI 2023</span><a class="pub-link" href="https://conferences.miccai.org/2023/papers/169-Paper1588.html">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">MICCAI 2023</span><a class="pub-link" href="https://conferences.miccai.org/2023/papers/169-Paper1588.html">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:TFP_iSt0sucC"></span></div>
   </div></div>
 </div>
 

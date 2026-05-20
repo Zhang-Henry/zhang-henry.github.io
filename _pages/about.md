@@ -230,7 +230,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen†, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a></div>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:JV2RwH3_ST0C'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -242,7 +242,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span></div>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><span class='show_paper_citations' data='qG5_O40AAAAJ:NaGl4SEjCO4C'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -258,7 +258,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
-    <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2405.14672">Paper</a><a class="pub-link" href="https://github.com/Zhang-Henry/INACTIVE">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:UebtZRa9Y70C'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2405.14672">Paper</a><a class="pub-link" href="https://github.com/Zhang-Henry/INACTIVE">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:GnPB-g6toBAC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
