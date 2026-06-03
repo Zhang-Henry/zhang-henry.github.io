@@ -298,15 +298,15 @@ redirect_from:
   </div></div> -->
 
   <div class="pub-item"><div class="pub-content">
-    Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption<br>
+    <a href="https://arxiv.org/pdf/2605.30089v1">Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption</a><br>
     Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span></div>
+    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><a class="pub-link" href="https://arxiv.org/pdf/2605.30089v1">Paper</a></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations<br>
+    <a href="https://arxiv.org/abs/2508.17320">AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations</a><br>
     Yifei Yao, <span class="pub-me">Hanrong Zhang</span>, Mengnan Du<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span></div>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2508.17320">Paper</a></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">

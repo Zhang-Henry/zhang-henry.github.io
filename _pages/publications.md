@@ -30,27 +30,33 @@ author_profile: true
 
 <div class="pub-list">
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph-based Agentic Memory for LLM Agents</a><br>
-    Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><a class="pub-link" href="https://arxiv.org/abs/2604.12285">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:NaGl4SEjCO4C"></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen†, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
     <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class="show_paper_citations" data="qG5_O40AAAAJ:JV2RwH3_ST0C"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations<br>
-    Yifei Yao, <span class="pub-me">Hanrong Zhang</span>, Mengnan Du<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span></div>
+    <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph-based Agentic Memory for LLM Agents</a><br>
+    Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><a class="pub-link" href="https://arxiv.org/abs/2604.12285">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:NaGl4SEjCO4C"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2505.00753">LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey</a><br>
-    Henry Peng Zou, Wei-Chieh Huang, Yaozu Wu, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, <span class="pub-me">Hanrong Zhang</span>, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2505.00753">Paper</a><a class="pub-link" href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems">Website</a><span class="show_paper_citations" data="qG5_O40AAAAJ:maZDTaKrznsC"></span></div>
+    <a href="https://arxiv.org/abs/2508.17320">AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations</a><br>
+    Yifei Yao, <span class="pub-me">Hanrong Zhang</span>, Mengnan Du<br>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2508.17320">Paper</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/pdf/2605.30089v1">Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption</a><br>
+    Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
+    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><a class="pub-link" href="https://arxiv.org/pdf/2605.30089v1">Paper</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2605.20956">A Deployment Audit of Release-Side Risk in Conformal Triage under Prevalence Shift</a><br>
+    Chengze Li, Xiao Liu, <span class="pub-me">Hanrong Zhang</span>, Haiyang Peng, Yanghao Ruan, Huanhuan Ma, Chunyu Miao, Qichao Zhou, Xiangrong Qi, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2605.20956">Paper</a></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -60,21 +66,27 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2605.22222">ARC-STAR: Auditable Post-Hoc Correction for PDE Foundation Models</a><br>
+    Chengze Li, Lingwei Wei, Li Sun, Hongbo Lv, Jie Yang, <span class="pub-me">Hanrong Zhang</span>, Kening Zheng, Wei-Chieh Huang, Enze Ma, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2605.22222">Paper</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.03592">Unveiling Language Routing Isolation in Multilingual MoE Models for Interpretable Subnetwork Adaptation</a><br>
     Kening Zheng, Wei-Chieh Huang, Jiahao Huo, Zhonghao Li, Henry Peng Zou, Yibo Yan, Xin Zou, Jungang Li, Junzhuo Li, <span class="pub-me">Hanrong Zhang</span>, Xuming Hu, Philip S. Yu<br>
     <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.03592">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:NMxIlDl6LWMC"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a><br>
-    Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, Liangwei Yang, Rui Yang, Wooseong Yang, Chin-Yuan Yeh, <span class="pub-me">Hanrong Zhang (core contributor)</span>, Haozhen Zhang, Siqi Zhu, Henry Peng Zou, Wanjia Zhao, Song Wang, Wujiang Xu, Zixuan Ke, Zheng Hui, Dawei Li, Yaozu Wu, Langzhou He, Chen Wang, Xiongxiao Xu, Baixiang Huang, Juntao Tan, Shelby Heinecke, Huan Wang, Caiming Xiong, Ahmed A. Metwally, Jun Yan, Chen-Yu Lee, Hanqing Zeng, Yinglong Xia, Xiaokai Wei, Ali Payani, Yu Wang, Haitong Ma, Wenya Wang, Chenguang Wang, Yu Zhang, Xin Wang, Yongfeng Zhang, Jiaxuan You, Hanghang Tong, Xiao Luo, Xue Liu, Yizhou Sun, Wei Wang, Julian McAuley, James Zou, Jiawei Han, Philip S. Yu, Kai Shu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:aqlVkmm33-oC"></span></div>
+    <a href="https://arxiv.org/abs/2505.00753">LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey</a><br>
+    Henry Peng Zou, Wei-Chieh Huang, Yaozu Wu, Jizhou Guo, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, <span class="pub-me">Hanrong Zhang</span>, Fangxin Wang, Pengfei Zhang, Huacan Wang, Langzhou He, Yangning Li, Dongyuan Li, Renhe Jiang, Xue Liu, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2505.00753">Paper</a><a class="pub-link" href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems">Website</a><span class="show_paper_citations" data="qG5_O40AAAAJ:maZDTaKrznsC"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption<br>
-    Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span></div>
+    <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a><br>
+    Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, Liangwei Yang, Rui Yang, Wooseong Yang, Chin-Yuan Yeh, <span class="pub-me">Hanrong Zhang (core contributor)</span>, Haozhen Zhang, Siqi Zhu, Henry Peng Zou, Wanjia Zhao, Song Wang, Wujiang Xu, Zixuan Ke, Zheng Hui, Dawei Li, Yaozu Wu, Langzhou He, Chen Wang, Xiongxiao Xu, Baixiang Huang, Juntao Tan, Shelby Heinecke, Huan Wang, Caiming Xiong, Ahmed A. Metwally, Jun Yan, Chen-Yu Lee, Hanqing Zeng, Yinglong Xia, Xiaokai Wei, Ali Payani, Yu Wang, Haitong Ma, Wenya Wang, Chenguang Wang, Yu Zhang, Xin Wang, Yongfeng Zhang, Jiaxuan You, Hanghang Tong, Xiao Luo, Xue Liu, Yizhou Sun, Wei Wang, Julian McAuley, James Zou, Jiawei Han, Philip S. Yu, Kai Shu<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:aqlVkmm33-oC"></span></div>
   </div></div>
 </div>
 
