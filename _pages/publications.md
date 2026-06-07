@@ -54,6 +54,12 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
+    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://arxiv.org/abs/2409.07757">Paper</a><span class="pub-tag sci">JCR Q1</span><span class="show_paper_citations" data="qG5_O40AAAAJ:Y0pCki6q_DkC"></span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2605.20956">A Deployment Audit of Release-Side Risk in Conformal Triage under Prevalence Shift</a><br>
     Chengze Li, Xiao Liu, <span class="pub-me">Hanrong Zhang</span>, Haiyang Peng, Yanghao Ruan, Huanhuan Ma, Chunyu Miao, Qichao Zhou, Xiangrong Qi, Philip S. Yu<br>
     <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2605.20956">Paper</a></div>
@@ -125,12 +131,6 @@ author_profile: true
     <a href="https://ieeexplore.ieee.org/abstract/document/10510599">Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning</a><br>
     Xingyue Wang*, <span class="pub-me">Hanrong Zhang</span>*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
     <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/10510599">Paper</a><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class="show_paper_citations" data="qG5_O40AAAAJ:4TOpqqG69KYC"></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
-    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2409.07757">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:Y0pCki6q_DkC"></span></div>
   </div></div>
 </div>
 

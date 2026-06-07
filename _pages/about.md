@@ -39,6 +39,10 @@ redirect_from:
 
 <div class="news-list">
   <div class="news-item">
+    <span class="news-date">2026.06</span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity</a> (Co-first author) is accepted by IEEE Journal of Biomedical and Health Informatics.</span><span class="lang-zh">🎉 共同一作论文 <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity</a> 被 IEEE Journal of Biomedical and Health Informatics 录用。</span></span>
+  </div>
+  <div class="news-item">
     <span class="news-date">2026.04</span>
     <span class="news-content"><span class="lang-en">🎉 One paper is accepted by ICML 2026.</span><span class="lang-zh">🎉 一篇论文被 ICML 2026 录用。</span></span>
   </div>
@@ -311,8 +315,8 @@ redirect_from:
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
-    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2409.07757">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
+    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://arxiv.org/abs/2409.07757">Paper</a><span class="pub-tag sci">JCR Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
   </div></div>
 </div>
 
