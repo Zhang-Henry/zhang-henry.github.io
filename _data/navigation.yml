@@ -16,13 +16,13 @@ main:
     title_zh: "实习经历"
     url: "/#-internships"
 
-  - title: "Open Source Projects"
-    title_zh: "开源项目"
-    url: "/#-open-source-projects"
-
   - title: "Publications"
     title_zh: "论文"
     url: "/publications/"
+
+  - title: "Open Source Projects"
+    title_zh: "开源项目"
+    url: "/#-open-source-projects"
 
   - title: "Honors and Awards"
     title_zh: "荣誉奖项"

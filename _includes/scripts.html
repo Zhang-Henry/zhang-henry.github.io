@@ -1,6 +1,27 @@
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 
 <script>
+// Open external links in a new tab (replaces the old base-target=_blank tag,
+// which also hijacked in-site navigation links and spawned new tabs)
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    if (a.hostname && a.hostname !== location.hostname) {
+      a.target = '_blank';
+      a.rel = 'noopener';
+    }
+  });
+});
+
+// Recalculate greedy-nav once fonts/layout are final, so the hamburger
+// button doesn't get stuck overlapping the menu items
+function recalcNav() {
+  if (typeof updateNav === 'function') { updateNav(); }
+}
+window.addEventListener('load', recalcNav);
+if (document.fonts && document.fonts.ready) {
+  document.fonts.ready.then(recalcNav);
+}
+
 function toggleLang() {
   var html = document.documentElement;
   if (html.classList.contains('zh')) {

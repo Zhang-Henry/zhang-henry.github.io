@@ -163,6 +163,120 @@ redirect_from:
   </div>
 </div>
 
+<h1 id="-publications"><span class="lang-en">📝 Selected Publications and Preprints</span><span class="lang-zh">📝 代表性论文</span></h1>
+
+<div class="pub-toolbar">
+  <div class="pub-note">
+    <span class="lang-en">* denotes Equal Contribution. † denotes Corresponding Author.</span>
+    <span class="lang-zh">* 表示同等贡献。† 表示通讯作者。</span>
+  </div>
+  <div class="pub-actions">
+    <a class="pub-action scholar_url" href="https://scholar.google.com/citations?user=qG5_O40AAAAJ"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+    <span class="pub-action"><i class="ai ai-google-scholar"></i> <span id="total_cit">...</span> citations</span>
+    <a class="pub-action pub-action-primary" href="{{ '/publications/' | relative_url }}"><span class="lang-en">Full Publications</span><span class="lang-zh">全部论文</span></a>
+  </div>
+</div>
+
+<div class="pub-section-title"><span class="lang-en">LLM Agents</span><span class="lang-zh">大语言模型智能体</span></div>
+
+<div class="pub-list">
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
+    <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen†, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:JV2RwH3_ST0C'></span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents</a><br>
+    <span class="pub-me">Hanrong Zhang</span>, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
+    <div class="pub-link-row"><span class="pub-venue">ICLR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2410.02644">Paper</a><a class="pub-link" href="https://luckfort.github.io/ASBench/">Website</a><a class="pub-link" href="https://github.com/agiresearch/ASB">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
+    Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><span class='show_paper_citations' data='qG5_O40AAAAJ:NaGl4SEjCO4C'></span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2606.06741">OpenSkill: Open-World Self-Evolution for LLM Agents</a><br>
+    Zhiling Yan, Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a><br>
+    <span class="pub-me">Core contributor</span><br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span></div>
+  </div></div>
+</div>
+
+<div class="pub-section-title"><span class="lang-en">Machine Learning and Data Mining</span><span class="lang-zh">机器学习与数据挖掘</span></div>
+
+<div class="pub-list">
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a><br>
+    <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
+    <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2405.14672">Paper</a><a class="pub-link" href="https://github.com/Zhang-Henry/INACTIVE">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:GnPB-g6toBAC'></span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/pdf/2501.09525">Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation</a><br>
+    <span class="pub-me">Hanrong Zhang</span>, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><a class="pub-link" href="https://arxiv.org/pdf/2501.09525">Paper</a><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span></div>
+  </div></div>
+
+  <!-- <div class="pub-item"><div class="pub-content">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10114639">Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection</a><br>
+    Peng Peng*, <span class="pub-me">Hanrong Zhang</span>*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
+    <b>IEEE Sensors Journal</b> <span class="pub-tag if">IF=4.3</span> <span class="pub-tag sci">SCI Q1</span> <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
+  </div></div> -->
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://link.springer.com/article/10.1007/s11761-023-00371-x">SAKA: an intelligent platform for semi-automated knowledge graph construction and application</a><br>
+    <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
+    <div class="pub-link-row"><span class="pub-venue">Service Oriented Computing and Applications</span><a class="pub-link" href="https://link.springer.com/article/10.1007/s11761-023-00371-x">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:d1gkVwhDpl0C'></span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10510599">Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning</a><br>
+    Xingyue Wang*, <span class="pub-me">Hanrong Zhang</span>*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/10510599">Paper</a><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
+    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag sci">JCR Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
+  </div></div>
+
+  <!-- <div class="pub-item"><div class="pub-content">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10035077">An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources</a><br>
+    <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Bo Qin, Hongwei Wang<br>
+    <b>IEEE ICEBE 2022</b> <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span>
+  </div></div> -->
+
+  <!-- <div class="pub-item"><div class="pub-content">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10152774">Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis</a><br>
+    Wanqiu Huang, <span class="pub-me">Hanrong Zhang</span>, Peng Peng, Hongwei Wang<br>
+    <b>IEEE CSCWD 2023</b> <span class="pub-award"><span class="lang-en">Best Paper Award Finalist</span><span class="lang-zh">最佳论文提名</span></span> <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
+  </div></div> -->
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/pdf/2605.30089v1">Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption</a><br>
+    Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
+    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><a class="pub-link" href="https://arxiv.org/pdf/2605.30089v1">Paper</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2508.17320">AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations</a><br>
+    Yifei Yao, <span class="pub-me">Hanrong Zhang</span>, Mengnan Du<br>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2508.17320">Paper</a></div>
+  </div></div>
+</div>
+
+
+
 <h1 id="-open-source-projects"><span class="lang-en">🛠️ Open Source Projects</span><span class="lang-zh">🛠️ 开源项目</span></h1>
 
 <div class="opensource-grid">
@@ -213,114 +327,6 @@ redirect_from:
     </div>
   </div>
 </div>
-
-<h1 id="-publications"><span class="lang-en">📝 Selected Publications and Preprints</span><span class="lang-zh">📝 代表性论文</span></h1>
-
-<div class="pub-toolbar">
-  <div class="pub-note">
-    <span class="lang-en">* denotes Equal Contribution. † denotes Corresponding Author.</span>
-    <span class="lang-zh">* 表示同等贡献。† 表示通讯作者。</span>
-  </div>
-  <div class="pub-actions">
-    <a class="pub-action scholar_url" href="https://scholar.google.com/citations?user=qG5_O40AAAAJ"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
-    <span class="pub-action"><i class="ai ai-google-scholar"></i> <span id="total_cit">...</span> citations</span>
-    <a class="pub-action pub-action-primary" href="{{ '/publications/' | relative_url }}"><span class="lang-en">Full Publications</span><span class="lang-zh">全部论文</span></a>
-  </div>
-</div>
-
-<div class="pub-section-title"><span class="lang-en">LLM Agents</span><span class="lang-zh">大语言模型智能体</span></div>
-
-<div class="pub-list">
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
-    <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen†, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:JV2RwH3_ST0C'></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents</a><br>
-    <span class="pub-me">Hanrong Zhang</span>, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
-    <div class="pub-link-row"><span class="pub-venue">ICLR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2410.02644">Paper</a><a class="pub-link" href="https://luckfort.github.io/ASBench/">Website</a><a class="pub-link" href="https://github.com/agiresearch/ASB">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
-    Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><span class='show_paper_citations' data='qG5_O40AAAAJ:NaGl4SEjCO4C'></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a><br>
-    <span class="pub-me">Core contributor</span><br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span></div>
-  </div></div>
-</div>
-
-<div class="pub-section-title"><span class="lang-en">Machine Learning and Data Mining</span><span class="lang-zh">机器学习与数据挖掘</span></div>
-
-<div class="pub-list">
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a><br>
-    <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
-    <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2405.14672">Paper</a><a class="pub-link" href="https://github.com/Zhang-Henry/INACTIVE">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:GnPB-g6toBAC'></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/pdf/2501.09525">Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation</a><br>
-    <span class="pub-me">Hanrong Zhang</span>, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><a class="pub-link" href="https://arxiv.org/pdf/2501.09525">Paper</a><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10510599">Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning</a><br>
-    Xingyue Wang*, <span class="pub-me">Hanrong Zhang</span>*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/10510599">Paper</a><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span></div>
-  </div></div>
-
-  <!-- <div class="pub-item"><div class="pub-content">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10114639">Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection</a><br>
-    Peng Peng*, <span class="pub-me">Hanrong Zhang</span>*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
-    <b>IEEE Sensors Journal</b> <span class="pub-tag if">IF=4.3</span> <span class="pub-tag sci">SCI Q1</span> <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
-  </div></div> -->
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://link.springer.com/article/10.1007/s11761-023-00371-x">SAKA: an intelligent platform for semi-automated knowledge graph construction and application</a><br>
-    <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">Service Oriented Computing and Applications</span><a class="pub-link" href="https://link.springer.com/article/10.1007/s11761-023-00371-x">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:d1gkVwhDpl0C'></span></div>
-  </div></div>
-
-  <!-- <div class="pub-item"><div class="pub-content">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10035077">An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources</a><br>
-    <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Bo Qin, Hongwei Wang<br>
-    <b>IEEE ICEBE 2022</b> <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span>
-  </div></div> -->
-
-  <!-- <div class="pub-item"><div class="pub-content">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10152774">Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis</a><br>
-    Wanqiu Huang, <span class="pub-me">Hanrong Zhang</span>, Peng Peng, Hongwei Wang<br>
-    <b>IEEE CSCWD 2023</b> <span class="pub-award"><span class="lang-en">Best Paper Award Finalist</span><span class="lang-zh">最佳论文提名</span></span> <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
-  </div></div> -->
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/pdf/2605.30089v1">Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption</a><br>
-    Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><a class="pub-link" href="https://arxiv.org/pdf/2605.30089v1">Paper</a></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2508.17320">AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations</a><br>
-    Yifei Yao, <span class="pub-me">Hanrong Zhang</span>, Mengnan Du<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2508.17320">Paper</a></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
-    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://arxiv.org/abs/2409.07757">Paper</a><span class="pub-tag sci">JCR Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
-  </div></div>
-</div>
-
-
 
 <h1 id="-honors-and-awards"><span class="lang-en">🎖 Honors and Awards</span><span class="lang-zh">🎖 荣誉奖项</span></h1>
 

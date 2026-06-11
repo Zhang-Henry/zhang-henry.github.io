@@ -54,9 +54,9 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
-    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://arxiv.org/abs/2409.07757">Paper</a><span class="pub-tag sci">JCR Q1</span><span class="show_paper_citations" data="qG5_O40AAAAJ:Y0pCki6q_DkC"></span></div>
+    <a href="https://arxiv.org/abs/2606.06741">OpenSkill: Open-World Self-Evolution for LLM Agents</a><br>
+    Zhiling Yan, Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -127,6 +127,12 @@ author_profile: true
 <div class="pub-year-title">2024</div>
 
 <div class="pub-list">
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
+    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag sci">JCR Q1</span><span class="show_paper_citations" data="qG5_O40AAAAJ:Y0pCki6q_DkC"></span></div>
+  </div></div>
+
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10510599">Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning</a><br>
     Xingyue Wang*, <span class="pub-me">Hanrong Zhang</span>*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
