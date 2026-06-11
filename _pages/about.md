@@ -40,7 +40,11 @@ redirect_from:
 <div class="news-list">
   <div class="news-item">
     <span class="news-date">2026.06</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity</a> (Co-first author) is accepted by IEEE Journal of Biomedical and Health Informatics.</span><span class="lang-zh">🎉 共同一作论文 <a href="https://arxiv.org/abs/2409.07757">From Uncertainty to Clarity</a> 被 IEEE Journal of Biomedical and Health Informatics 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk at <a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">Alibaba Group</a>.</span><span class="lang-zh">🎉 受邀在<a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">阿里巴巴集团</a>做学术报告。</span></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026.06</span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> (Co-first author) is accepted by IEEE Journal of Biomedical and Health Informatics.</span><span class="lang-zh">🎉 共同一作论文 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> 被 IEEE Journal of Biomedical and Health Informatics 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.04</span>
@@ -59,12 +63,8 @@ redirect_from:
     <span class="news-content"><span class="lang-en">🎉 Invited as a reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>, ECCV 2026, ICML 2026, KDD 2026.</span><span class="lang-zh">🎉 受邀担任 <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>、ECCV 2026、ICML 2026、KDD 2026 审稿人。</span></span>
   </div>
   <div class="news-item">
-    <span class="news-date">2025.11</span>
-    <span class="news-content"><span class="lang-en">🎉 Invited as a reviewer for <a href="https://jmlr.org/tmlr/">TMLR</a>.</span><span class="lang-zh">🎉 受邀担任 <a href="https://jmlr.org/tmlr/">TMLR</a> 审稿人。</span></span>
-  </div>
-  <div class="news-item">
     <span class="news-date">2025.10</span>
-    <span class="news-content"><span class="lang-en">🎉 Invited as a reviewer for ICLR 2026, CVPR 2026, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">TNNLS</a>.</span><span class="lang-zh">🎉 受邀担任 ICLR 2026、CVPR 2026、<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">TNNLS</a> 审稿人。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Invited as a reviewer for ICLR 2026, CVPR 2026, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">TNNLS</a>, and <a href="https://jmlr.org/tmlr/">TMLR</a>.</span><span class="lang-zh">🎉 受邀担任 ICLR 2026、CVPR 2026、<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">TNNLS</a> 及 <a href="https://jmlr.org/tmlr/">TMLR</a> 审稿人。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2025.04</span>
@@ -96,46 +96,6 @@ redirect_from:
   </div>
 </div>
 
-
-<h1 id="-educations"><span class="lang-en">📖 Educations</span><span class="lang-zh">📖 教育经历</span></h1>
-
-<div class="education-list">
-  <div class="education-item phd">
-    <div class="education-info">
-      <div class="education-school"><span class="lang-en">University of Illinois Chicago</span><span class="lang-zh">伊利诺伊大学芝加哥分校</span></div>
-      <div class="education-date"><span class="lang-en">Aug. 2025 – Present</span><span class="lang-zh">2025年8月 – 至今</span></div>
-      <div class="education-degree"><span class="lang-en">Ph.D. in Computer Science</span><span class="lang-zh">计算机科学博士</span></div>
-      <div class="education-location"><span class="lang-en">USA</span><span class="lang-zh">美国</span></div>
-      <div class="education-detail"><span class="lang-en">Supervisor: Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a></span><span class="lang-zh">导师：<a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授</span></div>
-    </div>
-  </div>
-  <div class="education-item master">
-    <div class="education-info">
-      <div class="education-school"><span class="lang-en">Zhejiang University</span><span class="lang-zh">浙江大学</span></div>
-      <div class="education-date"><span class="lang-en">Sep. 2022 – Mar. 2025</span><span class="lang-zh">2022年9月 – 2025年3月</span></div>
-      <div class="education-degree"><span class="lang-en">M.Eng. in Computer Engineering</span><span class="lang-zh">计算机工程硕士</span></div>
-      <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
-      <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/82</span> · Supervisor: Prof. <a href="https://person.zju.edu.cn/en/hwang">Hongwei Wang</a></span><span class="lang-zh"><span class="education-highlight">排名：1/82</span> · 导师：<a href="https://person.zju.edu.cn/en/hwang">王宏伟</a>教授</span></div>
-    </div>
-  </div>
-  <div class="education-item bachelor">
-    <div class="education-info">
-      <div class="education-school"><span class="lang-en">University of Leeds <span class="education-qs">QS 75</span> <span class="education-badge honors">First Class Honours</span></span><span class="lang-zh">利兹大学 <span class="education-qs">QS 75</span> <span class="education-badge honors">一等荣誉学位</span></span></div>
-      <div class="education-date"><span class="lang-en">Sep. 2018 – Jun. 2022</span><span class="lang-zh">2018年9月 – 2022年6月</span></div>
-      <div class="education-degree"><span class="lang-en">B.S. in Computer Science</span><span class="lang-zh">计算机科学理学学士</span></div>
-      <div class="education-location"><span class="lang-en">United Kingdom</span><span class="lang-zh">英国</span></div>
-    </div>
-  </div>
-  <div class="education-item bachelor">
-    <div class="education-info">
-      <div class="education-school"><span class="lang-en">Southwest Jiaotong University</span><span class="lang-zh">西南交通大学</span></div>
-      <div class="education-date"><span class="lang-en">Sep. 2018 – Jun. 2022</span><span class="lang-zh">2018年9月 – 2022年6月</span></div>
-      <div class="education-degree"><span class="lang-en">B.Eng. in Computer Science and Technology</span><span class="lang-zh">计算机科学与技术工学学士</span></div>
-      <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
-      <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/75</span> · Supervisor: Prof. <a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">Tianrui Li</a></span><span class="lang-zh"><span class="education-highlight">排名：1/75</span> · 导师：<a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">李天瑞</a>教授</span></div>
-    </div>
-  </div>
-</div>
 
 <h1 id="-internships"><span class="lang-en">💻 Internships</span><span class="lang-zh">💻 实习经历</span></h1>
 
@@ -324,6 +284,46 @@ redirect_from:
     <div class="opensource-meta">
       <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/stargazers"><img src="https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub stars"></a>
       <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/network/members"><img src="https://img.shields.io/github/forks/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub forks"></a>
+    </div>
+  </div>
+</div>
+
+<h1 id="-educations"><span class="lang-en">📖 Educations</span><span class="lang-zh">📖 教育经历</span></h1>
+
+<div class="education-list">
+  <div class="education-item phd">
+    <div class="education-info">
+      <div class="education-school"><span class="lang-en">University of Illinois Chicago</span><span class="lang-zh">伊利诺伊大学芝加哥分校</span></div>
+      <div class="education-date"><span class="lang-en">Aug. 2025 – Present</span><span class="lang-zh">2025年8月 – 至今</span></div>
+      <div class="education-degree"><span class="lang-en">Ph.D. in Computer Science</span><span class="lang-zh">计算机科学博士</span></div>
+      <div class="education-location"><span class="lang-en">USA</span><span class="lang-zh">美国</span></div>
+      <div class="education-detail"><span class="lang-en">Supervisor: Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a></span><span class="lang-zh">导师：<a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授</span></div>
+    </div>
+  </div>
+  <div class="education-item master">
+    <div class="education-info">
+      <div class="education-school"><span class="lang-en">Zhejiang University</span><span class="lang-zh">浙江大学</span></div>
+      <div class="education-date"><span class="lang-en">Sep. 2022 – Mar. 2025</span><span class="lang-zh">2022年9月 – 2025年3月</span></div>
+      <div class="education-degree"><span class="lang-en">M.Eng. in Computer Engineering</span><span class="lang-zh">计算机工程硕士</span></div>
+      <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
+      <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/82</span> · Supervisor: Prof. <a href="https://person.zju.edu.cn/en/hwang">Hongwei Wang</a></span><span class="lang-zh"><span class="education-highlight">排名：1/82</span> · 导师：<a href="https://person.zju.edu.cn/en/hwang">王宏伟</a>教授</span></div>
+    </div>
+  </div>
+  <div class="education-item bachelor">
+    <div class="education-info">
+      <div class="education-school"><span class="lang-en">University of Leeds <span class="education-qs">QS 75</span> <span class="education-badge honors">First Class Honours</span></span><span class="lang-zh">利兹大学 <span class="education-qs">QS 75</span> <span class="education-badge honors">一等荣誉学位</span></span></div>
+      <div class="education-date"><span class="lang-en">Sep. 2018 – Jun. 2022</span><span class="lang-zh">2018年9月 – 2022年6月</span></div>
+      <div class="education-degree"><span class="lang-en">B.S. in Computer Science</span><span class="lang-zh">计算机科学理学学士</span></div>
+      <div class="education-location"><span class="lang-en">United Kingdom</span><span class="lang-zh">英国</span></div>
+    </div>
+  </div>
+  <div class="education-item bachelor">
+    <div class="education-info">
+      <div class="education-school"><span class="lang-en">Southwest Jiaotong University</span><span class="lang-zh">西南交通大学</span></div>
+      <div class="education-date"><span class="lang-en">Sep. 2018 – Jun. 2022</span><span class="lang-zh">2018年9月 – 2022年6月</span></div>
+      <div class="education-degree"><span class="lang-en">B.Eng. in Computer Science and Technology</span><span class="lang-zh">计算机科学与技术工学学士</span></div>
+      <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
+      <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/75</span> · Supervisor: Prof. <a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">Tianrui Li</a></span><span class="lang-zh"><span class="education-highlight">排名：1/75</span> · 导师：<a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">李天瑞</a>教授</span></div>
     </div>
   </div>
 </div>

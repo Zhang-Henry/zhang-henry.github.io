@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.file_path // .tool_response.filePath // empty' | { read -r f; case \"$f\" in */CV/CV.tex) cd \"$(dirname \"$f\")\" && pdflatex -interaction=nonstopmode CV.tex >/dev/null 2>&1 && cp CV.pdf ../assets/pdf/CV_Hanrong_Zhang.pdf && echo '{\"systemMessage\":\"CV.pdf synced to assets/pdf/CV_Hanrong_Zhang.pdf\"}';; esac; } 2>/dev/null || true",
+            "timeout": 60,
+            "statusMessage": "Compiling CV and syncing to website..."
+          }
+        ]
+      }
+    ]
+  }
+}

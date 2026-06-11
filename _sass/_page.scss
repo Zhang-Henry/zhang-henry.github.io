@@ -839,6 +839,24 @@
   margin: 1em 0 1.5em;
   display: flex;
   flex-direction: column;
+  max-height: 320px;
+  overflow-y: auto;
+  padding-right: 0.4em;
+
+  /* slim scrollbar */
+  scrollbar-width: thin;
+  scrollbar-color: #c7d2e0 transparent;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #c7d2e0;
+    border-radius: 3px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
 }
 
 .news-item {
