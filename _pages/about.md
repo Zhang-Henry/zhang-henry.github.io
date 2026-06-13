@@ -107,6 +107,7 @@ redirect_from:
     <div class="internship-info">
       <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google</span></span></div>
       <div class="internship-date">2026.05 – 2026.08</div>
+      <div class="internship-desc"><span class="lang-en">Work on multimodal agent</span><span class="lang-zh">多模态智能体研究</span></div>
       <div class="internship-location"><span class="lang-en">Mountain View, CA, USA</span><span class="lang-zh">美国加州山景城</span></div>
     </div>
   </div>
