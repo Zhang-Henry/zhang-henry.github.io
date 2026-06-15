@@ -141,11 +141,7 @@ redirect_from:
 <div class="pub-section-title"><span class="lang-en">LLM Agents</span><span class="lang-zh">大语言模型智能体</span></div>
 
 <div class="pub-list">
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey</a><br>
-    <span class="pub-me">Hanrong Zhang</span>*, Yankai Chen*†, Shicheng Fan, Dehai Min, Shaowen Chen, Huanhuan Ma, ..., Hongwei Wang, Dawn Song, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Paper</a></div>
-  </div></div>
+
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
@@ -158,7 +154,11 @@ redirect_from:
     <span class="pub-me">Hanrong Zhang</span>, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
     <div class="pub-link-row"><span class="pub-venue">ICLR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2410.02644">Paper</a><a class="pub-link" href="https://luckfort.github.io/ASBench/">Website</a><a class="pub-link" href="https://github.com/agiresearch/ASB">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span></div>
   </div></div>
-
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey</a><br>
+    <span class="pub-me">Hanrong Zhang</span>*, Yankai Chen*†, Shicheng Fan, Dehai Min, Shaowen Chen, Huanhuan Ma, ..., Hongwei Wang, Dawn Song, Philip S. Yu, Xue Liu<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Paper</a></div>
+  </div></div>
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
