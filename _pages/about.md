@@ -217,17 +217,17 @@ redirect_from:
     <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag sci">JCR Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
   </div></div>
 
-  <!-- <div class="pub-item"><div class="pub-content">
+  <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10035077">An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Bo Qin, Hongwei Wang<br>
     <b>IEEE ICEBE 2022</b> <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span>
-  </div></div> -->
+  </div></div>
 
-  <!-- <div class="pub-item"><div class="pub-content">
+  <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10152774">Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis</a><br>
     Wanqiu Huang, <span class="pub-me">Hanrong Zhang</span>, Peng Peng, Hongwei Wang<br>
     <b>IEEE CSCWD 2023</b> <span class="pub-award"><span class="lang-en">Best Paper Award Finalist</span><span class="lang-zh">最佳论文提名</span></span> <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
-  </div></div> -->
+  </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/pdf/2605.30089v1">Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption</a><br>
