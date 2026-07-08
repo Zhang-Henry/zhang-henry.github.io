@@ -39,12 +39,17 @@ redirect_from:
 
 <div class="news-list">
   <div class="news-item">
+    <span class="news-date">2026.07</span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills</a> is accepted by COLM 2026. See you in San Francisco!</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills</a> 被 COLM 2026 录用，旧金山见！</span></span>
+  </div>
+  <div class="news-item">
     <span class="news-date">2026.06</span>
     <span class="news-content"><span class="lang-en">🎉 Invited to give a talk at <a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">Alibaba Group</a>.</span><span class="lang-zh">🎉 受邀在<a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">阿里巴巴集团</a>做学术报告。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> (Co-first author) is accepted by IEEE Journal of Biomedical and Health Informatics.</span><span class="lang-zh">🎉 共同一作论文 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> 被 IEEE Journal of Biomedical and Health Informatics 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion
+</a> is accepted by IEEE Journal of Biomedical and Health Informatics.</span><span class="lang-zh">🎉 共同一作论文 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> 被 IEEE Journal of Biomedical and Health Informatics 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.04</span>
@@ -58,14 +63,14 @@ redirect_from:
     <span class="news-date">2026.02</span>
     <span class="news-content"><span class="lang-en">🎉 I will join Google as a Student Researcher in 2026 summer.</span><span class="lang-zh">🎉 将于2026年夏季加入 Google 担任 Student Researcher。</span></span>
   </div>
-  <div class="news-item">
+  <!-- <div class="news-item">
     <span class="news-date">2026.01</span>
     <span class="news-content"><span class="lang-en">🎉 Invited as a reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>, ECCV 2026, ICML 2026, KDD 2026.</span><span class="lang-zh">🎉 受邀担任 <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>、ECCV 2026、ICML 2026、KDD 2026 审稿人。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2025.10</span>
     <span class="news-content"><span class="lang-en">🎉 Invited as a reviewer for ICLR 2026, CVPR 2026, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">TNNLS</a>, and <a href="https://jmlr.org/tmlr/">TMLR</a>.</span><span class="lang-zh">🎉 受邀担任 ICLR 2026、CVPR 2026、<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">TNNLS</a> 及 <a href="https://jmlr.org/tmlr/">TMLR</a> 审稿人。</span></span>
-  </div>
+  </div> -->
   <div class="news-item">
     <span class="news-date">2025.04</span>
     <span class="news-content"><span class="lang-en">🎉 Give a talk at <a href="https://www.xtra.science/2025/04/invited-speakers/">Xtra Computing Group</a> of Prof. <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> at School of Computing, NUS.</span><span class="lang-zh">🎉 受邀在新加坡国立大学计算学院 <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> 教授的 <a href="https://www.xtra.science/2025/04/invited-speakers/">Xtra Computing Group</a> 做学术报告。</span></span>
@@ -107,7 +112,7 @@ redirect_from:
     <div class="internship-info">
       <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google</span></span></div>
       <div class="internship-date">2026.05 – 2026.08</div>
-      <div class="internship-desc"><span class="lang-en">Work on multimodal agent</span><span class="lang-zh">多模态智能体研究</span></div>
+      <div class="internship-desc"><span class="lang-en">Research on data sythesis for GUI agent</span><span class="lang-zh">GUI 智能体数据合成研究</span></div>
       <div class="internship-location"><span class="lang-en">Mountain View, CA, USA</span><span class="lang-zh">美国加州山景城</span></div>
     </div>
   </div>
@@ -146,7 +151,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen†, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:JV2RwH3_ST0C'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">COLM 2026</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:JV2RwH3_ST0C'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -453,7 +458,7 @@ redirect_from:
       <span class="service-tag journal">TNNLS</span>
       <span class="service-tag journal">Pattern Recognition</span>
       <span class="service-tag journal">TMLR</span>
-      <span class="service-tag journal">IEEE Transactions on Industrial Informatics</span>
+      <span class="service-tag journal">IEEE Trans. on Industrial Informatics</span>
       <span class="service-tag journal">IEEE Trans. Reliability</span>
       <span class="service-tag journal">IEEE Trans. Computational Biology and Bioinformatics</span>
       <span class="service-tag journal">IEEE Trans. Industrial Cyber-Physical Systems</span>

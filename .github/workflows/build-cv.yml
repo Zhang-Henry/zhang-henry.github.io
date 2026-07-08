@@ -1,0 +1,53 @@
+name: Build CV PDF
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "CV/CV_Hanrong_Zhang.tex"
+      - "scripts/build_cv.sh"
+      - ".github/workflows/build-cv.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-cv-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-cv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            latexmk \
+            texlive-fonts-extra \
+            texlive-fonts-recommended \
+            texlive-latex-base \
+            texlive-latex-extra \
+            texlive-latex-recommended
+
+      - name: Build and sync CV PDF
+        run: ./scripts/build_cv.sh
+
+      - name: Commit updated CV PDF
+        run: |
+          if git diff --quiet -- CV/CV_Hanrong_Zhang.pdf assets/pdf/CV_Hanrong_Zhang.pdf; then
+            echo "CV PDFs are already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CV/CV_Hanrong_Zhang.pdf assets/pdf/CV_Hanrong_Zhang.pdf
+          git commit -m "Build CV PDF"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

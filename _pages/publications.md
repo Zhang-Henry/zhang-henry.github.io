@@ -38,7 +38,7 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen†, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class="show_paper_citations" data="qG5_O40AAAAJ:JV2RwH3_ST0C"></span></div>
+    <div class="pub-link-row"><span class="pub-venue">COLM 2026</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class="show_paper_citations" data="qG5_O40AAAAJ:JV2RwH3_ST0C"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
