@@ -98,7 +98,7 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a><br>
     Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, Liangwei Yang, Rui Yang, Wooseong Yang, Chin-Yuan Yeh, <span class="pub-me">Hanrong Zhang (core contributor)</span>, Haozhen Zhang, Siqi Zhu, Henry Peng Zou, Wanjia Zhao, Song Wang, Wujiang Xu, Zixuan Ke, Zheng Hui, Dawei Li, Yaozu Wu, Langzhou He, Chen Wang, Xiongxiao Xu, Baixiang Huang, Juntao Tan, Shelby Heinecke, Huan Wang, Caiming Xiong, Ahmed A. Metwally, Jun Yan, Chen-Yu Lee, Hanqing Zeng, Yinglong Xia, Xiaokai Wei, Ali Payani, Yu Wang, Haitong Ma, Wenya Wang, Chenguang Wang, Yu Zhang, Xin Wang, Yongfeng Zhang, Jiaxuan You, Hanghang Tong, Xiao Luo, Xue Liu, Yizhou Sun, Wei Wang, Julian McAuley, James Zou, Jiawei Han, Philip S. Yu, Kai Shu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:aqlVkmm33-oC"></span></div>
+    <div class="pub-link-row"><span class="pub-venue">TMLR</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:aqlVkmm33-oC"></span></div>
   </div></div>
 </div>
 
@@ -136,7 +136,7 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
     Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag sci">JCR Q1</span><span class="show_paper_citations" data="qG5_O40AAAAJ:Y0pCki6q_DkC"></span></div>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag if">IF=6.8</span><span class="pub-tag sci">JCR Q1</span><span class="show_paper_citations" data="qG5_O40AAAAJ:Y0pCki6q_DkC"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">

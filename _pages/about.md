@@ -44,6 +44,10 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a> is accepted by TMLR.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a> 被 TMLR 录用。</span></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026.06</span>
     <span class="news-content"><span class="lang-en">🎉 Invited to give a talk at <a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">Alibaba Group</a>.</span><span class="lang-zh">🎉 受邀在<a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">阿里巴巴集团</a>做学术报告。</span></span>
   </div>
   <div class="news-item">
@@ -112,7 +116,7 @@ redirect_from:
     <div class="internship-info">
       <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google</span></span></div>
       <div class="internship-date">2026.05 – 2026.08</div>
-      <div class="internship-desc"><span class="lang-en">Research on data sythesis for GUI agent</span><span class="lang-zh">GUI 智能体数据合成研究</span></div>
+      <div class="internship-desc"><span class="lang-en">Research on data synthesis for AI agent</span><span class="lang-zh">GUI 智能体数据合成研究</span></div>
       <div class="internship-location"><span class="lang-en">Mountain View, CA, USA</span><span class="lang-zh">美国加州山景城</span></div>
     </div>
   </div>
@@ -179,7 +183,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a><br>
     <span class="pub-me">Core contributor</span><br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">TMLR</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span></div>
   </div></div>
 </div>
 
@@ -219,7 +223,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
     Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag sci">JCR Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag if">IF=6.8</span><span class="pub-tag sci">JCR Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
