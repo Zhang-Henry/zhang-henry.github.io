@@ -111,12 +111,12 @@ redirect_from:
 <div class="internship-list">
   <div class="internship-item">
     <div class="internship-logo">
-      <img src="/images/google-logo.png" alt="Google">
+      <img src="/images/google-logo.png" alt="Google LLC">
     </div>
     <div class="internship-info">
-      <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google</span></span></div>
-      <div class="internship-date">2026.05 – 2026.08</div>
-      <div class="internship-desc"><span class="lang-en">Research on data synthesis for AI agent</span><span class="lang-zh">GUI 智能体数据合成研究</span></div>
+      <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google LLC</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google LLC</span></span></div>
+      <div class="internship-date">2026.05 – Present</div>
+      <div class="internship-desc"><span class="lang-en">Data Synthesis for Gemini and Long-Horizon GUI Agents</span><span class="lang-zh">Gemini 与长程 GUI 智能体数据合成研究</span></div>
       <div class="internship-location"><span class="lang-en">Mountain View, CA, USA</span><span class="lang-zh">美国加州山景城</span></div>
     </div>
   </div>
