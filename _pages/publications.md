@@ -74,7 +74,7 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2605.20956">A Deployment Audit of Release-Side Risk in Conformal Triage under Prevalence Shift</a><br>
     Chengze Li, Xiao Liu, <span class="pub-me">Hanrong Zhang</span>, Haiyang Peng, Yanghao Ruan, Huanhuan Ma, Chunyu Miao, Qichao Zhou, Xiangrong Qi, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">15th Symposium on Conformal and Probabilistic Prediction with Applications</span><a class="pub-link" href="https://arxiv.org/abs/2605.20956">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">15th Symposium on Conformal and Probabilistic Prediction with Applications</span><span class="pub-tag oral">Oral</span><a class="pub-link" href="https://arxiv.org/abs/2605.20956">Paper</a></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
