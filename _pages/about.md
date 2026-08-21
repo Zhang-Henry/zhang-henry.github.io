@@ -39,6 +39,10 @@ redirect_from:
 
 <div class="news-list">
   <div class="news-item">
+    <span class="news-date">2026.08</span>
+    <span class="news-content"><span class="lang-en">🎉 Three papers are accepted by EMNLP 2026.</span><span class="lang-zh">🎉 三篇论文被 EMNLP 2026 录用。</span></span>
+  </div>
+  <div class="news-item">
     <span class="news-date">2026.07</span>
     <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills</a> is accepted by COLM 2026. See you in San Francisco!</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills</a> 被 COLM 2026 录用，旧金山见！</span></span>
   </div>
@@ -177,7 +181,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2606.06741">OpenSkill: Open-World Self-Evolution for LLM Agents</a><br>
     Zhiling Yan, Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a></div>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">

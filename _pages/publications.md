@@ -62,13 +62,19 @@ author_profile: true
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2606.06741">OpenSkill: Open-World Self-Evolution for LLM Agents</a><br>
     Zhiling Yan, Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a></div>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://openreview.net/forum?id=GYEZL0GbjT">AutoCRAT: Within-trajectory Joint Control of Stochasticity and Compute for LLM Reasoning</a><br>
+    Hanjun Luo, Qiushi Liu, Jingya Zhang, Haihong Pang, Jiaheng Wen, Yifei Ma, Yu Yao, Chengxi Zhang, <span class="pub-me">Hanrong Zhang</span>, Yankai Chen, Hanan Salam<br>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://openreview.net/forum?id=GYEZL0GbjT">Paper</a></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2605.20956">A Deployment Audit of Release-Side Risk in Conformal Triage under Prevalence Shift</a><br>
     Chengze Li, Xiao Liu, <span class="pub-me">Hanrong Zhang</span>, Haiyang Peng, Yanghao Ruan, Huanhuan Ma, Chunyu Miao, Qichao Zhou, Xiangrong Qi, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2605.20956">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">15th Symposium on Conformal and Probabilistic Prediction with Applications</span><a class="pub-link" href="https://arxiv.org/abs/2605.20956">Paper</a></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -85,8 +91,8 @@ author_profile: true
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.03592">Unveiling Language Routing Isolation in Multilingual MoE Models for Interpretable Subnetwork Adaptation</a><br>
-    Kening Zheng, Wei-Chieh Huang, Jiahao Huo, Zhonghao Li, Henry Peng Zou, Yibo Yan, Xin Zou, Jungang Li, Junzhuo Li, <span class="pub-me">Hanrong Zhang</span>, Xuming Hu, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2604.03592">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:NMxIlDl6LWMC"></span></div>
+    Kening Zheng, Wei-Chieh Huang, Jiahao Huo, Zhonghao Li, Henry Peng Zou, Yibo Yan, Xin Zou, Jungang Li, <span class="pub-me">Hanrong Zhang</span>, Xuming Hu, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://arxiv.org/abs/2604.03592">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:NMxIlDl6LWMC"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
