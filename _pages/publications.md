@@ -60,6 +60,12 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
+    <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: A Unified System for the Vibe Research Paradigm</a><br>
+    Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Dawei Liu, Yixin Liu, Zongxia Li, Zhengqing Yuan, Siqi Zhang, Henry Peng Zou, Zhiling Yan, Yuxuan Zhang, Yanfang Ye, Philip S. Yu, Lichao Sun<br>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://openreview.net/forum?id=M30F2071sz">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/dr-claw">Code</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2606.06741">OpenSkill: Open-World Self-Evolution for LLM Agents</a><br>
     Zhiling Yan, Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun<br>
     <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a></div>

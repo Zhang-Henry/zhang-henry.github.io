@@ -40,7 +40,7 @@ redirect_from:
 <div class="news-list">
   <div class="news-item">
     <span class="news-date">2026.08</span>
-    <span class="news-content"><span class="lang-en">🎉 Three papers are accepted by EMNLP 2026.</span><span class="lang-zh">🎉 三篇论文被 EMNLP 2026 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Four papers are accepted by EMNLP 2026.</span><span class="lang-zh">🎉 四篇论文被 EMNLP 2026 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.07</span>
@@ -163,6 +163,12 @@ redirect_from:
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
+    <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: A Unified System for the Vibe Research Paradigm</a><br>
+    Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Dawei Liu, Yixin Liu, Zongxia Li, Zhengqing Yuan, Siqi Zhang, Henry Peng Zou, Zhiling Yan, Yuxuan Zhang, Yanfang Ye, Philip S. Yu, Lichao Sun<br>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://openreview.net/forum?id=M30F2071sz">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/dr-claw">Code</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
     <div class="pub-link-row"><span class="pub-venue">ICLR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2410.02644">Paper</a><a class="pub-link" href="https://luckfort.github.io/ASBench/">Website</a><a class="pub-link" href="https://github.com/agiresearch/ASB">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span></div>
@@ -269,6 +275,7 @@ redirect_from:
     <div class="opensource-meta">
       <a href="https://github.com/OpenLAIR/dr-claw/stargazers"><img src="https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social" alt="GitHub stars"></a>
       <a href="https://github.com/OpenLAIR/dr-claw/network/members"><img src="https://img.shields.io/github/forks/OpenLAIR/dr-claw?style=social" alt="GitHub forks"></a>
+      <span class="opensource-venue">EMNLP 2026</span>
     </div>
   </div>
   <div class="opensource-card">
