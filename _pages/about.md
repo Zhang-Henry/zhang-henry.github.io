@@ -311,6 +311,7 @@ redirect_from:
     <div class="opensource-meta">
       <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/stargazers"><img src="https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub stars"></a>
       <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/network/members"><img src="https://img.shields.io/github/forks/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub forks"></a>
+      <span class="opensource-venue">ACL 2026</span>
     </div>
   </div>
 </div>
