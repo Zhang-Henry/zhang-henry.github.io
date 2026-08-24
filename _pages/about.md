@@ -151,7 +151,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-section-title"><span class="lang-en">LLM Agents</span><span class="lang-zh">大语言模型智能体</span></div>
+<div class="pub-section-title"><span class="lang-en">AI Agent</span><span class="lang-zh">AI 智能体</span></div>
 
 <div class="pub-list">
 
@@ -356,7 +356,7 @@ redirect_from:
   </div>
 </div>
 
-<h1 id="-honors-and-awards"><span class="lang-en">🎖 Honors and Awards</span><span class="lang-zh">🎖 荣誉奖项</span></h1>
+<h1 id="-honors-and-awards"><span class="lang-en">🎖 Selected Honors and Awards</span><span class="lang-zh">🎖 部分荣誉奖项</span></h1>
 
 <div class="awards-grid">
   <div class="awards-card">
