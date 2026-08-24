@@ -16,20 +16,20 @@ redirect_from:
     <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)，同时担任Google学生研究员。此前我于浙江大学获得计算机硕士学位，两次获得国家奖学金，也在阿里巴巴集团担任过研究实习生。</span>
   </p>
   <div class="bio-interests">
-    <span class="bio-interests-label"><span class="lang-en">Research Interests</span><span class="lang-zh">研究方向</span></span>
+    <span class="bio-interests-label"><span class="lang-en">Recent Research Interests</span><span class="lang-zh">近期研究方向</span></span>
     <div class="bio-groups">
       <div class="bio-group">
-        <span class="bio-group-title"><span class="lang-en">LLM Agent</span><span class="lang-zh">大语言模型智能体</span></span>
-        <span class="bio-tag"><span class="lang-en">Agent Training</span><span class="lang-zh">智能体训练</span></span>
-        <span class="bio-tag"><span class="lang-en">Tool Learning</span><span class="lang-zh">工具学习</span></span>
-        <span class="bio-tag"><span class="lang-en">Data Synthesis</span><span class="lang-zh">数据合成</span></span>
-        <span class="bio-tag"><span class="lang-en">Agentic RL</span><span class="lang-zh">智能体强化学习</span></span>
-        <span class="bio-tag"><span class="lang-en">Agent Safety &amp; Security</span><span class="lang-zh">智能体安全</span></span>
+        <span class="bio-group-title"><span class="lang-en">AI Agent Training-Free Optimization</span><span class="lang-zh">AI 智能体免训练优化</span></span>
+        <span class="bio-tag"><span class="lang-en">Self-Evolving Agent</span><span class="lang-zh">自进化智能体</span></span>
+        <span class="bio-tag"><span class="lang-en">Agent Memory</span><span class="lang-zh">智能体记忆</span></span>
+        <span class="bio-tag bio-tag-long"><span class="lang-en">GUI Agent (Computer-Use Agent and Mobile Agent)</span><span class="lang-zh">GUI 智能体（计算机操作智能体与移动智能体）</span></span>
+        <span class="bio-tag"><span class="lang-en">Agent Security and Safety</span><span class="lang-zh">智能体安全与可信</span></span>
       </div>
       <div class="bio-group">
-        <span class="bio-group-title"><span class="lang-en">LLM</span><span class="lang-zh">大语言模型</span></span>
-        <span class="bio-tag"><span class="lang-en">LLM Reasoning</span><span class="lang-zh">大模型推理</span></span>
-        <span class="bio-tag"><span class="lang-en">LLM Post-training</span><span class="lang-zh">大模型后训练</span></span>
+        <span class="bio-group-title"><span class="lang-en">AI Agent Training</span><span class="lang-zh">AI 智能体训练</span></span>
+        <span class="bio-tag"><span class="lang-en">Data Synthesis for Agent Training</span><span class="lang-zh">面向智能体训练的数据合成</span></span>
+        <span class="bio-tag"><span class="lang-en">Agentic RL</span><span class="lang-zh">智能体强化学习</span></span>
+        <span class="bio-tag"><span class="lang-en">Agent Tool Learning</span><span class="lang-zh">智能体工具学习</span></span>
       </div>
     </div>
   </div>
@@ -163,12 +163,6 @@ redirect_from:
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: A Unified System for the Vibe Research Paradigm</a><br>
-    Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Dawei Liu, Yixin Liu, Zongxia Li, Zhengqing Yuan, Siqi Zhang, Henry Peng Zou, Zhiling Yan, Yuxuan Zhang, Yanfang Ye, Philip S. Yu, Lichao Sun<br>
-    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://openreview.net/forum?id=M30F2071sz">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/dr-claw">Code</a></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
     <div class="pub-link-row"><span class="pub-venue">ICLR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2410.02644">Paper</a><a class="pub-link" href="https://luckfort.github.io/ASBench/">Website</a><a class="pub-link" href="https://github.com/agiresearch/ASB">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span></div>
@@ -188,6 +182,12 @@ redirect_from:
     <a href="https://arxiv.org/abs/2606.06741">OpenSkill: Open-World Self-Evolution for LLM Agents</a><br>
     Zhiling Yan, Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun<br>
     <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: A Unified System for the Vibe Research Paradigm</a><br>
+    Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Dawei Liu, Yixin Liu, Zongxia Li, Zhengqing Yuan, Siqi Zhang, Henry Peng Zou, Zhiling Yan, Yuxuan Zhang, Yanfang Ye, Philip S. Yu, Lichao Sun<br>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://openreview.net/forum?id=M30F2071sz">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/dr-claw">Code</a></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
