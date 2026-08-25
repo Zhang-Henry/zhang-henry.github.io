@@ -48,7 +48,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a> is accepted by TMLR.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a> 被 TMLR 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a> is accepted by TMLR.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a> 被 TMLR 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
@@ -191,7 +191,7 @@ redirect_from:
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a><br>
+    <a href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a><br>
     <span class="pub-me">Core contributor</span><br>
     <div class="pub-link-row"><span class="pub-venue">TMLR</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span></div>
   </div></div>

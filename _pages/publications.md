@@ -30,6 +30,12 @@ author_profile: true
 
 <div class="pub-list">
   <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2608.15008">Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents</a><br>
+    Wei-Chieh Huang, Weizhi Zhang, Yuchen Wu, Yankai Chen, Eric Hanchen Jiang, Wooseong Yang, Yiwei Yang, Henry Peng Zou, <span class="pub-me">Hanrong Zhang</span>, Ying Nian Wu, Haolun Wu, Kai-Wei Chang, Philip S. Yu, Xue Liu, Aylin Caliskan<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://arxiv.org/abs/2608.15008">Paper</a><a class="pub-link" href="https://www.catalyzex.com/paper/arxiv:2608.15008/code">Request Code</a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <a href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Yankai Chen*†, Shicheng Fan, Dehai Min, Shaowen Chen, Huanhuan Ma, Zhaofen Wu, Jie Yang, Bowei He, Jikun Kang, Kening Zheng, Xi Chen, Chunyu Miao, Fulin Lin, Wei-Chieh Huang, Jiayu Zhou, Haolun Wu, Liancheng Fang, Hong Kang, Langzhou He, Henry Peng Zou, Chengze Li, Jialong Wu, Haiwen Hong, Zhaorun Chen, Hanjun Luo, Linghe Kong, Hongwei Wang, Dawn Song, Philip S. Yu, Xue Liu<br>
     <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Paper</a></div>
@@ -108,7 +114,7 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2602.06052">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</a><br>
+    <a href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a><br>
     Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, Liangwei Yang, Rui Yang, Wooseong Yang, Chin-Yuan Yeh, <span class="pub-me">Hanrong Zhang (core contributor)</span>, Haozhen Zhang, Siqi Zhu, Henry Peng Zou, Wanjia Zhao, Song Wang, Wujiang Xu, Zixuan Ke, Zheng Hui, Dawei Li, Yaozu Wu, Langzhou He, Chen Wang, Xiongxiao Xu, Baixiang Huang, Juntao Tan, Shelby Heinecke, Huan Wang, Caiming Xiong, Ahmed A. Metwally, Jun Yan, Chen-Yu Lee, Hanqing Zeng, Yinglong Xia, Xiaokai Wei, Ali Payani, Yu Wang, Haitong Ma, Wenya Wang, Chenguang Wang, Yu Zhang, Xin Wang, Yongfeng Zhang, Jiaxuan You, Hanghang Tong, Xiao Luo, Xue Liu, Yizhou Sun, Wei Wang, Julian McAuley, James Zou, Jiawei Han, Philip S. Yu, Kai Shu<br>
     <div class="pub-link-row"><span class="pub-venue">TMLR</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class="show_paper_citations" data="qG5_O40AAAAJ:aqlVkmm33-oC"></span></div>
   </div></div>
