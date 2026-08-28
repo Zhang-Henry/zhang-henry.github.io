@@ -173,7 +173,7 @@ redirect_from:
     <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Paper</a></div>
   </div></div>
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph Memory for LLM-based Agents</a><br>
+    <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph-based Agentic Memory for LLM Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
     <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><span class='show_paper_citations' data='qG5_O40AAAAJ:NaGl4SEjCO4C'></span></div>
   </div></div>
@@ -233,7 +233,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
     Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag if">IF=6.8</span><span class="pub-tag sci">JCR Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag if">IF=7.7</span><span class="pub-tag sci">SCI Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -456,6 +456,7 @@ redirect_from:
       <i class="fas fa-users"></i> <span class="lang-en">Conference Program Committee / Reviewer</span><span class="lang-zh">会议程序委员会 / 审稿人</span>
     </div>
     <div class="service-card-body">
+      <span class="service-tag conf">ICLR 2027</span>
       <span class="service-tag conf">ICLR 2026</span>
       <span class="service-tag conf">ICML 2026</span>
       <span class="service-tag conf">NeurIPS 2026</span>
