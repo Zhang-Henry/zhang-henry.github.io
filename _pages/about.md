@@ -12,8 +12,8 @@ redirect_from:
 
 <div class="bio-card">
   <p class="bio-text">
-    <span class="lang-en">Hi, there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS), also a Google Student Researcher. Prior to that, I received my CS Master degree from Zhejiang University, and was awarded the National Scholarship twice. I was also a research intern at Alibaba Group.</span>
-    <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)，同时担任Google学生研究员。此前我于浙江大学获得计算机硕士学位，两次获得国家奖学金，也在阿里巴巴集团担任过研究实习生。</span>
+    <span class="lang-en">Hi, there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS), also a Google Student Researcher. Prior to that, I received my CS Master degree from Zhejiang University, and was awarded the National Scholarship twice. I was also a research intern at Alibaba Group. I have published several papers at top-tier venues, including but not limited to ICLR, ICML, CVPR, ACL, EMNLP, and TMLR.</span>
+    <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)，同时担任 Google 学生研究员。我在 ICLR、ICML、ACL、EMNLP、CVPR 和 TMLR 等顶级会议及期刊发表了多篇论文。此前我于浙江大学获得计算机硕士学位，两次获得国家奖学金，也在阿里巴巴集团担任过研究实习生。</span>
   </p>
   <div class="bio-interests">
     <span class="bio-interests-label"><span class="lang-en">Recent Research Interests</span><span class="lang-zh">近期研究方向</span></span>
@@ -52,7 +52,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
-    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk at <a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">Alibaba Group</a>.</span><span class="lang-zh">🎉 受邀在<a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">阿里巴巴集团</a>做学术报告。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk on <strong>Towards Self-Evolving Agent Skills</strong> at <a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">Alibaba Group</a>.</span><span class="lang-zh">🎉 受邀在<a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">阿里巴巴集团</a>作题为“Towards Self-Evolving Agent Skills”的学术报告。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
@@ -121,7 +121,7 @@ redirect_from:
       <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google LLC</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google LLC</span></span></div>
       <div class="internship-date">2026.05 – Present</div>
       <div class="internship-desc"><span class="lang-en">Data Synthesis for Gemini and Long-Horizon GUI Agents</span><span class="lang-zh">Gemini 与长程 GUI 智能体数据合成研究</span></div>
-      <div class="internship-location"><span class="lang-en">Mountain View, CA, USA</span><span class="lang-zh">美国加州山景城</span></div>
+      <div class="internship-location"><span class="lang-en">Mountain View, California</span><span class="lang-zh">美国加州山景城</span></div>
     </div>
   </div>
   <div class="internship-item">
@@ -456,8 +456,8 @@ redirect_from:
       <i class="fas fa-users"></i> <span class="lang-en">Conference Program Committee / Reviewer</span><span class="lang-zh">会议程序委员会 / 审稿人</span>
     </div>
     <div class="service-card-body">
-      <span class="service-tag conf">ICLR 2027</span>
-      <span class="service-tag conf">ICLR 2026</span>
+      <span class="service-tag conf">AAAI 2027</span>
+      <span class="service-tag conf">ICLR 2026–2027</span>
       <span class="service-tag conf">ICML 2026</span>
       <span class="service-tag conf">NeurIPS 2026</span>
       <span class="service-tag conf">CVPR 2026</span>
