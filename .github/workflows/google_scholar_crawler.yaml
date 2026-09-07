@@ -9,8 +9,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # The proxy lookup can stall; fail in minutes instead of burning the
+    # 6-hour default and showing up as "cancelled".
+    timeout-minutes: 30
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
