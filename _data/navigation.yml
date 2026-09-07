@@ -14,7 +14,7 @@ main:
 
   - title: "Publications"
     title_zh: "论文"
-    url: "/publications/"
+    url: "/#-publications"
 
   - title: "Open Source Projects"
     title_zh: "开源项目"

@@ -21,8 +21,12 @@
                 var paperId = element.getAttribute('data');
                 if (data['publications'] && data['publications'][paperId]) {
                     var numCitations = data['publications'][paperId]['num_citations'];
-                    element.classList.add('citation-badge');
-                    element.innerHTML = '<i class="ai ai-google-scholar"></i> ' + numCitations + ' cited';
+                    // Hide the badge entirely for papers with no citations yet,
+                    // so a freshly posted preprint doesn't show "0 cited".
+                    if (numCitations > 0) {
+                        element.classList.add('citation-badge');
+                        element.innerHTML = '<i class="ai ai-google-scholar"></i> ' + numCitations + ' cited';
+                    }
                 }
             });
         });

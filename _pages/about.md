@@ -147,7 +147,6 @@ redirect_from:
   <div class="pub-actions">
     <a class="pub-action scholar_url" href="https://scholar.google.com/citations?user=qG5_O40AAAAJ"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
     <span class="pub-action"><i class="ai ai-google-scholar"></i> <span id="total_cit">...</span> citations</span>
-    <a class="pub-action pub-action-primary" href="{{ '/publications/' | relative_url }}"><span class="lang-en">Full Publications</span><span class="lang-zh">全部论文</span></a>
   </div>
 </div>
 
@@ -170,30 +169,30 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Yankai Chen*†, Shicheng Fan, Dehai Min, Shaowen Chen, Huanhuan Ma, ..., Hongwei Wang, Dawn Song, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:HoB7MX3m0LUC'></span></div>
   </div></div>
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph-based Agentic Memory for LLM Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><span class='show_paper_citations' data='qG5_O40AAAAJ:NaGl4SEjCO4C'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><a class="pub-link" href="https://arxiv.org/abs/2604.12285">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:fPk4N6BV_jEC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2606.06741">OpenSkill: Open-World Self-Evolution for LLM Agents</a><br>
     Zhiling Yan, Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun<br>
-    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a></div>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:pqnbT2bcN3wC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: A Unified System for the Vibe Research Paradigm</a><br>
     Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Dawei Liu, Yixin Liu, Zongxia Li, Zhengqing Yuan, Siqi Zhang, Henry Peng Zou, Zhiling Yan, Yuxuan Zhang, Yanfang Ye, Philip S. Yu, Lichao Sun<br>
-    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://openreview.net/forum?id=M30F2071sz">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/dr-claw">Code</a></div>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://openreview.net/forum?id=M30F2071sz">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/dr-claw">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:EUQCXRtRnyEC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a><br>
     <span class="pub-me">Core contributor</span><br>
-    <div class="pub-link-row"><span class="pub-venue">TMLR</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:aqlVkmm33-oC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">TMLR</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:f2IySw72cVMC'></span></div>
   </div></div>
 </div>
 
@@ -233,7 +232,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
     Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag if">IF=7.7</span><span class="pub-tag sci">SCI Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:Y0pCki6q_DkC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag if">IF=7.7</span><span class="pub-tag sci">SCI Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4OULZ7Gr8RgC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -251,13 +250,13 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/pdf/2605.30089v1">Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption</a><br>
     Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><a class="pub-link" href="https://arxiv.org/pdf/2605.30089v1">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><a class="pub-link" href="https://arxiv.org/pdf/2605.30089v1">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:2P1L_qKh6hAC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2508.17320">AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations</a><br>
     Yifei Yao, <span class="pub-me">Hanrong Zhang</span>, Mengnan Du<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2508.17320">Paper</a></div>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2508.17320">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:3s1wT3WcHBgC'></span></div>
   </div></div>
 </div>
 
