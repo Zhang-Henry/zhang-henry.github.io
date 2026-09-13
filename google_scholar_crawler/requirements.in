@@ -1,0 +1,16 @@
+# Direct dependencies. Edit this file, then regenerate the pinned
+# requirements.txt next to it:
+#
+#   uv pip compile google_scholar_crawler/requirements.in \
+#       --python-platform linux --python-version 3.12 \
+#       -o google_scholar_crawler/requirements.txt
+#
+# scholarly declares all twelve of its own dependencies without upper bounds,
+# so leaving the transitive set unpinned means any upstream major release can
+# break this crawler with nothing here changing. It happened twice in a week:
+# free-proxy changed get_proxy_list()'s signature, then bibtexparser 2.0 dropped
+# the module scholarly imports at load time.
+jsonpickle==4.0.5
+scholarly==1.7.11
+httpx==0.23.3
+bibtexparser>=1.4,<2
