@@ -25,7 +25,11 @@ jobs:
         if [ -d "./results" ]; then
           cd ./results
           git init
-          git config --local user.name "${GITHUB_ACTOR}"
+          # user.email was never set here, so on runs where git could not guess
+          # one the commit aborted with "Author identity unknown" -- after the
+          # fetch had already succeeded.
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git add *.json
           git commit -m "Updated Citation Data"

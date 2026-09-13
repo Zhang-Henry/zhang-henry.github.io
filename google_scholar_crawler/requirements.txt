@@ -1,3 +1,9 @@
 jsonpickle==4.0.5
 scholarly==1.7.11
 httpx==0.23.3
+# scholarly 1.7.11 declares its dependencies with no upper bounds, so a new
+# major release of any of them can break this crawler without anything here
+# changing. bibtexparser 2.0 did exactly that on 2026-09-08: it dropped the
+# bibtexparser.bibdatabase module that scholarly imports at load time, and every
+# nightly run since then died on `import scholarly` before making a request.
+bibtexparser>=1.4,<2
