@@ -22,16 +22,21 @@
 \usepackage{multicol}
 \usepackage{hyperref}
 \usepackage{xcolor}
+\usepackage{charter}
+\usepackage{microtype}
 
 \usepackage[T1]{fontenc}
 
 %----------THEME COLORS----------
-\definecolor{navy}{HTML}{1F3A5F}      % main accent
-\definecolor{tagcolor}{HTML}{B5322E}  % refined brick red for category tags
+\definecolor{navy}{HTML}{17365D}      % main accent
+\definecolor{teal}{HTML}{2A6F72}      % secondary accent
+\definecolor{muted}{HTML}{374151}     % deep slate supporting text
+\definecolor{warm}{HTML}{B5523B}      % selective impact highlight
 % Re-route the existing \textcolor{blue}{...} links to the navy accent
 \colorlet{blue}{navy}
-% Category tag after each publication: small, muted small-caps
-\newcommand{\catg}[1]{{\footnotesize\textcolor{tagcolor}{#1}}}
+% Publication metadata: quiet topic labels with selective impact emphasis
+\newcommand{\catg}[1]{{\scriptsize\scshape\textcolor{muted}{#1}}}
+\newcommand{\metric}[1]{{\footnotesize\bfseries\textcolor{warm}{#1}}}
 
 \setlength{\multicolsep}{-3.0pt}
 \setlength{\columnsep}{-1pt}
@@ -53,7 +58,7 @@
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
-\fancyfoot{}
+\fancyfoot[C]{\scriptsize\textcolor{muted}{Hanrong Zhang \quad\textperiodcentered\quad Updated \today \quad\textperiodcentered\quad Page \thepage}}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
@@ -111,8 +116,8 @@
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
     \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & \textbf{\small #2} \\
-      \textit{\small#3} & \makebox[0pt][r]{\textit{\small #4}} \\
+      \textbf{#1} & \textbf{\small\textcolor{muted}{#2}} \\
+      \textit{\small#3} & \makebox[0pt][r]{\textit{\small\textcolor{muted}{#4}}} \\
      % \textbf{\small#5} & \textbf{\small #6} \\
 
     \end{tabular*}\vspace{-6pt}
@@ -129,7 +134,7 @@
   \vspace{-2pt}\item
     \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \small #1 & #2 \\
-    \end{tabular*}\vspace{-13pt}
+    \end{tabular*}\vspace{-12pt}
 }
 
 \newcommand{\honorLast}[2]{
@@ -139,12 +144,26 @@
     \end{tabular*}\vspace{-5pt}
 }
 
+\newcommand{\serviceEntry}[2]{
+  \vspace{-2pt}\item
+    \begin{tabularx}{1.0\textwidth}[t]{@{}>{\small\bfseries\color{navy}}l@{\hspace{0.7em}}>{\small\raggedright\arraybackslash}X@{}}
+      #1 & #2 \\
+    \end{tabularx}\vspace{-10pt}
+}
+
+\newcommand{\serviceEntryLast}[2]{
+  \vspace{-2pt}\item
+    \begin{tabularx}{1.0\textwidth}[t]{@{}>{\small\bfseries\color{navy}}l@{\hspace{0.7em}}>{\small\raggedright\arraybackslash}X@{}}
+      #1 & #2 \\
+    \end{tabularx}\vspace{-3pt}
+}
+
 
 \newcommand{\resumeEdu}[5]{
   \vspace{-2pt}\item
     \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & \textbf{\small #2} \\
-      \textit{\small#3} & \textit{\small #4} \\
+      \textbf{#1} & \textbf{\small\textcolor{muted}{#2}} \\
+      \textit{\small#3} & \textit{\small\textcolor{muted}{#4}} \\
       \textit{\small#5}\\
 
     \end{tabular*}\vspace{-6pt}
@@ -189,11 +208,11 @@
 
 \begin{center}
     {\Huge \scshape \textcolor{navy}{Hanrong Zhang}} \\ \vspace{2pt}
-    {\color{navy}\rule{0.5\textwidth}{0.6pt}} \\ \vspace{4pt}
+    {\color{teal}\rule{0.42\textwidth}{0.6pt}} \\ \vspace{4pt}
     % \small Address: No.718, Haizhou East Road, Haining City, Zhejiang Province, China, 314400 \\ \vspace{1pt}
-    \small \faPhone\, (+1)312-479-7822 \quad
-    \small \faEnvelope\, {zhanghr0709@gmail.com} \quad
-    \small \faWeixin\, {henry\_zhang0709} \\ \vspace{2pt}
+    {\small\color{muted}\faPhone\, (+1) 312-479-7822 \quad
+    \faEnvelope\, {zhanghr0709@gmail.com} \quad
+    \faWeixin\, {henry\_zhang0709}} \\ \vspace{2pt}
     % \href{linkedin.com/in/hanrong-zhang-08a693193}{Linkedin:\ \underline{linkedin.com/in/hanrong-zhang-08a693193}}  ~
     % \href{https://github.com/}{Github:\ \underline{github.com/username}}
     \small \faGlobe\, \href{https://zhang-henry.github.io}{\textcolor{blue}{\underline{Homepage}}}
@@ -241,7 +260,7 @@
   \resumeSubHeadingListStart
 
     \resumeSubheading
-      {Google LLC}{Mountain View, California}
+      {Google LLC}{Mountain View, California, US}
       {Student Researcher, Data Synthesis for Gemini and Long-Horizon GUI Agents}{May 2026 -- Present}
 
     \resumeSubheading
@@ -274,24 +293,24 @@
 \section{Selected Publications and Preprints}
 \small{\textit{Full publication list is available on \href{https://scholar.google.com/citations?user=qG5_O40AAAAJ&hl=zh-CN}{\textcolor{blue}{Google Scholar}}. * denotes Equal Contribution. $^\dagger$ denotes Corresponding Author.}}
 
-\begin{enumerate}[itemsep=5pt, topsep=5pt, parsep=1pt, leftmargin=*, label={[\arabic*]}]
-    \item \small{\textbf{Hanrong Zhang}, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang, \textit{Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents}, \textbf{ICLR 2025}.\href{https://arxiv.org/abs/2410.02644}{\textcolor{blue}{[Paper]}} \href{https://github.com/agiresearch/ASB}{\textcolor{blue}{[Code]}} \href{https://luckfort.github.io/ASBench/}{\textcolor{blue}{[Website]}} \catg{(A foundational benchmark for LLM Agent Security, 420+ citations \& 290+ GitHub stars)}
+\begin{enumerate}[itemsep=5pt, topsep=5pt, parsep=1pt, leftmargin=*, label={\textcolor{navy}{[\arabic*]}}]
+    \item \small{\textbf{Hanrong Zhang}, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang, \textit{Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents}, \textbf{ICLR 2025}.\href{https://arxiv.org/abs/2410.02644}{\textcolor{blue}{[Paper]}} \href{https://github.com/agiresearch/ASB}{\textcolor{blue}{[Code]}} \href{https://luckfort.github.io/ASBench/}{\textcolor{blue}{[Website]}} \catg{LLM Agent Security} \metric{470+ citations $\cdot$ 290+ GitHub stars}
     % (\textit{Working with Prof. \href{https://www.yongfeng.me/}{Yongfeng Zhang}, Rutgers})
     }
-    \item \small{\textbf{Hanrong Zhang}, Zhenting Wang, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang$^\dagger$, Shiqing Ma, \textit{Invisible Backdoor Attack in Self-supervised Learning}, \textbf{CVPR 2025}. \href{https://arxiv.org/abs/2405.14672}{\textcolor{blue}{[Paper]}} \href{https://github.com/Zhang-Henry/INACTIVE}{\textcolor{blue}{[Code]}} \catg{(Machine Learning Safety)}
+    \item \small{\textbf{Hanrong Zhang}, Zhenting Wang, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang$^\dagger$, Shiqing Ma, \textit{Invisible Backdoor Attack in Self-supervised Learning}, \textbf{CVPR 2025}. \href{https://arxiv.org/abs/2405.14672}{\textcolor{blue}{[Paper]}} \href{https://github.com/Zhang-Henry/INACTIVE}{\textcolor{blue}{[Code]}} \catg{Machine Learning Safety}
     % (\textit{Working with Prof. \href{https://people.cs.umass.edu/~shiqingma/}{Shiqing Ma}, UMass Amherst; Prof. \href{https://mengnandu.com/}{Mengnan Du}, NJIT})
     }
-    \item \small{\textbf{Hanrong Zhang}, Shicheng Fan, Henry Peng Zou, Yankai Chen$^\dagger$, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu, \textit{CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification}, \textbf{COLM 2026}. \href{https://arxiv.org/abs/2604.01687}{\textcolor{blue}{[Paper]}} \href{https://github.com/Zhang-Henry/CoEvoSkills}{\textcolor{blue}{[Code]}} \href{https://zhang-henry.github.io/CoEvoSkills/}{\textcolor{blue}{[Website]}} \textbf{Invited Talk:} Alibaba Group, \textit{Towards Self-Evolving Agent Skills}. \catg{(Agent Skill Self-Evolution, 82+ citations)}}
-    \item \small{Zhaofen Wu*, \textbf{Hanrong Zhang}*$^\dagger$, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang$^\dagger$, \textit{GAM: Hierarchical Graph-based Agentic Memory for LLM Agents}, \textbf{ACL 2026}; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems (\textbf{Oral}). \href{https://arxiv.org/abs/2604.12285}{\textcolor{blue}{[Paper]}} \catg{(Agent Memory)}}
-    \item \small{\textbf{Hanrong Zhang}, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang, \textit{Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation}, \textbf{IEEE Transactions on Industrial Informatics}. (IF=12.3, SCI Q1, Top Journal) \href{https://arxiv.org/pdf/2501.09525}{\textcolor{blue}{[Paper]}} \catg{(Continuous Learning)}}
-    \item \small{Yifei Yao*, \textbf{Hanrong Zhang}*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi, \textit{From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion}, \textbf{IEEE Journal of Biomedical and Health Informatics}. (IF=7.7, SCI Q1) \href{https://ieeexplore.ieee.org/document/11554906}{\textcolor{blue}{[Paper]}} \catg{(Continuous Learning)}}
-    \item \small{Xingyue Wang*, \textbf{Hanrong Zhang}*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang, \textit{Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning}, \textbf{IEEE Transactions on Industrial Informatics}. (IF=12.3, SCI Q1, Top Journal) \href{https://ieeexplore.ieee.org/abstract/document/10510599}{\textcolor{blue}{[Paper]}} \catg{(OOD Distribution Detection)}}
-    \item \small{\textbf{Hanrong Zhang}, Yankai Chen$^\dagger$, Shicheng Fan, \dots, Dawn Song, Philip S. Yu, Xue Liu, \textit{Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey}, \textbf{Preprint}. \href{https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey}{\textcolor{blue}{[Paper]}} \catg{(Agent Learning \& Data Synthesis)}}
-    \item \small{\textbf{Hanrong Zhang}, Xinyue Wang, Jiabao Pan, Hongwei Wang, \textit{SAKA: an intelligent platform for semi-automated knowledge graph construction and application}, \textbf{Service Oriented Computing and Applications}. \href{https://link.springer.com/article/10.1007/s11761-023-00371-x}{\textcolor{blue}{[Paper]}} \catg{(Knowledge Graph)}}
+    \item \small{\textbf{Hanrong Zhang}, Shicheng Fan, Henry Peng Zou, Yankai Chen$^\dagger$, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu, \textit{CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification}, \textbf{COLM 2026}. \href{https://arxiv.org/abs/2604.01687}{\textcolor{blue}{[Paper]}} \href{https://github.com/Zhang-Henry/CoEvoSkills}{\textcolor{blue}{[Code]}} \href{https://zhang-henry.github.io/CoEvoSkills/}{\textcolor{blue}{[Website]}} \textbf{Invited Talk:} Alibaba Group, \textit{Towards Self-Evolving Agent Skills}. \catg{Agent Skill Self-Evolution} \metric{100+ citations}}
+    \item \small{Zhaofen Wu*, \textbf{Hanrong Zhang}*$^\dagger$, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang$^\dagger$, \textit{GAM: Hierarchical Graph-based Agentic Memory for LLM Agents}, \textbf{ACL 2026}; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems (\textbf{Oral}). \href{https://arxiv.org/abs/2604.12285}{\textcolor{blue}{[Paper]}} \catg{Agent Memory}}
+    \item \small{\textbf{Hanrong Zhang}, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang, \textit{Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation}, \textbf{IEEE Transactions on Industrial Informatics}. (IF=12.3, SCI Q1, Top Journal) \href{https://arxiv.org/pdf/2501.09525}{\textcolor{blue}{[Paper]}} \catg{Continuous Learning}}
+    \item \small{\textbf{Hanrong Zhang}, Yankai Chen$^\dagger$, Shicheng Fan, \dots, Dawn Song, Philip S. Yu, Xue Liu, \textit{Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey}, \textbf{Preprint}. \href{https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey}{\textcolor{blue}{[Paper]}} \catg{Agent Learning \& Data Synthesis}}
+    \item \small{Zhiling Yan, Dingjie Song, \textbf{Hanrong Zhang}, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun, \textit{OpenSkill: Open-World Self-Evolution for LLM Agents}, \textbf{EMNLP 2026}. \href{https://arxiv.org/abs/2606.06741}{\textcolor{blue}{[Paper]}} \href{https://github.com/OpenLAIR/OpenSkill}{\textcolor{blue}{[Code]}} \catg{Agent Self-Evolution}}
+    \item \small{Yifei Yao*, \textbf{Hanrong Zhang}*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi, \textit{From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion}, \textbf{IEEE Journal of Biomedical and Health Informatics}. (IF=7.7, SCI Q1) \href{https://ieeexplore.ieee.org/document/11554906}{\textcolor{blue}{[Paper]}} \catg{Continuous Learning}}
+    \item \small{Xingyue Wang*, \textbf{Hanrong Zhang}*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang, \textit{Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning}, \textbf{IEEE Transactions on Industrial Informatics}. (IF=12.3, SCI Q1, Top Journal) \href{https://ieeexplore.ieee.org/abstract/document/10510599}{\textcolor{blue}{[Paper]}} \catg{OOD Distribution Detection}}
+    \item \small{\textbf{Hanrong Zhang}, Xinyue Wang, Jiabao Pan, Hongwei Wang, \textit{SAKA: an intelligent platform for semi-automated knowledge graph construction and application}, \textbf{Service Oriented Computing and Applications}. \href{https://link.springer.com/article/10.1007/s11761-023-00371-x}{\textcolor{blue}{[Paper]}} \catg{Knowledge Graph}}
     % \item \small{\textbf{Hanrong Zhang}, Xinyue Wang, Bo Qin, Hongwei Wang, \textit{An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources}, \textbf{IEEE ICEBE 2022}. \href{https://ieeexplore.ieee.org/abstract/document/10035077}{\textcolor{blue}{[Paper]}} \catg{(Knowledge Graph)}}
     % \item \small{Yifei Yao, \textbf{Hanrong Zhang}, Mengnan Du, \textit{AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations}, \textbf{ACL 2026}. \href{https://arxiv.org/abs/2508.17320}{\textcolor{blue}{[Paper]}} \catg{(Interpretability)}}
     % \item \small{Yankai Chen, \textbf{Hanrong Zhang}, Bowei He, Philip S. Yu, Xue Liu, \textit{Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption}, \textbf{ICML 2026}. \href{https://arxiv.org/pdf/2605.30089v1}{\textcolor{blue}{[Paper]}} \catg{(Robust Representation Learning)}}
-    \item \small{Zhiling Yan, Dingjie Song, \textbf{Hanrong Zhang}, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun, \textit{OpenSkill: Open-World Self-Evolution for LLM Agents}, \textbf{EMNLP 2026}. \href{https://arxiv.org/abs/2606.06741}{\textcolor{blue}{[Paper]}} \href{https://github.com/OpenLAIR/OpenSkill}{\textcolor{blue}{[Code]}} \catg{(Agent Self-Evolution)}}
     % \item \small{Wanqiu Huang, \textbf{Hanrong Zhang}, Peng Peng, Hongwei Wang, \textit{Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis}, \textbf{IEEE CSCWD 2023}. \textbf{(Best Paper Award Finalist)} \href{https://ieeexplore.ieee.org/abstract/document/10152774}{\textcolor{blue}{[Paper]}} \catg{(Imbalanced Classification)}}
     % \item \small{Core contributor, \textit{Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey}, \textbf{Preprint}. \href{https://arxiv.org/abs/2602.06052}{\textcolor{blue}{[Paper]}} \catg{(Agent Memory)}}
 \end{enumerate}
@@ -372,8 +391,8 @@
 
 \section{Academic Service}
   \resumeSubHeadingListStart
-    \honor {\footnotesize Conference Reviewer: AAAI 2027, ICLR 2026--2027, ICML 2026, NeurIPS 2026, CVPR 2026, ECCV 2026, KDD 2026, MICCAI 2026}{ }
-    \honorLast {Journal Reviewer: TPAMI, TNNLS, TMLR, Pattern Recognition}{ }
+    \serviceEntry {Conference Reviewer}{AAAI, ICLR, ICML, NeurIPS, CVPR, ECCV, KDD, MICCAI}
+    \serviceEntryLast {Journal Reviewer}{TPAMI, TNNLS, TMLR, Pattern Recognition}
   \resumeSubHeadingListEnd
 
 
@@ -383,10 +402,5 @@
 %     \honor {Chief of Academic Technology and Innovation Base}{Southwest Jiaotong University, 2020-2021}
 %     \honorLast {Peer Mentor \& Class Monitor}{Southwest Jiaotong University, 2018-2020}
 %   \resumeSubHeadingListEnd
-
-\vspace{10pt}
-\begin{center}
-\small{\textit{Last updated: \today}}
-\end{center}
 
 \end{document}
