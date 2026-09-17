@@ -251,6 +251,22 @@ body {
     }
   }
 
+  /* Open state. The theme collapses both bars onto top:0 and crosses them,
+     but its `.close .navicon:before` is less specific than the closed-state
+     rules above, so those kept ::before pinned at -6px while ::after moved —
+     the two bars then rotated about different centres and the X came out
+     skewed. Restate the collapse here so it actually wins. */
+  > button.close .navicon {
+    background: transparent;
+
+    &::before,
+    &::after {
+      top: 0;
+      bottom: auto;
+      width: 18px;
+    }
+  }
+
   .hidden-links {
     background: var(--surface);
     border-color: var(--border);
