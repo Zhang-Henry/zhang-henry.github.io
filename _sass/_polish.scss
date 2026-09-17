@@ -23,8 +23,12 @@
   --text-muted: #5f6b76;
   --text-faint: #6b7480;
 
-  --accent: #2563eb;
-  --accent-hover: #1d4ed8;
+  /* Text reads better in a deeper navy; chips and buttons keep the brighter
+     blue so they still register as interactive. */
+  --accent: #15367d;
+  --accent-hover: #0e2559;
+  --accent-bright: #2563eb;
+  --accent-bright-hover: #1d4ed8;
   --accent-soft: #e8f0fe;
   --accent-ring: rgba(37, 99, 235, 0.35);
 
@@ -57,8 +61,10 @@ html.dark {
   --text-muted: #9aa5b1;
   --text-faint: #7d8796;
 
-  --accent: #7aa7ff;
-  --accent-hover: #9dbcff;
+  --accent: #9dbcff;
+  --accent-hover: #b8ceff;
+  --accent-bright: #7aa7ff;
+  --accent-bright-hover: #9dbcff;
   --accent-soft: rgba(122, 167, 255, 0.14);
   --accent-ring: rgba(122, 167, 255, 0.4);
 
@@ -171,8 +177,16 @@ body {
 .masthead__tools {
   display: flex;
   align-items: center;
-  gap: 0.4em;
+  /* The greedy-nav button sits in the flex:1 menu beside this group, so with
+     no margin here its border touched the theme toggle's. */
+  gap: 0.55em;
+  margin-left: 0.8em;
   flex-shrink: 0;
+}
+
+/* The theme already nudges this one; the group's gap handles it now. */
+.masthead__tools .lang-toggle {
+  margin-left: 0;
 }
 
 .greedy-nav {
@@ -196,7 +210,7 @@ body {
   }
 
   li.is-active > a {
-    color: var(--accent);
+    color: var(--accent-bright);
     background: var(--accent-soft);
   }
 
@@ -339,7 +353,7 @@ body {
   width: 100%;
   transform: scaleX(0);
   transform-origin: 0 50%;
-  background: linear-gradient(90deg, var(--accent), var(--accent-hover));
+  background: linear-gradient(90deg, var(--accent-bright), var(--accent));
   z-index: 30;
   pointer-events: none;
 }
@@ -447,6 +461,30 @@ body {
   }
 }
 
+/* The theme hard-codes two more blues besides the token — $link-color
+   (#224b8d) on company and school names, and Google's #1a73e8 on the QS and
+   award chips. Three blues in one column of text reads as a mistake, so route
+   them all through --accent. */
+.page__content {
+  .internship-company,
+  .education-school,
+  .opensource-repo-name,
+  .opensource-repo-name a {
+    color: var(--accent);
+  }
+
+  .education-qs,
+  .award-result,
+  .service-tag.conf {
+    background: var(--accent-soft);
+    color: var(--accent-bright);
+  }
+
+  .education-highlight {
+    color: var(--accent);
+  }
+}
+
 /*
    Cards: one elevation language everywhere
    ========================================================================== */
@@ -515,7 +553,7 @@ body {
 
 .bio-group-title {
   background: var(--accent-soft);
-  color: var(--accent);
+  color: var(--accent-bright);
 }
 
 .bio-tag {
@@ -560,7 +598,7 @@ body {
 
 .news-date {
   background: var(--accent-soft);
-  color: var(--accent);
+  color: var(--accent-bright);
   width: 62px;
   padding: 3px 8px;
   border-radius: 6px;
@@ -852,7 +890,7 @@ body {
 .citation-badge {
   background-color: var(--accent-soft) !important;
   border: 1px solid transparent;
-  color: var(--accent) !important;
+  color: var(--accent-bright) !important;
   font-weight: 600;
 
   &:hover {
@@ -860,26 +898,26 @@ body {
   }
 }
 
-/* Toolbar sits alone at the top of the section, so it keeps the accent. */
+/* Toolbar buttons read as controls, so they take the brighter blue. */
 .pub-action {
   background: var(--surface);
   border-color: var(--border-strong);
-  color: var(--accent) !important;
+  color: var(--accent-bright) !important;
 
   &:hover {
-    border-color: var(--accent);
+    border-color: var(--accent-bright);
     background: var(--accent-soft);
   }
 }
 
 .pub-action-primary {
-  background: var(--accent);
-  border-color: var(--accent);
+  background: var(--accent-bright);
+  border-color: var(--accent-bright);
   color: #fff !important;
 
   &:hover {
-    background: var(--accent-hover);
-    border-color: var(--accent-hover);
+    background: var(--accent-bright-hover);
+    border-color: var(--accent-bright-hover);
   }
 }
 
