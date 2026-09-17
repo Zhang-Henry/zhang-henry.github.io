@@ -11,6 +11,16 @@
                 totalCitElement.innerHTML = data['citedby'];
             }
 
+            var hIndexElement = document.getElementById('h_index');
+            if (hIndexElement) {
+                if (data['hindex'] != null) {
+                    hIndexElement.innerHTML = data['hindex'];
+                } else {
+                    // No value published: drop the badge rather than leave "..."
+                    hIndexElement.closest('.pub-action').style.display = 'none';
+                }
+            }
+
             var scholar_url = document.getElementsByClassName('scholar_url');
             Array.prototype.forEach.call(scholar_url, function(element) {
                 element.href = "https://scholar.google.com/citations?user=" + data['scholar_id'];

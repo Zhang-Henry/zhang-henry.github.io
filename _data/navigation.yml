@@ -16,10 +16,6 @@ main:
     title_zh: "论文"
     url: "/#-publications"
 
-  - title: "Open Source Projects"
-    title_zh: "开源项目"
-    url: "/#-open-source-projects"
-
   - title: "Educations"
     title_zh: "教育经历"
     url: "/#-educations"
@@ -27,6 +23,14 @@ main:
   - title: "Honors and Awards"
     title_zh: "荣誉奖项"
     url: "/#-honors-and-awards"
+
+  - title: "Talks"
+    title_zh: "学术报告"
+    url: "/#-talks"
+
+  - title: "Open Source Projects"
+    title_zh: "开源项目"
+    url: "/#-open-source-projects"
 
   - title: "Academic Service"
     title_zh: "学术服务"

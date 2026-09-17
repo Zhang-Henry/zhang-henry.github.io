@@ -1,3 +1,4 @@
+<div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -16,8 +17,13 @@
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
-    <button class="lang-toggle" id="lang-toggle" aria-label="Switch language" onclick="toggleLang()">
-      <span class="lang-en">中文</span><span class="lang-zh">EN</span>
-    </button>
+    <div class="masthead__tools">
+      <button class="theme-toggle" id="theme-toggle" aria-label="Switch colour theme" title="Light / dark" onclick="toggleTheme()">
+        <i class="fas fa-moon theme-icon-light" aria-hidden="true"></i><i class="fas fa-sun theme-icon-dark" aria-hidden="true"></i>
+      </button>
+      <button class="lang-toggle" id="lang-toggle" aria-label="Switch language" onclick="toggleLang()">
+        <span class="lang-en">中文</span><span class="lang-zh">EN</span>
+      </button>
+    </div>
   </div>
 </div>

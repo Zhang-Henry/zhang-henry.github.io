@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanrong Zhang"
-description              : "CS PhD Student"
+description              : "Computer Science PhD"
 description_zh           : "计算机科学博士生"
 repository               : "Zhang-Henry/zhang-henry.github.io"
 google_scholar_stats_use_cdn : false
@@ -26,7 +26,7 @@ author:
   name_zh          : "张涵容"
   avatar           : "images/android-chrome-512x512.png"
   bio              :
-  location         : "Mountain View, California"
+  location         : "San Francisco Bay Area"
   location_zh      : "美国加州山景城"
   employer         :
   pubmed           :
@@ -136,6 +136,15 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  # The vendored Susy / Breakpoint / Font Awesome partials emit ~330 lines of
+  # Dart Sass deprecation warnings on every build. They drown out real errors
+  # and can stall a server whose stdout pipe nobody drains.
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - slash-div
+    - global-builtin
+    - color-functions
 
 
 # Outputting

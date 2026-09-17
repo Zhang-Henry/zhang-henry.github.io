@@ -36,5 +36,152 @@ function toggleLang() {
 }
 </script>
 
+<script>
+/* --------------------------------------------------------------------------
+   Colour theme
+   -------------------------------------------------------------------------- */
+function toggleTheme() {
+  var root = document.documentElement;
+  var isDark = root.classList.toggle('dark');
+  try { localStorage.setItem('theme', isDark ? 'dark' : 'light'); } catch (e) {}
+}
+
+/* --------------------------------------------------------------------------
+   Reading progress, scrollspy, back-to-top
+   -------------------------------------------------------------------------- */
+(function () {
+  var progress = document.getElementById('scroll-progress');
+  var masthead = document.querySelector('.masthead');
+  var navLinks = [].slice.call(document.querySelectorAll('#site-nav a[href*="#"]'));
+  var targets = navLinks.map(function (a) {
+    var id = a.getAttribute('href').split('#')[1];
+    return id ? document.getElementById(id) : null;
+  });
+
+  var toTop = document.createElement('button');
+  toTop.className = 'to-top';
+  toTop.type = 'button';
+  toTop.setAttribute('aria-label', 'Back to top');
+  toTop.innerHTML = '<i class="fas fa-arrow-up" aria-hidden="true"></i>';
+  toTop.addEventListener('click', function () {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  document.body.appendChild(toTop);
+
+  var ticking = false;
+  function onScroll() {
+    if (ticking) { return; }
+    ticking = true;
+    window.requestAnimationFrame(function () {
+      var doc = document.documentElement;
+      var max = doc.scrollHeight - doc.clientHeight;
+      var y = window.pageYOffset || doc.scrollTop;
+
+      if (progress) {
+        progress.style.transform = 'scaleX(' + (max > 0 ? y / max : 0) + ')';
+      }
+      toTop.classList.toggle('is-visible', y > 420);
+      if (masthead) { masthead.classList.toggle('is-stuck', y > 8); }
+
+      var activeIndex = -1;
+      for (var i = 0; i < targets.length; i++) {
+        var el = targets[i];
+        if (el && el.getBoundingClientRect().top <= 120) { activeIndex = i; }
+      }
+      navLinks.forEach(function (a, i) {
+        var li = a.parentNode;
+        if (li && li.classList) { li.classList.toggle('is-active', i === activeIndex); }
+      });
+
+      ticking = false;
+    });
+  }
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', onScroll);
+  onScroll();
+})();
+
+</script>
+
+<script>
+/* --------------------------------------------------------------------------
+   Sidebar email: copy to the clipboard instead of firing up a mail client
+   -------------------------------------------------------------------------- */
+(function () {
+  var link = document.querySelector('.author__email');
+  if (!link) { return; }
+
+  var address = link.getAttribute('data-email') ||
+                link.getAttribute('href').replace(/^mailto:/, '');
+  var label = link.querySelector('.author__email-text');
+  if (!label) { return; }
+
+  var original = label.innerHTML;
+  var timer;
+
+  function flash(message) {
+    clearTimeout(timer);
+    label.textContent = message;
+    link.classList.add('is-copied');
+    timer = setTimeout(function () {
+      label.innerHTML = original;
+      link.classList.remove('is-copied');
+    }, 1600);
+  }
+
+  // Works without a secure context, and covers the case where the Clipboard
+  // API exists but the permission is refused.
+  function legacyCopy(text) {
+    return new Promise(function (resolve, reject) {
+      var box = document.createElement('textarea');
+      box.value = text;
+      box.setAttribute('readonly', '');
+      box.style.position = 'fixed';
+      box.style.top = '-1000px';
+      document.body.appendChild(box);
+      box.select();
+      var ok = false;
+      try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+      document.body.removeChild(box);
+      ok ? resolve() : reject();
+    });
+  }
+
+  function copy(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      return navigator.clipboard.writeText(text).catch(function () {
+        return legacyCopy(text);
+      });
+    }
+    return legacyCopy(text);
+  }
+
+  // Last resort: put the address under the caret so Cmd/Ctrl+C just works.
+  function selectAddress() {
+    try {
+      var range = document.createRange();
+      range.selectNodeContents(label);
+      var sel = window.getSelection();
+      sel.removeAllRanges();
+      sel.addRange(range);
+    } catch (e) { /* nothing further we can do */ }
+  }
+
+  link.addEventListener('click', function (event) {
+    // Let people who actually want their mail client through with a modifier
+    if (event.metaKey || event.ctrlKey || event.shiftKey) { return; }
+    event.preventDefault();
+    var zh = document.documentElement.classList.contains('zh');
+    copy(address).then(function () {
+      flash(zh ? '已复制' : 'Copied!');
+    }).catch(function () {
+      selectAddress();
+      flash(zh ? '请按 ⌘/Ctrl+C 复制' : 'Press ⌘/Ctrl+C to copy');
+    });
+  });
+})();
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

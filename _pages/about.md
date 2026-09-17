@@ -12,8 +12,8 @@ redirect_from:
 
 <div class="bio-card">
   <p class="bio-text">
-    <span class="lang-en">Hi, there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS), also a Google Student Researcher. Prior to that, I received my CS Master degree from Zhejiang University, and was awarded the National Scholarship twice. I was also a research intern at Alibaba Group. I have published several papers at top-tier venues, including but not limited to ICLR, ICML, CVPR, ACL, EMNLP, and TMLR.</span>
-    <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)，同时担任 Google 学生研究员。我在 ICLR、ICML、ACL、EMNLP、CVPR 和 TMLR 等顶级会议及期刊发表了多篇论文。此前我于浙江大学获得计算机硕士学位，两次获得国家奖学金，也在阿里巴巴集团担任过研究实习生。</span>
+    <span class="lang-en">Hi there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I'm a Google Student Researcher and was a research intern at Alibaba Group. I received my CS Master degree from Zhejiang University, and was awarded the National Scholarship twice. I have published several papers at top-tier venues, including ICLR, ICML, CVPR, ACL, COLM, etc.</span>
+    <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)。我目前担任 Google 学生研究员，此前曾在阿里巴巴集团担任研究实习生。我于浙江大学获得计算机硕士学位，两次获得国家奖学金。我在 ICLR、ICML、CVPR、ACL、COLM 等顶级会议发表了多篇论文。</span>
   </p>
   <div class="bio-interests">
     <span class="bio-interests-label"><span class="lang-en">Recent Research Interests</span><span class="lang-zh">近期研究方向</span></span>
@@ -22,7 +22,7 @@ redirect_from:
         <span class="bio-group-title"><span class="lang-en">AI Agent Training-Free Optimization</span><span class="lang-zh">AI 智能体免训练优化</span></span>
         <span class="bio-tag"><span class="lang-en">Self-Evolving Agent</span><span class="lang-zh">自进化智能体</span></span>
         <span class="bio-tag"><span class="lang-en">Agent Memory</span><span class="lang-zh">智能体记忆</span></span>
-        <span class="bio-tag bio-tag-long"><span class="lang-en">GUI Agent (Computer-Use Agent and Mobile Agent)</span><span class="lang-zh">GUI 智能体（计算机操作智能体与移动智能体）</span></span>
+        <span class="bio-tag"><span class="lang-en">GUI Agent</span><span class="lang-zh">GUI 智能体</span></span>
         <span class="bio-tag"><span class="lang-en">Agent Security and Safety</span><span class="lang-zh">智能体安全与可信</span></span>
       </div>
       <div class="bio-group">
@@ -69,7 +69,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.02</span>
-    <span class="news-content"><span class="lang-en">🎉 I will join Google as a Student Researcher in 2026 summer.</span><span class="lang-zh">🎉 将于2026年夏季加入 Google 担任 Student Researcher。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 <strong>I will join Google as a Student Researcher in 2026 summer.</strong></span><span class="lang-zh">🎉 <strong>将于2026年夏季加入 Google 担任 Student Researcher。</strong></span></span>
   </div>
   <!-- <div class="news-item">
     <span class="news-date">2026.01</span>
@@ -81,7 +81,7 @@ redirect_from:
   </div> -->
   <div class="news-item">
     <span class="news-date">2025.04</span>
-    <span class="news-content"><span class="lang-en">🎉 Give a talk at <a href="https://www.xtra.science/2025/04/invited-speakers/">Xtra Computing Group</a> of Prof. <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> at School of Computing, NUS.</span><span class="lang-zh">🎉 受邀在新加坡国立大学计算学院 <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> 教授的 <a href="https://www.xtra.science/2025/04/invited-speakers/">Xtra Computing Group</a> 做学术报告。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Give a talk at <a href="https://www.xtra.science/blog/2025/04/28/invited-speakers">Xtra Computing Group</a> of Prof. <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> at School of Computing, NUS.</span><span class="lang-zh">🎉 受邀在新加坡国立大学计算学院 <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> 教授的 <a href="https://www.xtra.science/blog/2025/04/28/invited-speakers">Xtra Computing Group</a> 做学术报告。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2025.03</span>
@@ -121,7 +121,7 @@ redirect_from:
       <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google LLC</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google LLC</span></span></div>
       <div class="internship-date">2026.05 – Present</div>
       <div class="internship-desc"><span class="lang-en">Data Synthesis for Gemini and Long-Horizon GUI Agents</span><span class="lang-zh">Gemini 与长程 GUI 智能体数据合成研究</span></div>
-      <div class="internship-location"><span class="lang-en">Mountain View, California</span><span class="lang-zh">美国加州山景城</span></div>
+      <div class="internship-location"><span class="lang-en">Mountain View, California, US</span><span class="lang-zh">美国加州山景城</span></div>
     </div>
   </div>
   <div class="internship-item">
@@ -147,6 +147,8 @@ redirect_from:
   <div class="pub-actions">
     <a class="pub-action scholar_url" href="https://scholar.google.com/citations?user=qG5_O40AAAAJ"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
     <span class="pub-action"><i class="ai ai-google-scholar"></i> <span id="total_cit">...</span> citations</span>
+    <span class="pub-action"><i class="ai ai-google-scholar"></i> h-index <span id="h_index">...</span></span>
+    <a class="pub-action pub-action-primary" href="{{ '/pub/' | relative_url }}"><span class="lang-en">Full Publications</span><span class="lang-zh">全部论文</span></a>
   </div>
 </div>
 
@@ -158,41 +160,41 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.01687">CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Shicheng Fan*, Henry Peng Zou, Yankai Chen†, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
-    <div class="pub-link-row"><span class="pub-venue">COLM 2026</span><a class="pub-link" href="https://arxiv.org/abs/2604.01687">Paper</a><a class="pub-link" href="https://zhang-henry.github.io/CoEvoSkills/">Website</a><a class="pub-link" href="https://github.com/Zhang-Henry/CoEvoSkills">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:JV2RwH3_ST0C'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">COLM 2026</span><a class="pub-link pub-link--icon" href="https://zhang-henry.github.io/CoEvoSkills/" title="Project website" aria-label="Project website"><i class="fas fa-globe" aria-hidden="true"></i></a><a class="pub-link pub-link--icon" href="https://github.com/Zhang-Henry/CoEvoSkills" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class='show_paper_citations' data='qG5_O40AAAAJ:JV2RwH3_ST0C'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
-    <div class="pub-link-row"><span class="pub-venue">ICLR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2410.02644">Paper</a><a class="pub-link" href="https://luckfort.github.io/ASBench/">Website</a><a class="pub-link" href="https://github.com/agiresearch/ASB">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">ICLR 2025</span><a class="pub-link pub-link--icon" href="https://luckfort.github.io/ASBench/" title="Project website" aria-label="Project website"><i class="fas fa-globe" aria-hidden="true"></i></a><a class="pub-link pub-link--icon" href="https://github.com/agiresearch/ASB" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span></div>
   </div></div>
   <div class="pub-item"><div class="pub-content">
     <a href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Yankai Chen*†, Shicheng Fan, Dehai Min, Shaowen Chen, Huanhuan Ma, ..., Hongwei Wang, Dawn Song, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:HoB7MX3m0LUC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><span class='show_paper_citations' data='qG5_O40AAAAJ:HoB7MX3m0LUC'></span></div>
   </div></div>
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph-based Agentic Memory for LLM Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><a class="pub-link" href="https://arxiv.org/abs/2604.12285">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:fPk4N6BV_jEC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><span class='show_paper_citations' data='qG5_O40AAAAJ:fPk4N6BV_jEC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2606.06741">OpenSkill: Open-World Self-Evolution for LLM Agents</a><br>
     Zhiling Yan, Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun<br>
-    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://arxiv.org/abs/2606.06741">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/OpenSkill">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:pqnbT2bcN3wC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link pub-link--icon" href="https://github.com/OpenLAIR/OpenSkill" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class='show_paper_citations' data='qG5_O40AAAAJ:pqnbT2bcN3wC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: A Unified System for the Vibe Research Paradigm</a><br>
     Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Dawei Liu, Yixin Liu, Zongxia Li, Zhengqing Yuan, Siqi Zhang, Henry Peng Zou, Zhiling Yan, Yuxuan Zhang, Yanfang Ye, Philip S. Yu, Lichao Sun<br>
-    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link" href="https://openreview.net/forum?id=M30F2071sz">Paper</a><a class="pub-link" href="https://github.com/OpenLAIR/dr-claw">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:EUQCXRtRnyEC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link pub-link--icon" href="https://github.com/OpenLAIR/dr-claw" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class='show_paper_citations' data='qG5_O40AAAAJ:EUQCXRtRnyEC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a><br>
     <span class="pub-me">Core contributor</span><br>
-    <div class="pub-link-row"><span class="pub-venue">TMLR</span><a class="pub-link" href="https://arxiv.org/abs/2602.06052">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:f2IySw72cVMC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">TMLR</span><span class='show_paper_citations' data='qG5_O40AAAAJ:f2IySw72cVMC'></span></div>
   </div></div>
 </div>
 
@@ -202,118 +204,65 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
-    <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link" href="https://arxiv.org/abs/2405.14672">Paper</a><a class="pub-link" href="https://github.com/Zhang-Henry/INACTIVE">Code</a><span class='show_paper_citations' data='qG5_O40AAAAJ:GnPB-g6toBAC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link pub-link--icon" href="https://github.com/Zhang-Henry/INACTIVE" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class='show_paper_citations' data='qG5_O40AAAAJ:GnPB-g6toBAC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/pdf/2501.09525">Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><a class="pub-link" href="https://arxiv.org/pdf/2501.09525">Paper</a><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span></div>
   </div></div>
 
   <!-- <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10114639">Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection</a><br>
     Peng Peng*, <span class="pub-me">Hanrong Zhang</span>*, Xinyue Wang, Wanqiu Huang, Hongwei Wang<br>
-    <b>IEEE Sensors Journal</b> <span class="pub-tag if">IF=4.3</span> <span class="pub-tag sci">SCI Q1</span> <span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Sensors Journal</span><span class="pub-tag if">IF=4.3</span><span class="pub-tag sci">SCI Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:ULOm3_A8WrAC'></span></div>
   </div></div> -->
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://link.springer.com/article/10.1007/s11761-023-00371-x">SAKA: an intelligent platform for semi-automated knowledge graph construction and application</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">Service Oriented Computing and Applications</span><a class="pub-link" href="https://link.springer.com/article/10.1007/s11761-023-00371-x">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:d1gkVwhDpl0C'></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10510599">Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning</a><br>
-    Xingyue Wang*, <span class="pub-me">Hanrong Zhang</span>*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/10510599">Paper</a><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
-    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><a class="pub-link" href="https://ieeexplore.ieee.org/document/11554906">Paper</a><span class="pub-tag if">IF=7.7</span><span class="pub-tag sci">SCI Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4OULZ7Gr8RgC'></span></div>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10035077">An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources</a><br>
-    <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Bo Qin, Hongwei Wang<br>
-    <b>IEEE ICEBE 2022</b> <span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span>
-  </div></div>
-
-  <div class="pub-item"><div class="pub-content">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10152774">Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis</a><br>
-    Wanqiu Huang, <span class="pub-me">Hanrong Zhang</span>, Peng Peng, Hongwei Wang<br>
-    <b>IEEE CSCWD 2023</b> <span class="pub-award"><span class="lang-en">Best Paper Award Finalist</span><span class="lang-zh">最佳论文提名</span></span> <span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span>
+    <div class="pub-link-row"><span class="pub-venue">Service Oriented Computing and Applications</span><span class='show_paper_citations' data='qG5_O40AAAAJ:d1gkVwhDpl0C'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/pdf/2605.30089v1">Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption</a><br>
     Yankai Chen, <span class="pub-me">Hanrong Zhang</span>, Bowei He, Philip S. Yu, Xue Liu<br>
-    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><a class="pub-link" href="https://arxiv.org/pdf/2605.30089v1">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:2P1L_qKh6hAC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue">ICML 2026</span><span class='show_paper_citations' data='qG5_O40AAAAJ:2P1L_qKh6hAC'></span></div>
+  </div></div>
+
+  <!-- <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2508.17320">AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations</a><br>
+    Yifei Yao, <span class="pub-me">Hanrong Zhang</span>, Mengnan Du<br>
+    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><span class='show_paper_citations' data='qG5_O40AAAAJ:3s1wT3WcHBgC'></span></div>
+  </div></div> -->
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10510599">Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning</a><br>
+    Xingyue Wang*, <span class="pub-me">Hanrong Zhang</span>*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2508.17320">AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations</a><br>
-    Yifei Yao, <span class="pub-me">Hanrong Zhang</span>, Mengnan Du<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026</span><a class="pub-link" href="https://arxiv.org/abs/2508.17320">Paper</a><span class='show_paper_citations' data='qG5_O40AAAAJ:3s1wT3WcHBgC'></span></div>
+    <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
+    Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><span class="pub-tag if">IF=7.7</span><span class="pub-tag sci">SCI Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4OULZ7Gr8RgC'></span></div>
   </div></div>
+
+  <!-- <div class="pub-item"><div class="pub-content">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10035077">An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources</a><br>
+    <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Bo Qin, Hongwei Wang<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE ICEBE 2022</span><span class='show_paper_citations' data='qG5_O40AAAAJ:u5HHmVD_uO8C'></span></div>
+  </div></div> -->
+
+  <!-- <div class="pub-item"><div class="pub-content">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10152774">Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis</a><br>
+    Wanqiu Huang, <span class="pub-me">Hanrong Zhang</span>, Peng Peng, Hongwei Wang<br>
+    <div class="pub-link-row"><span class="pub-venue">IEEE CSCWD 2023</span><span class="pub-award"><span class="lang-en">Best Paper Award Finalist</span><span class="lang-zh">最佳论文提名</span></span><span class='show_paper_citations' data='qG5_O40AAAAJ:2osOgNQ5qMEC'></span></div>
+  </div></div> -->
 </div>
 
 
-
-<h1 id="-open-source-projects"><span class="lang-en">🛠️ Open Source Projects</span><span class="lang-zh">🛠️ 开源项目</span></h1>
-
-<div class="opensource-grid">
-  <div class="opensource-card">
-    <div class="opensource-card-header">
-      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
-      <a href="https://github.com/OpenLAIR/dr-claw" class="opensource-repo-name">OpenLAIR / <strong>dr-claw</strong></a>
-    </div>
-    <p class="opensource-desc"><span class="lang-en">A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power</span><span class="lang-zh">拥有大量 AI 助手的超级 AI 实验室，面向科研的最佳 AI IDE</span></p>
-    <div class="opensource-meta">
-      <a href="https://github.com/OpenLAIR/dr-claw/stargazers"><img src="https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social" alt="GitHub stars"></a>
-      <a href="https://github.com/OpenLAIR/dr-claw/network/members"><img src="https://img.shields.io/github/forks/OpenLAIR/dr-claw?style=social" alt="GitHub forks"></a>
-      <span class="opensource-venue">EMNLP 2026</span>
-    </div>
-  </div>
-  <div class="opensource-card">
-    <div class="opensource-card-header">
-      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
-      <a href="https://github.com/agiresearch/ASB" class="opensource-repo-name">agiresearch / <strong>ASB</strong></a>
-    </div>
-    <p class="opensource-desc"><span class="lang-en">Benchmarking attacks &amp; defenses in LLM-based agents</span><span class="lang-zh">LLM 智能体攻击与防御基准测试</span></p>
-    <div class="opensource-meta">
-      <a href="https://github.com/agiresearch/ASB/stargazers"><img src="https://img.shields.io/github/stars/agiresearch/ASB?style=social" alt="GitHub stars"></a>
-      <a href="https://github.com/agiresearch/ASB/network/members"><img src="https://img.shields.io/github/forks/agiresearch/ASB?style=social" alt="GitHub forks"></a>
-      <span class="opensource-venue">ICLR 2025</span>
-    </div>
-  </div>
-  <div class="opensource-card">
-    <div class="opensource-card-header">
-      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
-      <a href="https://github.com/Zhang-Henry/INACTIVE" class="opensource-repo-name">Zhang-Henry / <strong>INACTIVE</strong></a>
-    </div>
-    <p class="opensource-desc"><span class="lang-en">Invisible Backdoor Attack against Self-supervised Learning</span><span class="lang-zh">面向自监督学习的不可见后门攻击</span></p>
-    <div class="opensource-meta">
-      <a href="https://github.com/Zhang-Henry/INACTIVE/stargazers"><img src="https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social" alt="GitHub stars"></a>
-      <a href="https://github.com/Zhang-Henry/INACTIVE/network/members"><img src="https://img.shields.io/github/forks/Zhang-Henry/INACTIVE?style=social" alt="GitHub forks"></a>
-      <span class="opensource-venue">CVPR 2025</span>
-    </div>
-  </div>
-  <div class="opensource-card">
-    <div class="opensource-card-header">
-      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
-      <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems" class="opensource-repo-name">HenryPengZou / <strong>Awesome-Human-Agent-Collaboration-Interaction-Systems</strong></a>
-    </div>
-    <p class="opensource-desc"><span class="lang-en">LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey</span><span class="lang-zh">基于大语言模型的人机协作与交互系统综述</span></p>
-    <div class="opensource-meta">
-      <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/stargazers"><img src="https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub stars"></a>
-      <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/network/members"><img src="https://img.shields.io/github/forks/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub forks"></a>
-      <span class="opensource-venue">ACL 2026</span>
-    </div>
-  </div>
-</div>
 
 <h1 id="-educations"><span class="lang-en">📖 Educations</span><span class="lang-zh">📖 教育经历</span></h1>
 
@@ -324,7 +273,7 @@ redirect_from:
       <div class="education-date"><span class="lang-en">Aug. 2025 – Present</span><span class="lang-zh">2025年8月 – 至今</span></div>
       <div class="education-degree"><span class="lang-en">Ph.D. in Computer Science</span><span class="lang-zh">计算机科学博士</span></div>
       <div class="education-location"><span class="lang-en">USA</span><span class="lang-zh">美国</span></div>
-      <div class="education-detail"><span class="lang-en">Supervisor: Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a></span><span class="lang-zh">导师：<a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授</span></div>
+      <div class="education-detail"><span class="lang-en">Supervisor: Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS)</span><span class="lang-zh">导师：<a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)</span></div>
     </div>
   </div>
   <div class="education-item master">
@@ -366,22 +315,22 @@ redirect_from:
       <div class="award-row">
         <span class="award-name"><span class="lang-en">National Scholarship for Graduate Students</span><span class="lang-zh">研究生国家奖学金</span></span>
         <span class="award-note">Top 0.2%</span>
-        <span class="award-meta"><span class="lang-en">ZJU, 2023 – 2024</span><span class="lang-zh">浙江大学，2023 – 2024</span></span>
+        <span class="award-meta"><span class="lang-en">Zhejiang University, 2023 – 2024</span><span class="lang-zh">浙江大学，2023 – 2024</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">National Scholarship for Graduate Students</span><span class="lang-zh">研究生国家奖学金</span></span>
         <span class="award-note">Top 0.2%</span>
-        <span class="award-meta"><span class="lang-en">ZJU, 2022 – 2023</span><span class="lang-zh">浙江大学，2022 – 2023</span></span>
+        <span class="award-meta"><span class="lang-en">Zhejiang University, 2022 – 2023</span><span class="lang-zh">浙江大学，2022 – 2023</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">First-class Full-ride Scholarship</span><span class="lang-zh">一等全额奖学金</span></span>
         <span class="award-note">1/75, ¥62000</span>
-        <span class="award-meta"><span class="lang-en">UoL, 2020 – 2021</span><span class="lang-zh">利兹大学，2020 – 2021</span></span>
+        <span class="award-meta"><span class="lang-en">University of Leeds, 2020 – 2021</span><span class="lang-zh">利兹大学，2020 – 2021</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">National Scholarship for Undergraduate Students</span><span class="lang-zh">本科生国家奖学金</span></span>
         <span class="award-note">Top 0.2%</span>
-        <span class="award-meta"><span class="lang-en">SWJTU, 2019 – 2020</span><span class="lang-zh">西南交通大学，2019 – 2020</span></span>
+        <span class="award-meta"><span class="lang-en">Southwest Jiaotong University, 2019 – 2020</span><span class="lang-zh">西南交通大学，2019 – 2020</span></span>
       </div>
     </div>
   </div>
@@ -393,21 +342,21 @@ redirect_from:
     <div class="awards-card-body">
       <div class="award-row">
         <span class="award-name"><span class="lang-en">Outstanding Graduate in Zhejiang Province and at Zhejiang University</span><span class="lang-zh">浙江省优秀毕业生、浙江大学优秀毕业生</span></span>
-        <span class="award-meta"><span class="lang-en">ZJU, 2025</span><span class="lang-zh">浙江大学，2025</span></span>
+        <span class="award-meta"><span class="lang-en">Zhejiang University, 2025</span><span class="lang-zh">浙江大学，2025</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">Provincial Outstanding Graduate</span><span class="lang-zh">四川省优秀毕业生</span></span>
-        <span class="award-meta"><span class="lang-en">SWJTU, 2022</span><span class="lang-zh">西南交通大学，2022</span></span>
+        <span class="award-meta"><span class="lang-en">Southwest Jiaotong University, 2022</span><span class="lang-zh">西南交通大学，2022</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">Best Student in Computer Science</span><span class="lang-zh">计算机科学最佳学生</span></span>
         <span class="award-note">1/75</span>
-        <span class="award-meta"><span class="lang-en">UoL, 2020 – 2021</span><span class="lang-zh">利兹大学，2020 – 2021</span></span>
+        <span class="award-meta"><span class="lang-en">University of Leeds, 2020 – 2021</span><span class="lang-zh">利兹大学，2020 – 2021</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">Best Student Overall</span><span class="lang-zh">全系最佳学生</span></span>
         <span class="award-note"><span class="lang-en">1/300, 4 majors</span><span class="lang-zh">1/300，4个专业</span></span>
-        <span class="award-meta"><span class="lang-en">UoL, 2018 – 2019</span><span class="lang-zh">利兹大学，2018 – 2019</span></span>
+        <span class="award-meta"><span class="lang-en">University of Leeds, 2018 – 2019</span><span class="lang-zh">利兹大学，2018 – 2019</span></span>
       </div>
     </div>
   </div>
@@ -447,6 +396,111 @@ redirect_from:
 </div>
 
 
+<h1 id="-talks"><span class="lang-en">🎤 Invited Talks</span><span class="lang-zh">🎤 学术报告</span></h1>
+
+<div class="talk-list">
+  <div class="talk-item">
+    <div class="talk-logo">
+      <img src="/images/alibaba-logo.png" alt="Alibaba Group">
+    </div>
+    <div class="talk-info">
+      <div class="talk-title"><a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ"><span class="lang-en">Towards Self-Evolving Agent Skills</span><span class="lang-zh">Towards Self-Evolving Agent Skills</span></a></div>
+      <div class="talk-side">
+        <div class="talk-meta"><span class="talk-venue"><span class="lang-en">Alibaba Group</span><span class="lang-zh">阿里巴巴集团</span></span><span class="talk-sep"> · </span><span class="talk-date">2026.06</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="talk-item">
+    <div class="talk-logo">
+      <img src="/images/nus-logo.svg" alt="National University of Singapore">
+    </div>
+    <div class="talk-info">
+      <div class="talk-title"><a href="https://www.xtra.science/blog/2025/04/28/invited-speakers"><span class="lang-en">Agent Security Benchmark (ASB)</span><span class="lang-zh">Agent Security Benchmark (ASB)</span></a></div>
+      <div class="talk-side">
+        <div class="talk-meta"><span class="talk-venue"><span class="lang-en">Xtra Computing Group, School of Computing, NUS</span><span class="lang-zh">新加坡国立大学计算学院 Xtra Computing Group</span></span><span class="talk-sep"> · </span><span class="talk-date">2025.04</span></div>
+        <div class="talk-host"><span class="lang-en">Host: Prof. <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a></span><span class="lang-zh">主持人：<a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> 教授</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h1 id="-open-source-projects"><span class="lang-en">🛠️ Open Source Projects</span><span class="lang-zh">🛠️ 开源项目</span></h1>
+
+<div class="opensource-grid">
+  <div class="opensource-card">
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/OpenLAIR/dr-claw" class="opensource-repo-name">OpenLAIR / <strong>dr-claw</strong></a>
+    </div>
+    <p class="opensource-desc"><span class="lang-en">A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power</span><span class="lang-zh">拥有大量 AI 助手的超级 AI 实验室，面向科研的最佳 AI IDE</span></p>
+    <div class="opensource-meta">
+      <a href="https://github.com/OpenLAIR/dr-claw/stargazers"><img src="https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/OpenLAIR/dr-claw/network/members"><img src="https://img.shields.io/github/forks/OpenLAIR/dr-claw?style=social" alt="GitHub forks"></a>
+      <span class="opensource-venue">EMNLP 2026</span>
+    </div>
+  </div>
+  <div class="opensource-card">
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/Zhang-Henry/CoEvoSkills" class="opensource-repo-name">Zhang-Henry / <strong>CoEvoSkills</strong></a>
+    </div>
+    <p class="opensource-desc"><span class="lang-en">Self-Evolving Agent Skills via Co-Evolutionary Verification</span><span class="lang-zh">基于协同进化验证的自进化智能体技能</span></p>
+    <div class="opensource-meta">
+      <a href="https://github.com/Zhang-Henry/CoEvoSkills/stargazers"><img src="https://img.shields.io/github/stars/Zhang-Henry/CoEvoSkills?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/Zhang-Henry/CoEvoSkills/network/members"><img src="https://img.shields.io/github/forks/Zhang-Henry/CoEvoSkills?style=social" alt="GitHub forks"></a>
+      <span class="opensource-venue">COLM 2026</span>
+    </div>
+  </div>
+  <div class="opensource-card">
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/OpenLAIR/OpenSkill" class="opensource-repo-name">OpenLAIR / <strong>OpenSkill</strong></a>
+    </div>
+    <p class="opensource-desc"><span class="lang-en">Open-World Self-Evolution for LLM Agents</span><span class="lang-zh">面向大语言模型智能体的开放世界自进化</span></p>
+    <div class="opensource-meta">
+      <a href="https://github.com/OpenLAIR/OpenSkill/stargazers"><img src="https://img.shields.io/github/stars/OpenLAIR/OpenSkill?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/OpenLAIR/OpenSkill/network/members"><img src="https://img.shields.io/github/forks/OpenLAIR/OpenSkill?style=social" alt="GitHub forks"></a>
+      <span class="opensource-venue">EMNLP 2026</span>
+    </div>
+  </div>
+  <div class="opensource-card">
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/agiresearch/ASB" class="opensource-repo-name">agiresearch / <strong>ASB</strong></a>
+    </div>
+    <p class="opensource-desc"><span class="lang-en">Benchmarking attacks &amp; defenses in LLM-based agents</span><span class="lang-zh">LLM 智能体攻击与防御基准测试</span></p>
+    <div class="opensource-meta">
+      <a href="https://github.com/agiresearch/ASB/stargazers"><img src="https://img.shields.io/github/stars/agiresearch/ASB?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/agiresearch/ASB/network/members"><img src="https://img.shields.io/github/forks/agiresearch/ASB?style=social" alt="GitHub forks"></a>
+      <span class="opensource-venue">ICLR 2025</span>
+    </div>
+  </div>
+  <div class="opensource-card">
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/Zhang-Henry/INACTIVE" class="opensource-repo-name">Zhang-Henry / <strong>INACTIVE</strong></a>
+    </div>
+    <p class="opensource-desc"><span class="lang-en">Invisible Backdoor Attack against Self-supervised Learning</span><span class="lang-zh">面向自监督学习的不可见后门攻击</span></p>
+    <div class="opensource-meta">
+      <a href="https://github.com/Zhang-Henry/INACTIVE/stargazers"><img src="https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/Zhang-Henry/INACTIVE/network/members"><img src="https://img.shields.io/github/forks/Zhang-Henry/INACTIVE?style=social" alt="GitHub forks"></a>
+      <span class="opensource-venue">CVPR 2025</span>
+    </div>
+  </div>
+  <div class="opensource-card">
+    <div class="opensource-card-header">
+      <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+      <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems" class="opensource-repo-name">HenryPengZou / <strong>Awesome-Human-Agent-Collaboration-Interaction-Systems</strong></a>
+    </div>
+    <p class="opensource-desc"><span class="lang-en">LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey</span><span class="lang-zh">基于大语言模型的人机协作与交互系统综述</span></p>
+    <div class="opensource-meta">
+      <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/stargazers"><img src="https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub stars"></a>
+      <a href="https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/network/members"><img src="https://img.shields.io/github/forks/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social" alt="GitHub forks"></a>
+      <span class="opensource-venue">ACL 2026</span>
+    </div>
+  </div>
+</div>
+
 <h1 id="-academic-service"><span class="lang-en">📝 Academic Service</span><span class="lang-zh">📝 学术服务</span></h1>
 
 <div class="service-grid">
@@ -470,14 +524,16 @@ redirect_from:
       <i class="fas fa-book"></i> <span class="lang-en">Journal Reviewer</span><span class="lang-zh">期刊审稿人</span>
     </div>
     <div class="service-card-body">
-      <span class="service-tag journal">TPAMI</span>
-      <span class="service-tag journal">TNNLS</span>
-      <span class="service-tag journal">Pattern Recognition</span>
-      <span class="service-tag journal">TMLR</span>
-      <span class="service-tag journal">IEEE Trans. on Industrial Informatics</span>
-      <span class="service-tag journal">IEEE Trans. Reliability</span>
-      <span class="service-tag journal">IEEE Trans. Computational Biology and Bioinformatics</span>
-      <span class="service-tag journal">IEEE Trans. Industrial Cyber-Physical Systems</span>
+      <ul class="service-list">
+      <li><span class="service-abbr">TPAMI</span><span class="service-journal-name">IEEE Transactions on Pattern Analysis and Machine Intelligence</span></li>
+      <li><span class="service-abbr">TNNLS</span><span class="service-journal-name">IEEE Transactions on Neural Networks and Learning Systems</span></li>
+      <li><span class="service-abbr">PR</span><span class="service-journal-name">Pattern Recognition</span></li>
+      <li><span class="service-abbr">TMLR</span><span class="service-journal-name">Transactions on Machine Learning Research</span></li>
+      <li><span class="service-abbr">TII</span><span class="service-journal-name">IEEE Transactions on Industrial Informatics</span></li>
+      <li><span class="service-abbr">TR</span><span class="service-journal-name">IEEE Transactions on Reliability</span></li>
+      <li><span class="service-abbr">TCBB</span><span class="service-journal-name">IEEE Transactions on Computational Biology and Bioinformatics</span></li>
+      <li><span class="service-abbr">TICPS</span><span class="service-journal-name">IEEE Transactions on Industrial Cyber-Physical Systems</span></li>
+      </ul>
     </div>
   </div>
 </div>
@@ -489,6 +545,3 @@ redirect_from:
 <!-- # 💻 Teachings
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergrad)
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for grad) -->
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=794&t=tt&d=AMZ-k4oe-eM7qEBL1st--OzUlbxHV1mLbULIhu5_dXQ'></script>
