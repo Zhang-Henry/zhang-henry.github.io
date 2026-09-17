@@ -200,24 +200,48 @@ body {
     background: var(--accent-soft);
   }
 
-  /* greedy-nav overflow button: a quiet outline instead of a black slab */
+  /* greedy-nav overflow button: a quiet outline instead of a black slab.
+     The theme's navicon is 28px wide with its bars offset by twice its 4px
+     height; shrinking only the bar height left a 28px icon inside a 17px
+     content box, so the lines poked through the border and collided with the
+     toggles next to it. Size the icon and the box together. */
   > button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 34px;
+    height: 28px;
+    padding: 0;
     background: transparent;
     border: 1px solid var(--border-strong);
     border-radius: 8px;
-    height: 28px;
-    width: 34px;
 
     &:hover {
       border-color: var(--accent);
       background: var(--accent-soft);
     }
 
-    .navicon,
-    .navicon::before,
-    .navicon::after {
-      background: var(--text-muted);
+    .navicon {
+      width: 18px;
       height: 2px;
+      margin: 0;
+      background: var(--text-muted);
+
+      &::before,
+      &::after {
+        width: 18px;
+        height: 2px;
+        background: var(--text-muted);
+      }
+
+      &::before {
+        top: -6px;
+      }
+
+      &::after {
+        bottom: -6px;
+      }
     }
 
     &:hover .navicon,
@@ -1048,6 +1072,28 @@ html.dark {
 }
 
 /*
+   Long form on wide screens, short form on phones
+   ========================================================================== */
+
+/* Both forms ship in the HTML and CSS picks one, so there is no layout shift
+   and no JavaScript. Nesting is safe either way round: an ancestor's
+   display:none removes the whole subtree, so it cannot fight the
+   !important the language toggle uses. */
+.narrow-only {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .wide-only {
+    display: none;
+  }
+
+  .narrow-only {
+    display: inline;
+  }
+}
+
+/*
    Responsive touch-ups
    ========================================================================== */
 
@@ -1071,39 +1117,93 @@ html.dark {
     padding: 1em 1.1em;
   }
 
-  /* The two-column "title | date" grids squeeze the title to a few
-     characters at phone widths and push the location off-screen, so stack
-     them instead. */
+  /* The two-column "title | date" grids squeeze the title to a few characters
+     at phone widths, but stacking all four fields flat reads as a jumble of
+     equal-weight lines. Reorder instead: who, then when + where on one muted
+     line, then what. */
   .internship-item {
-    flex-direction: column;
     align-items: flex-start;
-    gap: 0.45em;
+    gap: 0.65em;
   }
 
   .internship-logo {
-    width: auto;
+    width: 58px;
     justify-content: flex-start;
+    padding-top: 0.15em;
+
+    img {
+      width: auto;
+      max-width: 58px;
+      max-height: 20px;
+    }
   }
 
   .internship-info,
   .education-info {
     display: flex;
-    flex-direction: column;
-    gap: 0.15em;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.1em 0.45em;
     width: 100%;
 
+    .internship-role,
+    .education-school {
+      flex: 0 0 100%;
+      order: 1;
+    }
+
     .internship-date,
+    .education-date {
+      order: 2;
+      text-align: left;
+      white-space: nowrap;
+    }
+
     .internship-location,
-    .education-date,
     .education-location {
+      order: 3;
       text-align: left;
       white-space: normal;
     }
+
+    .internship-desc,
+    .education-degree,
+    .education-detail {
+      flex: 0 0 100%;
+      order: 4;
+    }
+  }
+
+  /* Separates the date from the place now that they share a line. */
+  .internship-location::before,
+  .education-location::before {
+    content: "·";
+    margin-right: 0.45em;
+    color: var(--text-faint);
   }
 
   .award-meta {
     margin-left: 0;
     white-space: normal;
+  }
+
+  /* Journal names are the longest strings on the page; on a phone the acronym
+     pills alone say the same thing in a fraction of the width. */
+  .service-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45em;
+  }
+
+  .service-journal-name {
+    display: none;
+  }
+
+  .service-abbr {
+    width: auto;
+    padding: 4px 12px;
+    border-radius: 16px;
+    font-size: 0.82em;
   }
 
   .talk-item {

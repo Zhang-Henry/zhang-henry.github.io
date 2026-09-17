@@ -19,17 +19,12 @@ redirect_from:
     <span class="bio-interests-label"><span class="lang-en">Recent Research Interests</span><span class="lang-zh">近期研究方向</span></span>
     <div class="bio-groups">
       <div class="bio-group">
-        <span class="bio-group-title"><span class="lang-en">AI Agent Training-Free Optimization</span><span class="lang-zh">AI 智能体免训练优化</span></span>
+        <span class="bio-group-title"><span class="lang-en">AI Agent</span><span class="lang-zh">AI 智能体</span></span>
         <span class="bio-tag"><span class="lang-en">Self-Evolving Agent</span><span class="lang-zh">自进化智能体</span></span>
-        <span class="bio-tag"><span class="lang-en">Agent Memory</span><span class="lang-zh">智能体记忆</span></span>
         <span class="bio-tag"><span class="lang-en">GUI Agent</span><span class="lang-zh">GUI 智能体</span></span>
         <span class="bio-tag"><span class="lang-en">Agent Security and Safety</span><span class="lang-zh">智能体安全与可信</span></span>
-      </div>
-      <div class="bio-group">
-        <span class="bio-group-title"><span class="lang-en">AI Agent Training</span><span class="lang-zh">AI 智能体训练</span></span>
         <span class="bio-tag"><span class="lang-en">Data Synthesis for Agent Training</span><span class="lang-zh">面向智能体训练的数据合成</span></span>
         <span class="bio-tag"><span class="lang-en">Agentic RL</span><span class="lang-zh">智能体强化学习</span></span>
-        <span class="bio-tag"><span class="lang-en">Agent Tool Learning</span><span class="lang-zh">智能体工具学习</span></span>
       </div>
     </div>
   </div>
@@ -176,7 +171,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph-based Agentic Memory for LLM Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
-    <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><span class='show_paper_citations' data='qG5_O40AAAAJ:fPk4N6BV_jEC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue"><span class="wide-only">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="narrow-only">ACL 2026</span></span><span class="pub-tag oral">Oral</span><span class='show_paper_citations' data='qG5_O40AAAAJ:fPk4N6BV_jEC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -210,7 +205,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/pdf/2501.09525">Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue"><span class="wide-only">IEEE Transactions on Industrial Informatics</span><span class="narrow-only">IEEE TII</span></span><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4DMP91E08xMC'></span></div>
   </div></div>
 
   <!-- <div class="pub-item"><div class="pub-content">
@@ -222,7 +217,7 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://link.springer.com/article/10.1007/s11761-023-00371-x">SAKA: an intelligent platform for semi-automated knowledge graph construction and application</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Jiabao Pan, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">Service Oriented Computing and Applications</span><span class='show_paper_citations' data='qG5_O40AAAAJ:d1gkVwhDpl0C'></span></div>
+    <div class="pub-link-row"><span class="pub-venue"><span class="wide-only">Service Oriented Computing and Applications</span><span class="narrow-only">SOCA</span></span><span class='show_paper_citations' data='qG5_O40AAAAJ:d1gkVwhDpl0C'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -240,13 +235,13 @@ redirect_from:
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10510599">Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning</a><br>
     Xingyue Wang*, <span class="pub-me">Hanrong Zhang</span>*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Transactions on Industrial Informatics</span><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue"><span class="wide-only">IEEE Transactions on Industrial Informatics</span><span class="narrow-only">IEEE TII</span></span><span class="pub-tag if">IF=12.3</span><span class="pub-tag sci">SCI Q1 Top</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4TOpqqG69KYC'></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion</a><br>
     Yifei Yao*, <span class="pub-me">Hanrong Zhang</span>*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi<br>
-    <div class="pub-link-row"><span class="pub-venue">IEEE Journal of Biomedical and Health Informatics</span><span class="pub-tag if">IF=7.7</span><span class="pub-tag sci">SCI Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4OULZ7Gr8RgC'></span></div>
+    <div class="pub-link-row"><span class="pub-venue"><span class="wide-only">IEEE Journal of Biomedical and Health Informatics</span><span class="narrow-only">IEEE JBHI</span></span><span class="pub-tag if">IF=7.7</span><span class="pub-tag sci">SCI Q1</span><span class='show_paper_citations' data='qG5_O40AAAAJ:4OULZ7Gr8RgC'></span></div>
   </div></div>
 
   <!-- <div class="pub-item"><div class="pub-content">
@@ -315,22 +310,22 @@ redirect_from:
       <div class="award-row">
         <span class="award-name"><span class="lang-en">National Scholarship for Graduate Students</span><span class="lang-zh">研究生国家奖学金</span></span>
         <span class="award-note">Top 0.2%</span>
-        <span class="award-meta"><span class="lang-en">Zhejiang University, 2023 – 2024</span><span class="lang-zh">浙江大学，2023 – 2024</span></span>
+        <span class="award-meta"><span class="lang-en"><span class="wide-only">Zhejiang University, 2023 – 2024</span><span class="narrow-only">ZJU, 2023 – 2024</span></span><span class="lang-zh">浙江大学，2023 – 2024</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">National Scholarship for Graduate Students</span><span class="lang-zh">研究生国家奖学金</span></span>
         <span class="award-note">Top 0.2%</span>
-        <span class="award-meta"><span class="lang-en">Zhejiang University, 2022 – 2023</span><span class="lang-zh">浙江大学，2022 – 2023</span></span>
+        <span class="award-meta"><span class="lang-en"><span class="wide-only">Zhejiang University, 2022 – 2023</span><span class="narrow-only">ZJU, 2022 – 2023</span></span><span class="lang-zh">浙江大学，2022 – 2023</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">First-class Full-ride Scholarship</span><span class="lang-zh">一等全额奖学金</span></span>
         <span class="award-note">1/75, ¥62000</span>
-        <span class="award-meta"><span class="lang-en">University of Leeds, 2020 – 2021</span><span class="lang-zh">利兹大学，2020 – 2021</span></span>
+        <span class="award-meta"><span class="lang-en"><span class="wide-only">University of Leeds, 2020 – 2021</span><span class="narrow-only">UoL, 2020 – 2021</span></span><span class="lang-zh">利兹大学，2020 – 2021</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">National Scholarship for Undergraduate Students</span><span class="lang-zh">本科生国家奖学金</span></span>
         <span class="award-note">Top 0.2%</span>
-        <span class="award-meta"><span class="lang-en">Southwest Jiaotong University, 2019 – 2020</span><span class="lang-zh">西南交通大学，2019 – 2020</span></span>
+        <span class="award-meta"><span class="lang-en"><span class="wide-only">Southwest Jiaotong University, 2019 – 2020</span><span class="narrow-only">SWJTU, 2019 – 2020</span></span><span class="lang-zh">西南交通大学，2019 – 2020</span></span>
       </div>
     </div>
   </div>
@@ -342,21 +337,21 @@ redirect_from:
     <div class="awards-card-body">
       <div class="award-row">
         <span class="award-name"><span class="lang-en">Outstanding Graduate in Zhejiang Province and at Zhejiang University</span><span class="lang-zh">浙江省优秀毕业生、浙江大学优秀毕业生</span></span>
-        <span class="award-meta"><span class="lang-en">Zhejiang University, 2025</span><span class="lang-zh">浙江大学，2025</span></span>
+        <span class="award-meta"><span class="lang-en"><span class="wide-only">Zhejiang University, 2025</span><span class="narrow-only">ZJU, 2025</span></span><span class="lang-zh">浙江大学，2025</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">Provincial Outstanding Graduate</span><span class="lang-zh">四川省优秀毕业生</span></span>
-        <span class="award-meta"><span class="lang-en">Southwest Jiaotong University, 2022</span><span class="lang-zh">西南交通大学，2022</span></span>
+        <span class="award-meta"><span class="lang-en"><span class="wide-only">Southwest Jiaotong University, 2022</span><span class="narrow-only">SWJTU, 2022</span></span><span class="lang-zh">西南交通大学，2022</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">Best Student in Computer Science</span><span class="lang-zh">计算机科学最佳学生</span></span>
         <span class="award-note">1/75</span>
-        <span class="award-meta"><span class="lang-en">University of Leeds, 2020 – 2021</span><span class="lang-zh">利兹大学，2020 – 2021</span></span>
+        <span class="award-meta"><span class="lang-en"><span class="wide-only">University of Leeds, 2020 – 2021</span><span class="narrow-only">UoL, 2020 – 2021</span></span><span class="lang-zh">利兹大学，2020 – 2021</span></span>
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">Best Student Overall</span><span class="lang-zh">全系最佳学生</span></span>
         <span class="award-note"><span class="lang-en">1/300, 4 majors</span><span class="lang-zh">1/300，4个专业</span></span>
-        <span class="award-meta"><span class="lang-en">University of Leeds, 2018 – 2019</span><span class="lang-zh">利兹大学，2018 – 2019</span></span>
+        <span class="award-meta"><span class="lang-en"><span class="wide-only">University of Leeds, 2018 – 2019</span><span class="narrow-only">UoL, 2018 – 2019</span></span><span class="lang-zh">利兹大学，2018 – 2019</span></span>
       </div>
     </div>
   </div>
@@ -417,7 +412,7 @@ redirect_from:
     <div class="talk-info">
       <div class="talk-title"><a href="https://www.xtra.science/blog/2025/04/28/invited-speakers"><span class="lang-en">Agent Security Benchmark (ASB)</span><span class="lang-zh">Agent Security Benchmark (ASB)</span></a></div>
       <div class="talk-side">
-        <div class="talk-meta"><span class="talk-venue"><span class="lang-en">Xtra Computing Group, School of Computing, NUS</span><span class="lang-zh">新加坡国立大学计算学院 Xtra Computing Group</span></span><span class="talk-sep"> · </span><span class="talk-date">2025.04</span></div>
+        <div class="talk-meta"><span class="talk-venue"><span class="lang-en"><span class="wide-only">Xtra Computing Group, School of Computing, NUS</span><span class="narrow-only">NUS</span></span><span class="lang-zh"><span class="wide-only">新加坡国立大学计算学院 Xtra Computing Group</span><span class="narrow-only">新加坡国立大学</span></span></span><span class="talk-sep"> · </span><span class="talk-date">2025.04</span></div>
         <div class="talk-host"><span class="lang-en">Host: Prof. <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a></span><span class="lang-zh">主持人：<a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> 教授</span></div>
       </div>
     </div>
@@ -480,7 +475,7 @@ redirect_from:
       <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
       <a href="https://github.com/Zhang-Henry/INACTIVE" class="opensource-repo-name">Zhang-Henry / <strong>INACTIVE</strong></a>
     </div>
-    <p class="opensource-desc"><span class="lang-en">Invisible Backdoor Attack against Self-supervised Learning</span><span class="lang-zh">面向自监督学习的不可见后门攻击</span></p>
+    <p class="opensource-desc"><span class="lang-en">Invisible Backdoor Attack in Self-supervised Learning</span><span class="lang-zh">面向自监督学习的不可见后门攻击</span></p>
     <div class="opensource-meta">
       <a href="https://github.com/Zhang-Henry/INACTIVE/stargazers"><img src="https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social" alt="GitHub stars"></a>
       <a href="https://github.com/Zhang-Henry/INACTIVE/network/members"><img src="https://img.shields.io/github/forks/Zhang-Henry/INACTIVE?style=social" alt="GitHub forks"></a>

@@ -138,7 +138,7 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack against Self-supervised Learning</a><br>
+    <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
     <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link pub-link--icon" href="https://github.com/Zhang-Henry/INACTIVE" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class="show_paper_citations" data="qG5_O40AAAAJ:GnPB-g6toBAC"></span></div>
   </div></div>
@@ -205,7 +205,7 @@ author_profile: true
 <div class="pub-list">
   <div class="pub-item"><div class="pub-content">
     <a href="https://ieeexplore.ieee.org/abstract/document/10035077">An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources</a><br>
-    <span class="pub-me">Hanrong Zhang</span>*, Xinyue Wang*, Bo Qin, Hongwei Wang†<br>
+    <span class="pub-me">Hanrong Zhang</span>, Xinyue Wang, Bo Qin, Hongwei Wang†<br>
     <div class="pub-link-row"><span class="pub-venue">IEEE ICEBE 2022</span><span class="show_paper_citations" data="qG5_O40AAAAJ:u5HHmVD_uO8C"></span></div>
   </div></div>
 </div>
