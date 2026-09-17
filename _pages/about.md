@@ -407,7 +407,7 @@ redirect_from:
   </div>
   <div class="talk-item">
     <div class="talk-logo">
-      <img src="/images/nus-logo.svg" alt="National University of Singapore">
+      <img src="/images/nus-logo.png" alt="NUS School of Computing">
     </div>
     <div class="talk-info">
       <div class="talk-title"><a href="https://www.xtra.science/blog/2025/04/28/invited-speakers"><span class="lang-en">Agent Security Benchmark (ASB)</span><span class="lang-zh">Agent Security Benchmark (ASB)</span></a></div>

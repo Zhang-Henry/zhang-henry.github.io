@@ -650,6 +650,7 @@ body {
   display: flex;
   align-items: center;
   gap: 0.7em;
+  min-height: 64px;
   padding: 0.7em 1em;
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -664,19 +665,21 @@ body {
   }
 }
 
-/* Mirrors .internship-logo so the two sections line up column for column. */
+/* A fixed box both marks are centred in. The section mixes a wide wordmark
+   (Alibaba, 2072x266) with an upright crest (NUS, 167x213); left to their own
+   devices one rendered 72x9 and the other 27x34, which read as wildly
+   different weights and left the two cards 16px apart in height. */
 .talk-logo {
   flex-shrink: 0;
-  width: 72px;
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 72px;
+  height: 28px;
 
-  /* max- rather than fixed dimensions: a wordmark hits the width limit, an
-     upright crest hits the height limit, and neither gets distorted. */
   img {
-    max-width: 72px;
-    max-height: 34px;
+    max-width: 100%;
+    max-height: 100%;
     object-fit: contain;
   }
 }
@@ -1228,8 +1231,9 @@ html.dark {
     gap: 0.45em;
   }
 
+  /* Keep the fixed box here too — width:auto let the wordmarks expand to
+     their natural aspect at 28px tall, which came out over 200px wide. */
   .talk-logo {
-    width: auto;
     justify-content: flex-start;
   }
 
