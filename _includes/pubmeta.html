@@ -1,0 +1,25 @@
+{%- comment -%}
+Renders the BibTeX / Abstract controls for one publication.
+
+Usage, as the last thing inside a .pub-link-row:
+    {% include pubmeta.html key="coevoskills" %}
+
+The content lives in _data/pubmeta.yml so the homepage and the full
+publication list share one copy. A key with no abstract renders nothing, so
+papers can be filled in gradually.
+
+.pub-link-row is a wrapping flex row, so the panel takes flex-basis:100% and
+drops onto its own line beneath the button.
+{%- endcomment -%}
+{%- assign meta = site.data.pubmeta[include.key] -%}
+{%- if meta -%}
+{%- if meta.abstract_en -%}
+<button type="button" class="pub-link pub-meta-btn" data-panel="abs-{{ include.key }}" aria-expanded="false"><span class="lang-en">Abstract</span><span class="lang-zh">摘要</span></button>
+{%- endif -%}
+{%- if meta.abstract_en -%}
+<div class="pub-panel pub-panel--abstract" id="abs-{{ include.key }}" hidden>
+<p class="pub-abstract lang-en">{{ meta.abstract_en | strip }}</p>
+{%- if meta.abstract_zh %}<p class="pub-abstract lang-zh">{{ meta.abstract_zh | strip }}</p>{% endif -%}
+</div>
+{%- endif -%}
+{%- endif -%}

@@ -6,3 +6,7 @@ _site/
 
 push.sh
 .DS_Store
+
+# local scratch
+tmp/
+.claude/

@@ -1,0 +1,38 @@
+{%- comment -%}
+Visitor map — a self-hosted stand-in for the ClustrMaps widget that used to
+live at the bottom of the homepage. ClustrMaps shut down in 2026 without
+notice, its CDN domain stopped resolving, and no visitor history was carried
+over, so nothing here depends on that service.
+
+How it works, entirely client side:
+  1. Cloudflare's /cdn-cgi/trace returns the visitor's country code. No key,
+     no account, no personal data beyond the two-letter country.
+  2. Counts live in Abacus (abacus.jasoncameron.dev), a free keyless counter.
+     One key holds the running total, one key per country holds its tally.
+  3. Country totals are read back and drawn as dots on the map.
+
+Abacus is a hobby service and could go away the same way ClustrMaps did, so
+every request is wrapped: if any of it fails the map still renders, just
+without dots or a number.
+
+Pass endpoint="https://..." to use the Cloudflare Worker in visitor-counter/
+instead. That keeps the data in your own account, returns every country in a
+single request, and needs no third-party geolocation call.
+{%- endcomment -%}
+<div class="visitor-map" id="visitor-map"
+     data-namespace="{{ include.namespace | default: 'zhang-henry-github-io' }}"
+     data-endpoint="{{ include.endpoint }}">
+  <div class="visitor-map__head">
+    <span class="visitor-map__count" id="visitor-map-count">&hellip;</span>
+    <span class="visitor-map__label">
+      <span class="lang-en">visits since Sep 2026</span><span class="lang-zh">次访问 · 自 2026 年 9 月起</span>
+    </span>
+  </div>
+  <div class="visitor-map__plot" id="visitor-map-plot">
+    <div class="visitor-map__land" aria-hidden="true"></div>
+    <div class="visitor-map__dots" id="visitor-map-dots"></div>
+  </div>
+  <p class="visitor-map__note">
+    <span class="lang-en">Country-level only — no cookies, no tracking across sites.</span><span class="lang-zh">仅统计到国家级别 —— 不使用 cookie，不跨站追踪。</span>
+  </p>
+</div>

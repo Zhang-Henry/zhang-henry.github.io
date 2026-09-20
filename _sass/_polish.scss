@@ -941,6 +941,58 @@ body {
 }
 
 /*
+   Publication abstract panels
+   ========================================================================== */
+
+.pub-meta-btn {
+  cursor: pointer;
+  font-family: inherit;
+
+  &[aria-expanded="true"] {
+    background: var(--accent-soft) !important;
+    border-color: var(--accent-bright) !important;
+    color: var(--accent-bright) !important;
+  }
+}
+
+/* .pub-link-row wraps, so a full-basis child drops to its own line. */
+.pub-panel {
+  flex: 0 0 100%;
+  margin-top: 0.5em;
+}
+
+.pub-abstract {
+  margin: 0 !important;
+  padding: 0.7em 0.95em;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent-bright);
+  border-radius: var(--radius-sm);
+  background: var(--surface-2);
+  color: var(--text-muted);
+  font-size: 0.9em;
+  line-height: 1.7;
+}
+
+/* The language toggle switches these to display:inline; abstracts are blocks. */
+.pub-abstract.lang-en {
+  display: block;
+}
+
+.pub-abstract.lang-zh {
+  display: none !important;
+}
+
+html.zh {
+  .pub-abstract.lang-en {
+    display: none !important;
+  }
+
+  .pub-abstract.lang-zh {
+    display: block !important;
+  }
+}
+
+/*
    Open source cards
    ========================================================================== */
 
@@ -965,6 +1017,47 @@ body {
 
 /* No rules between rows here either — the columns already line the eye up,
    and a border under every entry turns the card into a ledger. */
+/* Collapsible award card: native <details>, so it works without JS and the
+   content stays in the DOM for search and in-page find. */
+.awards-card--collapsible {
+  > summary {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    /* Chevron pinned right, rotates on open. */
+    &::after {
+      content: "";
+      margin-left: auto;
+      width: 7px;
+      height: 7px;
+      border-right: 2px solid var(--text-faint);
+      border-bottom: 2px solid var(--text-faint);
+      transform: rotate(45deg) translate(-2px, -2px);
+      transition: transform 0.2s ease;
+    }
+
+    &:hover::after {
+      border-color: var(--accent-bright);
+    }
+  }
+
+  &[open] > summary::after {
+    transform: rotate(-135deg) translate(-2px, -2px);
+  }
+
+  &[open] > summary {
+    border-bottom: 1px solid var(--border);
+  }
+}
+
 .award-row {
   border-bottom: 0;
   padding-top: 0.28em;
@@ -1045,6 +1138,97 @@ body {
   &:hover {
     transform: translateY(-1px);
     border-color: currentColor;
+  }
+}
+
+/*
+   Visitor map
+   ========================================================================== */
+
+.visitor-map {
+  margin: 2.5em 0 0.5em;
+  padding: 0.9em 1em 0.8em;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow-sm);
+}
+
+.visitor-map__head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45em;
+  margin-bottom: 0.7em;
+}
+
+.visitor-map__count {
+  font-size: 1.15em;
+  font-weight: 750;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+
+.visitor-map__label {
+  font-size: 0.85em;
+  color: var(--text-muted);
+}
+
+/* The basemap is a mask rather than an <img> so the land picks up a token
+   colour and follows the dark theme. */
+.visitor-map__plot {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1000 / 400;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  background: #3b7bbf;          /* ocean, in the tone the old widget used */
+
+  html.dark & {
+    background: #1b3a5c;
+  }
+}
+
+.visitor-map__land {
+  position: absolute;
+  inset: 0;
+  background: #fff;
+  -webkit-mask: url("/images/world-land.svg") no-repeat center / 100% 100%;
+  mask: url("/images/world-land.svg") no-repeat center / 100% 100%;
+
+  html.dark & {
+    background: #d5dee8;
+  }
+}
+
+.visitor-map__dots {
+  position: absolute;
+  inset: 0;
+}
+
+.visitor-map__dot {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background: rgba(214, 40, 40, 0.85);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.7);
+  pointer-events: auto;
+  cursor: default;
+
+  html.dark & {
+    background: rgba(248, 113, 113, 0.8);
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.4);
+  }
+}
+
+.visitor-map__note {
+  margin: 0.6em 0 0 !important;
+  font-size: 0.78em;
+  color: var(--text-faint);
+}
+
+@media (max-width: 767px) {
+  .visitor-map {
+    padding: 0.8em;
   }
 }
 
