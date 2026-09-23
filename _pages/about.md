@@ -541,4 +541,9 @@ redirect_from:
 - Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University and University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 and Spring 2024 (for undergrad)
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for grad) -->
 
-{% include visitor-map.html %}
+{%- comment -%}
+The visitor map is off for now. To bring it back, put the line
+  include visitor-map.html
+here wrapped in Liquid tag braces, and once visitor-counter/ is
+deployed give it endpoint="https://...workers.dev".
+{%- endcomment -%}
