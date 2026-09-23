@@ -1058,6 +1058,48 @@ html.zh {
   }
 }
 
+/* Wry aside on the award header: the contests behind these prizes are now
+   routine for LLM agents. Muted and small so it reads as a footnote rather
+   than a claim, and allowed to wrap before the title does. */
+.awards-aside {
+  min-width: 0;
+  color: var(--text-muted);
+  font-size: 0.8em;
+  font-style: italic;
+  font-weight: 400;
+
+  .fa-robot {
+    margin-right: 0.15em;
+    font-style: normal;
+  }
+
+  /* CJK has no true italic; the browser would fake a slant. */
+  .lang-zh {
+    font-style: normal;
+  }
+
+  /* Phones: sharing a line, title and aside squeezed each other onto two
+     lines apiece. Give the title the first line and drop the aside
+     beneath it, lined up with the title text. */
+  @media (max-width: 767px) {
+    order: 2;
+    flex-basis: 100%;
+    padding-left: 2.34em;
+  }
+}
+
+@media (max-width: 767px) {
+  .awards-card--collapsible > summary {
+    flex-wrap: wrap;
+    row-gap: 0.15em;
+
+    /* Keep the chevron on the first line, ahead of the wrapped aside. */
+    &::after {
+      order: 1;
+    }
+  }
+}
+
 .award-row {
   border-bottom: 0;
   padding-top: 0.28em;

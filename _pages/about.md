@@ -34,6 +34,10 @@ redirect_from:
 
 <div class="news-list">
   <div class="news-item">
+    <span class="news-date">2026.09</span>
+    <span class="news-content"><span class="lang-en">🎉 I've been awarded the Tencent Qingyun Student Travel Grant (up to RMB 40,000) to attend COLM 2026.</span><span class="lang-zh">🎉 获得腾讯青云 2026「Student Travel Grant」国际学术会议奖学金（最高 4 万元），资助参加 COLM 2026。</span></span>
+  </div>
+  <div class="news-item">
     <span class="news-date">2026.08</span>
     <span class="news-content"><span class="lang-en">🎉 Four papers are accepted by EMNLP 2026.</span><span class="lang-zh">🎉 四篇论文被 EMNLP 2026 录用。</span></span>
   </div>
@@ -359,6 +363,7 @@ redirect_from:
   <details class="awards-card awards-card--collapsible">
     <summary class="awards-card-header">
       <i class="fas fa-trophy"></i> <span class="lang-en">Competition Awards</span><span class="lang-zh">竞赛获奖</span>
+      <span class="awards-aside"><i class="fas fa-robot" aria-hidden="true"></i> <span class="lang-en">now solved by agents in seconds</span><span class="lang-zh">已被 Agent 秒杀</span></span>
     </summary>
     <div class="awards-card-body">
       <div class="award-row">
