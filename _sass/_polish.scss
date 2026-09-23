@@ -428,10 +428,8 @@ body {
   }
 }
 
-/* The address is longer than the sidebar is wide, so let it break rather
-   than spill past the column. */
+/* Labelled "Email" like the other links; clicking copies the address. */
 .author__urls-wrapper .author__urls a.author__email {
-  align-items: flex-start;
   cursor: copy;
 
   /* Confirmation state after the address lands on the clipboard. */
@@ -447,17 +445,12 @@ body {
     flex-shrink: 0;
   }
 
-  span {
-    /* A flex item defaults to min-width:auto, which refuses to shrink below
-       the address's intrinsic width — so it overflowed the column instead of
-       wrapping. min-width:0 is what lets overflow-wrap do its job. */
+  /* The address only shows when the copy fallback swaps it in, and it is
+     wider than the column. A flex item defaults to min-width:auto and
+     will not shrink below it; min-width:0 lets it wrap instead. */
+  .author__email-text {
     min-width: 0;
-    font-size: 0.92em;
-    line-height: 1.45;
-    /* break-word rather than anywhere: with the <wbr> before the @ there is a
-       sensible break point, so a narrow column splits the address there
-       instead of mid-domain. */
-    overflow-wrap: break-word;
+    overflow-wrap: anywhere;
   }
 }
 

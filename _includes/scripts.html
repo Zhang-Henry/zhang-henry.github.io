@@ -157,15 +157,21 @@ function toggleTheme() {
     return legacyCopy(text);
   }
 
-  // Last resort: put the address under the caret so Cmd/Ctrl+C just works.
-  function selectAddress() {
+  // Last resort: the label only says "Email", so swap the address itself in
+  // and select it, and Cmd/Ctrl+C just works. No message on top of it —
+  // writing one into the label would wipe out the selection.
+  function revealAddress() {
+    clearTimeout(timer);
+    link.classList.remove('is-copied');
+    label.textContent = address;
     try {
       var range = document.createRange();
       range.selectNodeContents(label);
       var sel = window.getSelection();
       sel.removeAllRanges();
       sel.addRange(range);
-    } catch (e) { /* nothing further we can do */ }
+    } catch (e) { /* the address is on screen either way */ }
+    timer = setTimeout(function () { label.innerHTML = original; }, 8000);
   }
 
   link.addEventListener('click', function (event) {
@@ -175,10 +181,7 @@ function toggleTheme() {
     var zh = document.documentElement.classList.contains('zh');
     copy(address).then(function () {
       flash(zh ? '已复制' : 'Copied!');
-    }).catch(function () {
-      selectAddress();
-      flash(zh ? '请按 ⌘/Ctrl+C 复制' : 'Press ⌘/Ctrl+C to copy');
-    });
+    }).catch(revealAddress);
   });
 })();
 </script>

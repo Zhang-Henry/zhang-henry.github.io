@@ -35,7 +35,7 @@ redirect_from:
 <div class="news-list">
   <div class="news-item">
     <span class="news-date">2026.09</span>
-    <span class="news-content"><span class="lang-en">🎉 I've been awarded the Tencent Qingyun Student Travel Grant (up to RMB 40,000) to attend COLM 2026.</span><span class="lang-zh">🎉 获得腾讯青云 2026「Student Travel Grant」国际学术会议奖学金（最高 4 万元），资助参加 COLM 2026。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 I've been awarded the Tencent Qingyun Student Travel Grant to attend COLM 2026.</span><span class="lang-zh">🎉 获得腾讯青云 2026「Student Travel Grant」国际学术会议奖学金，资助参加 COLM 2026。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.08</span>
