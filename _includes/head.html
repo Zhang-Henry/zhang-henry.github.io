@@ -12,7 +12,9 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<!-- For all browsers. The ?v= changes on every build: GitHub Pages lets
+     browsers cache CSS for ten minutes, and a returning visitor could
+     otherwise get fresh HTML styled by the previous deploy's stylesheet. -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
 <meta http-equiv="cleartype" content="on">
