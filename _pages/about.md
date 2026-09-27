@@ -35,7 +35,7 @@ redirect_from:
 <div class="news-list">
   <div class="news-item">
     <span class="news-date">2026.09</span>
-    <span class="news-content"><span class="lang-en">🎉 I've been awarded the Tencent Qingyun Student Travel Grant to attend COLM 2026.</span><span class="lang-zh">🎉 获得腾讯青云 2026「Student Travel Grant」国际学术会议奖学金，资助参加 COLM 2026。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 I've been awarded the Tencent Project Up Scholarship.</span><span class="lang-zh">🎉 获得腾讯青云奖学金。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.08</span>
@@ -311,6 +311,11 @@ redirect_from:
       <i class="fas fa-medal"></i> <span class="lang-en">Scholarships</span><span class="lang-zh">奖学金</span>
     </div>
     <div class="awards-card-body">
+      <div class="award-row">
+        <span class="award-name"><span class="lang-en">Tencent Project Up Scholarship</span><span class="lang-zh">腾讯青云奖学金</span></span>
+        <span class="award-note">COLM 2026</span>
+        <span class="award-meta"><span class="lang-en">Tencent, 2026</span><span class="lang-zh">腾讯，2026</span></span>
+      </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">National Scholarship for Graduate Students</span><span class="lang-zh">研究生国家奖学金</span></span>
         <span class="award-note">Top 0.2%</span>
