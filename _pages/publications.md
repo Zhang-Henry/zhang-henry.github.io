@@ -98,9 +98,15 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
+    <strong>JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces</strong><br>
+    Weizhi Zhang, Wei-Chieh Huang, Yueqing Liang, Liwei Jiang, Zhengxiang Wang, Liangwei Yang, Zechen Li, Yuchen Wu, Haozhen Zhang, Yu Wang, Yuanchen Bei, Yue Zhou, Siqi Zhu, Henry Peng Zou, Jiahong Liu, Xinni Zhang, Paul Martin, Joseph Marvin Imperial, Yuyang Luo, Xiongxiao Xu, Baixiang Huang, Shanglin Wu, Lucas Resck, Yibo Wang, Yuqing Liu, Langzhou He, Chengze Li, Yuxin Tian, Kening Zheng, Enze Ma, Boi Huynh, Zheng Hui, Rui Yang, Tao Feng, Jie Yang, Shanghao Li, Haoran Wang, Wooseong Yang, <span class="pub-me">Hanrong Zhang</span>, Huanhuan Ma, Daye Yoon, Yaozu Wu, Shikan Lian, Xiaoqian Ruan, Fangxin Wang, Hyeonjeong Park, Hins Hu, Wenzhe Fan, Chen Wang, Yifan Gu, Dongyuan Li, Song Wang, Aylin Caliskan, Jindong Wang, Xiao Luo, Yankai Chen, Kai Shu, Xue Liu, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">NeurIPS 2026</span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2608.15008">Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents</a><br>
     Wei-Chieh Huang, Weizhi Zhang, Yuchen Wu, Yankai Chen, Eric Hanchen Jiang, Wooseong Yang, Yiwei Yang, Henry Peng Zou, <span class="pub-me">Hanrong Zhang</span>, Ying Nian Wu, Haolun Wu, Kai-Wei Chang, Philip S. Yu, Xue Liu, Aylin Caliskan<br>
-    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link" href="https://www.catalyzex.com/paper/arxiv:2608.15008/code">Request Code</a><span class="show_paper_citations" data="qG5_O40AAAAJ:pyW8ca7W8N0C"></span></div>
+    <div class="pub-link-row"><span class="pub-venue">NeurIPS 2026</span><a class="pub-link" href="https://www.catalyzex.com/paper/arxiv:2608.15008/code">Request Code</a><span class="show_paper_citations" data="qG5_O40AAAAJ:pyW8ca7W8N0C"></span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">

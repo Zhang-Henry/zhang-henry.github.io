@@ -35,6 +35,10 @@ redirect_from:
 <div class="news-list">
   <div class="news-item">
     <span class="news-date">2026.09</span>
+    <span class="news-content"><span class="lang-en">🎉 Two papers are accepted by NeurIPS 2026.</span><span class="lang-zh">🎉 两篇论文被 NeurIPS 2026 录用。</span></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026.09</span>
     <span class="news-content"><span class="lang-en">🎉 I've been awarded the Tencent Project Up Scholarship.</span><span class="lang-zh">🎉 获得腾讯青云奖学金。</span></span>
   </div>
   <div class="news-item">
