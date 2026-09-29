@@ -32,11 +32,12 @@
 \definecolor{teal}{HTML}{2A6F72}      % secondary accent
 \definecolor{muted}{HTML}{374151}     % deep slate supporting text
 \definecolor{warm}{HTML}{B5523B}      % selective impact highlight
+\definecolor{award}{HTML}{2E7D4F}     % impact/achievement tags
 % Re-route the existing \textcolor{blue}{...} links to the navy accent
 \colorlet{blue}{navy}
 % Publication metadata: quiet topic labels with selective impact emphasis
-\newcommand{\catg}[1]{{\scriptsize\scshape\textcolor{muted}{#1}}}
-\newcommand{\metric}[1]{{\footnotesize\bfseries\textcolor{warm}{#1}}}
+\newcommand{\catg}[1]{{\setlength{\fboxsep}{1.2pt}\setlength{\fboxrule}{0.4pt}\fcolorbox{navy!35}{navy!7}{\scriptsize\upshape\bfseries\vphantom{Agy/()}\textcolor{navy}{#1}}}}
+\newcommand{\metric}[1]{{\setlength{\fboxsep}{1.2pt}\setlength{\fboxrule}{0.4pt}\fcolorbox{award!40}{award!8}{\scriptsize\upshape\bfseries\vphantom{Agy/()}\textcolor{award}{#1}}}}
 
 \setlength{\multicolsep}{-3.0pt}
 \setlength{\columnsep}{-1pt}
@@ -58,7 +59,7 @@
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
-\fancyfoot[C]{\scriptsize\textcolor{muted}{Hanrong Zhang \quad\textperiodcentered\quad Updated \today \quad\textperiodcentered\quad Page \thepage}}
+% \fancyfoot[C]{\scriptsize\textcolor{muted}{Hanrong Zhang \quad\textperiodcentered\quad Updated \today \quad\textperiodcentered\quad Page \thepage}}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
@@ -214,7 +215,8 @@
     {\small\color{muted}\faPhone\, (+1) 312-479-7822 \quad
     \faEnvelope\, {zhanghr0709@gmail.com} \quad
     \faGlobe\, \href{https://zhang-henry.github.io}{\textcolor{blue}{\underline{Homepage}}} \quad
-    \faGraduationCap\, \href{https://scholar.google.com/citations?user=qG5_O40AAAAJ&hl=zh-CN}{\textcolor{blue}{\underline{Google Scholar}}}}
+    \faGraduationCap\, \href{https://scholar.google.com/citations?user=qG5_O40AAAAJ&hl=zh-CN}{\textcolor{blue}{\underline{Google Scholar}}} \quad
+    \faGithub\, \href{https://github.com/Zhang-Henry}{\textcolor{blue}{\underline{GitHub}}}}
 
     % \vspace{-8pt}
 \end{center}
@@ -233,23 +235,33 @@
 
 \section{Education}
   \resumeSubHeadingListStart
-    \resumeEdu
+    \resumeSubheading
       {University of Illinois Chicago}{Aug. 2025 -- Present}
-      {Ph.D. Student in Computer Science}{Chicago, USA}
-        {Big Data and Social Computing Lab; Supervisor: \href{https://cs.uic.edu/profiles/philip-yu/}{\textcolor{blue}{Prof. Philip S. Yu}}}
-    \resumeEdu
+      {Ph.D. Student in Computer Science \catg{Advisor: \href{https://cs.uic.edu/profiles/philip-yu/}{Prof. Philip S. Yu}}}{Chicago, USA}
+      \resumeItemListStart
+        \resumeItem{Tencent Project Up Scholarship (4 recipients worldwide)}
+      \resumeItemListEnd
+    \resumeSubheading
       {Zhejiang University}{Sep. 2022 -- Mar. 2025}
-      {MEng. Computer Engineering}{Hangzhou, China}
-        {Ranking: 1/82; GPA: 93/100; Supervisor: \href{https://person.zju.edu.cn/en/hwang}{\textcolor{blue}{Prof. Hongwei Wang}}}
+      {MEng Computer Engineering \metric{Ranking: 1/82}}{Hangzhou, China}
+      \resumeItemListStart
+        \resumeItem{\textbf{National Scholarship for Graduate Students $\times$2} (Top 0.2\%)}
+        \resumeItem{Outstanding Graduate in Zhejiang Province \& Zhejiang University}
+      \resumeItemListEnd
     \resumeSubheading
       {University of Leeds}{Sep. 2018 -- Jun. 2022}
-      {BSc. Computer Science - First Class Honors Degree}{Leeds, United Kingdom}
-    \resumeEdu
+      {BSc Computer Science \metric{First Class Honours}}{Leeds, United Kingdom}
+      \resumeItemListStart
+        \resumeItem{Best Student Overall (1/300); Best Student in Computer Science (1/75)}
+        \resumeItem{First-class Full-ride Scholarship (1/75)}
+      \resumeItemListEnd
+    \resumeSubheading
       {Southwest Jiaotong University}{Sep. 2018 -- Jun. 2022}
-      {BEng. Computer Science and Technology}{Chengdu, China}
-      {Ranking: 1/74; GPA: 3.81/4.0, 92/100;
-      Supervisor: \href{https://scholar.google.com/citations?user=CQ1HneMAAAAJ}{\textcolor{blue}{Prof. Tianrui Li}}
-      }
+      {BEng Computer Science and Technology \metric{Ranking: 1/74} \metric{GPA: 92/100}}{Chengdu, China}
+      \resumeItemListStart
+        \resumeItem{National Scholarship for Undergraduate Students (Top 0.2\%)}
+        \resumeItem{Outstanding Graduate in Sichuan Province}
+      \resumeItemListEnd
   \resumeSubHeadingListEnd
 % \vspace{0.1pt}
 
@@ -257,15 +269,24 @@
   \resumeSubHeadingListStart
 
     \resumeSubheading
-      {Google LLC}{Mountain View, California, US}
-      {Student Researcher, Data Synthesis for Gemini and Long-Horizon GUI Agents}{May 2026 -- Present}
-
-    \resumeSubheading
-      {Alibaba Group}{Hangzhou, Zhejiang, China}
-      {Research Intern, RL for Human-Agent Multi-turn Interaction}{May 2025 -- Aug. 2025}
+      {Google}{May 2026 -- Present}
+      {Student Researcher, Data Synthesis for Gemini and Long-Horizon GUI Agents}{Mountain View, California, US}
       \resumeItemListStart
-        \resumeItem{Build scalable simulation environments for LLM-human multi-turn interactions, covering tool-call scenarios such as retail and airline services under sparse rewards, limited data, and unstable environments.}
-        \resumeItem{Propose a \textbf{Tool Dependency Graph} to model tool constraints and generate high-quality multi-turn tool-call dialogues with ground-truth trajectories for verifiable reward computation. Train agents with synthesized trajectories via multi-turn \textbf{GRPO}, improving long-horizon tool use in human-agent interactions.}
+        \resumeItem{Synthesize large-scale, diverse \textbf{task queries and GUI trajectories} to strengthen \textbf{Gemini}'s GUI-agent capabilities.}
+        \resumeItem{Build \textbf{Mobile Skills Bench (MSB)}, a benchmark for long-horizon interactive mobile agents. \textit{(Under review at ICLR 2027)}
+        \begin{itemize}[topsep=0pt, partopsep=0pt]
+          \item\small{Synthesize verifiable, multi-stage cross-app tasks, paired with an interactive user simulator.}
+          \item\small{Benchmark frontier models on long-horizon tasks under both pure-GUI and hybrid (GUI + MCP + CLI) execution.}
+          \item\small{Design an efficient \textbf{skill organization} for mobile agents and quantify the value of textual vs.\ multimodal skills.}
+        \end{itemize}}
+        \resumeItem{Build \textbf{Android-based mock apps} with resettable backend state and verifiable outcomes for internal Android-agent evaluation.}
+      \resumeItemListEnd\vspace{-13pt}
+    \resumeSubheading
+      {Alibaba Group}{May 2025 -- Aug. 2025}
+      {Research Intern, RL for Human-Agent Multi-turn Interaction}{Hangzhou, Zhejiang, China}
+      \resumeItemListStart
+        \resumeItem{Build scalable simulation environments for multi-turn human--agent tool-call interactions (e.g., retail and airline services), tackling sparse rewards, scarce data, and environment instability.}
+        \resumeItem{Propose a \textbf{Tool Dependency Graph} that models tool constraints to synthesize high-quality multi-turn tool-call dialogues with ground-truth trajectories for verifiable rewards; train agents on these trajectories via multi-turn \textbf{GRPO}, improving long-horizon tool use in human--agent interaction.}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
@@ -291,40 +312,43 @@
 \small{\textit{Full publication list is available on \href{https://scholar.google.com/citations?user=qG5_O40AAAAJ&hl=zh-CN}{\textcolor{blue}{Google Scholar}}. * denotes Equal Contribution. $^\dagger$ denotes Corresponding Author.}}
 
 \begin{enumerate}[itemsep=5pt, topsep=5pt, parsep=1pt, leftmargin=*, label={\textcolor{navy}{[\arabic*]}}]
-    \item \small{\textbf{Hanrong Zhang}, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang, \textit{Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents}, \textbf{ICLR 2025}.\href{https://arxiv.org/abs/2410.02644}{\textcolor{blue}{[Paper]}} \href{https://github.com/agiresearch/ASB}{\textcolor{blue}{[Code]}} \href{https://luckfort.github.io/ASBench/}{\textcolor{blue}{[Website]}} \catg{LLM Agent Security} \metric{500+ citations $\cdot$ 300+ GitHub stars}
+    \item \small{\textbf{Hanrong Zhang}, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang, \href{https://arxiv.org/abs/2410.02644}{\textcolor{blue}{\textit{Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents}}}, \textbf{ICLR 2025}. \href{https://github.com/agiresearch/ASB}{\textcolor{blue}{[Code]}} \href{https://luckfort.github.io/ASBench/}{\textcolor{blue}{[Website]}} \catg{LLM Agent Security} \metric{500+ citations $\cdot$ 300+ GitHub stars}
     % (\textit{Working with Prof. \href{https://www.yongfeng.me/}{Yongfeng Zhang}, Rutgers})
     }
-    \item \small{\textbf{Hanrong Zhang}, Zhenting Wang, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang$^\dagger$, Shiqing Ma, \textit{Invisible Backdoor Attack in Self-supervised Learning}, \textbf{CVPR 2025}. \href{https://arxiv.org/abs/2405.14672}{\textcolor{blue}{[Paper]}} \href{https://github.com/Zhang-Henry/INACTIVE}{\textcolor{blue}{[Code]}} \catg{Machine Learning Safety}
+    \item \small{\textbf{Hanrong Zhang}, Shicheng Fan, Henry Peng Zou, Yankai Chen$^\dagger$, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu, \href{https://arxiv.org/abs/2604.01687}{\textcolor{blue}{\textit{CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification}}}, \textbf{COLM 2026}. \href{https://github.com/Zhang-Henry/CoEvoSkills}{\textcolor{blue}{[Code]}} \catg{RSI} \metric{110+ citations}}
+    \item \small{\textbf{Hanrong Zhang}, Zhenting Wang, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang$^\dagger$, Shiqing Ma, \href{https://arxiv.org/abs/2405.14672}{\textcolor{blue}{\textit{Invisible Backdoor Attack in Self-supervised Learning}}}, \textbf{CVPR 2025}. \href{https://github.com/Zhang-Henry/INACTIVE}{\textcolor{blue}{[Code]}} \catg{AI Security}
     % (\textit{Working with Prof. \href{https://people.cs.umass.edu/~shiqingma/}{Shiqing Ma}, UMass Amherst; Prof. \href{https://mengnandu.com/}{Mengnan Du}, NJIT})
     }
-    \item \small{\textbf{Hanrong Zhang}, Shicheng Fan, Henry Peng Zou, Yankai Chen$^\dagger$, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu, \textit{CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification}, \textbf{COLM 2026}. \href{https://arxiv.org/abs/2604.01687}{\textcolor{blue}{[Paper]}} \href{https://github.com/Zhang-Henry/CoEvoSkills}{\textcolor{blue}{[Code]}} \href{https://zhang-henry.github.io/CoEvoSkills/}{\textcolor{blue}{[Website]}} \textbf{Invited Talk:} Alibaba Group, \textit{Towards Self-Evolving Agent Skills}. \catg{Agent Skill Self-Evolution} \metric{110+ citations}}
-    \item \small{Zhaofen Wu*, \textbf{Hanrong Zhang}*$^\dagger$, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang$^\dagger$, \textit{GAM: Hierarchical Graph-based Agentic Memory for LLM Agents}, \textbf{ACL 2026}; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems (\textbf{Oral}). \href{https://arxiv.org/abs/2604.12285}{\textcolor{blue}{[Paper]}} \catg{Agent Memory}}
-    \item \small{\textbf{Hanrong Zhang}, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang, \textit{Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation}, \textbf{IEEE Transactions on Industrial Informatics}. (IF=12.3, SCI Q1, Top Journal) \href{https://arxiv.org/pdf/2501.09525}{\textcolor{blue}{[Paper]}} \catg{Continuous Learning}}
-    \item \small{\textbf{Hanrong Zhang}, Yankai Chen$^\dagger$, Shicheng Fan, \dots, Dawn Song, Philip S. Yu, Xue Liu, \textit{Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey}, \textbf{Preprint}. \href{https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey}{\textcolor{blue}{[Paper]}} \catg{Agent Learning \& Data Synthesis}}
-    \item \small{Zhiling Yan, Dingjie Song, \textbf{Hanrong Zhang}, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun, \textit{OpenSkill: Open-World Self-Evolution for LLM Agents}, \textbf{EMNLP 2026}. \href{https://arxiv.org/abs/2606.06741}{\textcolor{blue}{[Paper]}} \href{https://github.com/OpenLAIR/OpenSkill}{\textcolor{blue}{[Code]}} \catg{Agent Self-Evolution}}
-    \item \small{Yifei Yao*, \textbf{Hanrong Zhang}*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi, \textit{From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion}, \textbf{IEEE Journal of Biomedical and Health Informatics}. (IF=7.7, SCI Q1) \href{https://ieeexplore.ieee.org/document/11554906}{\textcolor{blue}{[Paper]}} \catg{Continuous Learning}}
-    \item \small{Xingyue Wang*, \textbf{Hanrong Zhang}*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang, \textit{Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning}, \textbf{IEEE Transactions on Industrial Informatics}. (IF=12.3, SCI Q1, Top Journal) \href{https://ieeexplore.ieee.org/abstract/document/10510599}{\textcolor{blue}{[Paper]}} \catg{OOD Distribution Detection}}
-    \item \small{\textbf{Hanrong Zhang}, Xinyue Wang, Jiabao Pan, Hongwei Wang, \textit{SAKA: an intelligent platform for semi-automated knowledge graph construction and application}, \textbf{Service Oriented Computing and Applications}. \href{https://link.springer.com/article/10.1007/s11761-023-00371-x}{\textcolor{blue}{[Paper]}} \catg{Knowledge Graph}}
+    \item \small{Zhaofen Wu*, \textbf{Hanrong Zhang}*$^\dagger$, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang$^\dagger$, \href{https://arxiv.org/abs/2604.12285}{\textcolor{blue}{\textit{GAM: Hierarchical Graph-based Agentic Memory for LLM Agents}}}, \textbf{ACL 2026}; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems \metric{Oral}. \catg{Agent Memory}}
+    \item \small{\textbf{Hanrong Zhang}, Yankai Chen$^\dagger$, Shicheng Fan, \dots, Dawn Song, Philip S. Yu, Xue Liu, \href{https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey}{\textcolor{blue}{\textit{Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey}}}, \textbf{Preprint}. \catg{Agent Learning \& Data Synthesis}}
+    \item \small{Zhiling Yan, Dingjie Song, \textbf{Hanrong Zhang}, Wei Liang, Yuxuan Zhang, Yutong Dai, Lifang He, Philip S. Yu, Ran Xu, Xiang Li, Lichao Sun, \href{https://arxiv.org/abs/2606.06741}{\textcolor{blue}{\textit{OpenSkill: Open-World Self-Evolution for LLM Agents}}}, \textbf{EMNLP 2026}. \href{https://github.com/OpenLAIR/OpenSkill}{\textcolor{blue}{[Code]}} \catg{Agent Self-Evolution}}
+    \item \small{\textbf{Hanrong Zhang}, Yifei Yao, Zixuan Wang, Jiayuan Su, Mengxuan Li, Peng Peng, Hongwei Wang, \href{https://arxiv.org/pdf/2501.09525}{\textcolor{blue}{\textit{Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation}}}, \textbf{IEEE Transactions on Industrial Informatics}. \catg{Continual Learning} \metric{IF 12.3 $\cdot$ SCI Q1 $\cdot$ Top Journal}}
+    \item \small{Yifei Yao*, \textbf{Hanrong Zhang}*, Fulin Lin*, Ziyan Jin, Xiaoxiao Li, Hongwei Wang, Ying Chi, \href{https://ieeexplore.ieee.org/document/11554906}{\textcolor{blue}{\textit{From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion}}}, \textbf{IEEE Journal of Biomedical and Health Informatics}. \catg{Continual Learning} \metric{IF 7.7 $\cdot$ SCI Q1}}
+    \item \small{Xingyue Wang*, \textbf{Hanrong Zhang}*, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang, \href{https://ieeexplore.ieee.org/abstract/document/10510599}{\textcolor{blue}{\textit{Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning}}}, \textbf{IEEE Transactions on Industrial Informatics}. \catg{OOD Detection} \metric{IF 12.3 $\cdot$ SCI Q1 $\cdot$ Top Journal}}
+%     \item \small{\textbf{Hanrong Zhang}, Xinyue Wang, Jiabao Pan, Hongwei Wang, \href{https://link.springer.com/article/10.1007/s11761-023-00371-x}{\textcolor{blue}{\textit{SAKA: an intelligent platform for semi-automated knowledge graph construction and application}}}, \textbf{Service Oriented Computing and Applications}. \catg{Knowledge Graph}}
     % \item \small{\textbf{Hanrong Zhang}, Xinyue Wang, Bo Qin, Hongwei Wang, \textit{An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources}, \textbf{IEEE ICEBE 2022}. \href{https://ieeexplore.ieee.org/abstract/document/10035077}{\textcolor{blue}{[Paper]}} \catg{(Knowledge Graph)}}
     % \item \small{Yifei Yao, \textbf{Hanrong Zhang}, Mengnan Du, \textit{AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations}, \textbf{ACL 2026}. \href{https://arxiv.org/abs/2508.17320}{\textcolor{blue}{[Paper]}} \catg{(Interpretability)}}
     % \item \small{Yankai Chen, \textbf{Hanrong Zhang}, Bowei He, Philip S. Yu, Xue Liu, \textit{Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption}, \textbf{ICML 2026}. \href{https://arxiv.org/pdf/2605.30089v1}{\textcolor{blue}{[Paper]}} \catg{(Robust Representation Learning)}}
     % \item \small{Wanqiu Huang, \textbf{Hanrong Zhang}, Peng Peng, Hongwei Wang, \textit{Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis}, \textbf{IEEE CSCWD 2023}. \textbf{(Best Paper Award Finalist)} \href{https://ieeexplore.ieee.org/abstract/document/10152774}{\textcolor{blue}{[Paper]}} \catg{(Imbalanced Classification)}}
     % \item \small{Core contributor, \textit{Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey}, \textbf{Preprint}. \href{https://arxiv.org/abs/2602.06052}{\textcolor{blue}{[Paper]}} \catg{(Agent Memory)}}
 \end{enumerate}
+\vspace{2pt}
+{\small\textit{Other co-authored papers:} NeurIPS 2026 $\times$2, ICML 2026, ACL 2026 $\times$2, EMNLP 2026 $\times$3, TMLR, etc.}
 
 % \vspace{-21pt}
-\section{Selected Honors}
-  \resumeSubHeadingListStart
-    \honor {Outstanding Graduate in Zhejiang Province \& Zhejiang University}{Zhejiang University, 2025}
-    \honor {National Scholarship for Graduate Students (Top 0.2\%)}{Zhejiang University, 2023 - 2024}
-    \honor {National Scholarship for Graduate Students (Top 0.2\%)}{Zhejiang University, 2022 - 2023}
-    \honor {National Scholarship for Undergraduate Students (Top 0.2\%)}{Southwest Jiaotong University, 2019 - 2020}
-    \honor {Outstanding Graduate in Sichuan Province}{Southwest Jiaotong University, 2022}
+% \section{Selected Honors}
+%   \resumeSubHeadingListStart
+%     \honor {Tencent Project Up Scholarship}{Tencent, 2026}
+%     \honor {Outstanding Graduate in Zhejiang Province \& Zhejiang University}{Zhejiang University, 2025}
+%     \honor {National Scholarship for Graduate Students (Top 0.2\%)}{Zhejiang University, 2023 - 2024}
+%     \honor {National Scholarship for Graduate Students (Top 0.2\%)}{Zhejiang University, 2022 - 2023}
+%     \honor {Outstanding Graduate in Sichuan Province}{Southwest Jiaotong University, 2022}
+%     \honor {Best Student in Computer Science (1/75)}{University of Leeds, 2020 - 2021}
+%     \honor {First-class full-ride Scholarship (1/75)}{University of Leeds, 2020 - 2021}
+%     \honor {National Scholarship for Undergraduate Students (Top 0.2\%)}{Southwest Jiaotong University, 2019 - 2020}
     % \honor {Pacemaker to Merit Student}{Southwest Jiaotong University, 2018 - 2021}
-    \honor {Best Student in Computer Science (1/75)}{University of Leeds, 2020 - 2021}
-    \honor {First-class full-ride Scholarship (1/75)}{University of Leeds, 2020 - 2021}
-    \honorLast {Best Student Overall (1/300, 4 majors)}{University of Leeds, 2018 - 2019}
-  \resumeSubHeadingListEnd
+%     \honorLast {Best Student Overall (1/300, 4 majors)}{University of Leeds, 2018 - 2019}
+%   \resumeSubHeadingListEnd
 
 % \section{Selected Competition Awards}
 %   \resumeSubHeadingListStart
@@ -344,25 +368,25 @@
       {\textbf{Agent Security Bench (ASB)}}{\textcolor{blue}{ICLR 2025, First Author}}
       \resumeItemListStart
         % \resumeItem{\textbf{Impact:} Now a \textbf{foundational and widely-adopted benchmark} for LLM-agent security, with \textbf{260+ GitHub stars} and \textbf{280+ citations} (as of Jun. 2026).}
-        \resumeItem{\textbf{Motivation:} LLM agents extend LLM reasoning into real-world interaction: by calling tools, updating memory, and executing multi-step plans, they can change external environments, making agent security more critical than standard chatbot safety; however, prior evaluations lacked a unified benchmark across prompts, tools, memory, and planning.}
-        \resumeItem{\textbf{Contribution:} Introduce the first LLM agent security benchmark with 10 scenarios, 10 agents, 400+ tools, 27 attack/defense methods, 7 metrics, and Net Resilient Performance (NRP) for balancing utility and security.}
-        \resumeItem{\textbf{Results:} Reveal that current LLM agents remain highly vulnerable and existing defenses provide limited protection: attacks reach up to 84.30\% success across prompt, tool, and memory stages, while defenses struggle to preserve both utility and security across 13 LLM backbones and 90,000+ test cases.}
+        \resumeItem{\textbf{Motivation:} LLM agents extend LLM reasoning into real-world action: by calling tools, updating memory, and executing multi-step plans, they directly change external environments, making agent security more critical than standard AIGC safety; yet prior evaluations lacked a unified benchmark spanning prompts, tools, memory, and planning.}
+        \resumeItem{\textbf{Contribution:} Introduce \textbf{the first fundamental agent security evaluation benchmark}, with 10 scenarios, 10 agents, 400+ tools, 27 attack/defense methods, 7 metrics, and Net Resilient Performance (NRP) for balancing utility and security.}
+        \resumeItem{\textbf{Results:} Across 13 LLM backbones and 90,000+ test cases, reveal that current LLM agents remain highly vulnerable, with the highest average attack success rate reaching 84.30\%, while existing defenses offer limited protection.}
       \resumeItemListEnd
 
     \resumeProjectHeading
-      {\textbf{Towards Self-Evolving Skills in LLM Agents}}{\textcolor{blue}{CoEvoSkills (COLM 2026) \& OpenSkill (EMNLP 2026)}}
+      {\textbf{Towards Self-Evolving Skills in LLM Agents}}{\textcolor{blue}{CoEvoSkills (COLM 2026, First Author) \& OpenSkill (EMNLP 2026)}}
       \resumeItemListStart
-        \resumeItem{\textbf{Motivation:} Skills can boost professional tasks, but human-curated skills are costly and can even hurt performance in some SkillsBench domains. Meanwhile, one-shot self-generation methods are nearly useless, and prior evolution methods are mostly designed for tools and cannot reliably build structured multi-file skill packages.}
-        \resumeItem{\textbf{Contribution:} Propose \textbf{CoEvoSkills} for closed-world skill evolution and \textbf{OpenSkill} for open-world self-evolution, refining multi-file skills through surrogate verification, open-world knowledge retrieval.}
-        \resumeItem{\textbf{Results:} \textbf{CoEvoSkills} reaches average 71.1\% Pass rate on SkillsBench (+40.5pp over no-skill, +17.6pp over human-curated skills baselines); \textbf{OpenSkill} reaches 43.6\% on Claude Opus 4.6 and 42.1\% on GPT 5.2, within 1--3pp of human-curated skills and about +9pp over the best closed-world baselines.}
+        \resumeItem{\textbf{Motivation:} Agent skills can boost performance on professional tasks, but we identify a \textbf{human--machine misalignment}: human-curated skills are costly, and skills humans find helpful are not necessarily useful to agents, sometimes even hurting performance in SkillsBench domains; agents should therefore author their own skills.}
+        \resumeItem{\textbf{Contribution:} Propose \textbf{CoEvoSkills}, which co-evolves multi-file skill packages with a surrogate verifier in closed-world settings, and \textbf{OpenSkill}, which self-evolves skills via open-world knowledge retrieval.}
+        \resumeItem{\textbf{Results:} \textbf{CoEvoSkills} achieves a 71.1\% average pass rate on SkillsBench (+40.5pp over no skills and +17.6pp over human-curated skills); \textbf{OpenSkill} reaches 43.6\% with Claude Opus 4.6 and 42.1\% with GPT 5.2, within 1--3pp of human-curated skills and about 9pp above the best closed-world baseline.}
       \resumeItemListEnd
 
     \resumeProjectHeading
-      {\footnotesize\textbf{GAM: Hierarchical Graph-based Agentic Memory for LLM Agents}}{\textcolor{blue}{ACL 2026, Co-First \& Corresponding Author}}
+      {\textbf{Hierarchical Graph-based Agentic Memory (GAM)}}{\textcolor{blue}{ACL 2026, Co-First \& Corresponding Author}}
       \resumeItemListStart
-        \resumeItem{\textbf{Motivation:} Long-term agent memory faces a core conflict between fast contextual adaptation and stable knowledge retention: stream-based memories update quickly but lack write isolation, causing memory loss and semantic drift, while static graph memories preserve structure but struggle with fluid open-domain dialogue.}
-        \resumeItem{\textbf{Contribution:} Propose \textbf{GAM}, a hierarchical graph memory framework that decouples memory encoding from consolidation: an Event Progression Graph isolates ongoing dialogue events, while semantic-boundary triggers consolidate complete episodes into a Topic Associative Network for stable long-term knowledge.}
-        \resumeItem{\textbf{Results:} \textbf{GAM} achieves SOTA performance among six memory baselines on LoCoMo and LongDialQA.}
+        \resumeItem{\textbf{Motivation:} Long-term agent memory must reconcile fast contextual adaptation with stable knowledge retention: stream-based memories update quickly but lack write isolation, causing memory loss and semantic drift, whereas static graph memories preserve structure but adapt poorly to fluid open-domain dialogue.}
+        \resumeItem{\textbf{Contribution:} Propose \textbf{GAM}, a hierarchical graph memory framework that decouples memory encoding from consolidation: an Event Progression Graph isolates ongoing dialogue events, and semantic-boundary triggers consolidate completed episodes into a Topic Associative Network for stable long-term knowledge.}
+        \resumeItem{\textbf{Results:} \textbf{GAM} outperforms six memory baselines on both LoCoMo and LongDialQA.}
       \resumeItemListEnd
     % \resumeSubheading
     %   {Generalized Out-of-Distribution Fault Diagnosis via Internal Contrastive Learning}{}
@@ -378,18 +402,23 @@
 \section{Open-Source Projects}
   \resumeSubHeadingListStart
     \resumeProjectHeading
-      {\textbf{Dr. Claw} \href{https://openreview.net/forum?id=M30F2071sz}{\textcolor{blue}{[Paper]}} \href{https://github.com/OpenLAIR/dr-claw}{\textcolor{blue}{[Code]}}}{\textcolor{blue}{EMNLP 2026 $\cdot$ Second Author $\cdot$ Core Contributor}}
+      {\href{https://openreview.net/forum?id=M30F2071sz}{\textcolor{blue}{\textbf{Dr. Claw}}} \href{https://github.com/OpenLAIR/dr-claw}{\textcolor{blue}{[Code]}} \metric{1.1k+ GitHub stars $\cdot$ 100+ forks}}{\textcolor{blue}{EMNLP 2026 $\cdot$ Second Author $\cdot$ Core Contributor}}
       \resumeItemListStart
         \resumeItem{Build an \textbf{Auto Research} workspace that orchestrates agentic pipelines from research ideation and literature/code survey to experiment execution, analysis, paper writing, and presentation generation.}
-        \resumeItem{Integrate multi-source research news tracking, 100+ research skills, project/session management, and multi-agent backends into a full-stack research IDE with 1,000+ GitHub stars and 100+ forks.}
+        \resumeItem{Integrate multi-source research news tracking, 100+ research skills, project/session management, and multi-agent backends into a full-stack research IDE.}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
 
+\section{Invited Talks}
+  \resumeSubHeadingListStart
+    \honor {\textit{Towards Self-Evolving AI Agent Skills}}{\textbf{\small\textcolor{muted}{Alibaba Group $\cdot$ Jun. 2026}}}
+    \honorLast {\textit{How to Evaluate AI Agent Security?}}{\textbf{\small\textcolor{muted}{National University of Singapore $\cdot$ Apr. 2025}}}
+  \resumeSubHeadingListEnd
+
 \section{Academic Service}
   \resumeSubHeadingListStart
-    \serviceEntry {Conference Reviewer}{AAAI, ICLR, ICML, NeurIPS, CVPR, ECCV, KDD, MICCAI}
-    \serviceEntryLast {Journal Reviewer}{TPAMI, TNNLS, TMLR, Pattern Recognition}
+    \serviceEntryLast {Reviewer}{ICLR, ICML, NeurIPS, CVPR, ECCV, KDD, AAAI, MICCAI; TPAMI, TNNLS, TMLR, etc.}
   \resumeSubHeadingListEnd
 
 
