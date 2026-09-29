@@ -12,8 +12,8 @@ redirect_from:
 
 <div class="bio-card">
   <p class="bio-text">
-    <span class="lang-en">Hi there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I'm a Google Student Researcher and was a research intern at Alibaba Group. I received my CS Master degree from Zhejiang University, and was awarded the National Scholarship twice. I have published several papers at top-tier venues, including ICLR, ICML, CVPR, ACL, COLM, etc.</span>
-    <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)。我目前担任 Google 学生研究员，此前曾在阿里巴巴集团担任研究实习生。我于浙江大学获得计算机硕士学位，两次获得国家奖学金。我在 ICLR、ICML、CVPR、ACL、COLM 等顶级会议发表了多篇论文。</span>
+    <span class="lang-en">Hi there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I'm a Google Student Researcher and was a research intern at Alibaba Group. I received my CS Master degree from Zhejiang University, and was awarded the National Scholarship twice. I have published several papers at top-tier venues, including ICLR, ICML, NeurIPS, CVPR, ACL, EMNLP, COLM, etc.</span>
+    <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)。我目前担任 Google 学生研究员，此前曾在阿里巴巴集团担任研究实习生。我于浙江大学获得计算机硕士学位，两次获得国家奖学金。我在 ICLR、ICML、NeurIPS、CVPR、ACL、EMNLP、COLM 等顶级会议发表了多篇论文。</span>
   </p>
   <div class="bio-interests">
     <span class="bio-interests-label"><span class="lang-en">Recent Research Interests</span><span class="lang-zh">近期研究方向</span></span>
@@ -39,7 +39,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.09</span>
-    <span class="news-content"><span class="lang-en">🎉 I've been awarded the Tencent Project Up Scholarship.</span><span class="lang-zh">🎉 获得腾讯青云奖学金。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 I've been awarded the <strong>Tencent Project Up Scholarship</strong>.</span><span class="lang-zh">🎉 获得<strong>腾讯青云奖学金</strong>。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.08</span>
@@ -118,10 +118,10 @@ redirect_from:
 <div class="internship-list">
   <div class="internship-item">
     <div class="internship-logo">
-      <img src="/images/google-logo.png" alt="Google LLC">
+      <img src="/images/google-logo.png" alt="Google">
     </div>
     <div class="internship-info">
-      <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google LLC</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google LLC</span></span></div>
+      <div class="internship-role"><span class="lang-en">Student Researcher · <span class="internship-company">Google</span></span><span class="lang-zh">学生研究员 · <span class="internship-company">Google</span></span></div>
       <div class="internship-date">2026.05 – Present</div>
       <div class="internship-desc"><span class="lang-en">Data Synthesis for Gemini and Long-Horizon GUI Agents</span><span class="lang-zh">Gemini 与长程 GUI 智能体数据合成研究</span></div>
       <div class="internship-location"><span class="lang-en">Mountain View, California, US</span><span class="lang-zh">美国加州山景城</span></div>
@@ -274,7 +274,7 @@ redirect_from:
     <div class="education-info">
       <div class="education-school"><span class="lang-en">University of Illinois Chicago</span><span class="lang-zh">伊利诺伊大学芝加哥分校</span></div>
       <div class="education-date"><span class="lang-en">Aug. 2025 – Present</span><span class="lang-zh">2025年8月 – 至今</span></div>
-      <div class="education-degree"><span class="lang-en">Ph.D. in Computer Science</span><span class="lang-zh">计算机科学博士</span></div>
+      <div class="education-degree"><span class="lang-en">PhD in Computer Science</span><span class="lang-zh">计算机科学博士</span></div>
       <div class="education-location"><span class="lang-en">USA</span><span class="lang-zh">美国</span></div>
       <div class="education-detail"><span class="lang-en">Advisor: Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS)</span><span class="lang-zh">导师：<a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)</span></div>
     </div>
@@ -283,7 +283,7 @@ redirect_from:
     <div class="education-info">
       <div class="education-school"><span class="lang-en">Zhejiang University</span><span class="lang-zh">浙江大学</span></div>
       <div class="education-date"><span class="lang-en">Sep. 2022 – Mar. 2025</span><span class="lang-zh">2022年9月 – 2025年3月</span></div>
-      <div class="education-degree"><span class="lang-en">M.Eng. in Computer Engineering</span><span class="lang-zh">计算机工程硕士</span></div>
+      <div class="education-degree"><span class="lang-en">MEng in Computer Engineering</span><span class="lang-zh">计算机工程硕士</span></div>
       <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
       <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/82</span> · Advisor: Prof. <a href="https://person.zju.edu.cn/en/hwang">Hongwei Wang</a></span><span class="lang-zh"><span class="education-highlight">排名：1/82</span> · 导师：<a href="https://person.zju.edu.cn/en/hwang">王宏伟</a>教授</span></div>
     </div>
@@ -292,7 +292,7 @@ redirect_from:
     <div class="education-info">
       <div class="education-school"><span class="lang-en">University of Leeds <span class="education-qs">QS 75</span> <span class="education-badge honors">First Class Honours</span></span><span class="lang-zh">利兹大学 <span class="education-qs">QS 75</span> <span class="education-badge honors">一等荣誉学位</span></span></div>
       <div class="education-date"><span class="lang-en">Sep. 2018 – Jun. 2022</span><span class="lang-zh">2018年9月 – 2022年6月</span></div>
-      <div class="education-degree"><span class="lang-en">B.S. in Computer Science</span><span class="lang-zh">计算机科学理学学士</span></div>
+      <div class="education-degree"><span class="lang-en">BSc in Computer Science</span><span class="lang-zh">计算机科学理学学士</span></div>
       <div class="education-location"><span class="lang-en">United Kingdom</span><span class="lang-zh">英国</span></div>
     </div>
   </div>
@@ -300,7 +300,7 @@ redirect_from:
     <div class="education-info">
       <div class="education-school"><span class="lang-en">Southwest Jiaotong University</span><span class="lang-zh">西南交通大学</span></div>
       <div class="education-date"><span class="lang-en">Sep. 2018 – Jun. 2022</span><span class="lang-zh">2018年9月 – 2022年6月</span></div>
-      <div class="education-degree"><span class="lang-en">B.Eng. in Computer Science and Technology</span><span class="lang-zh">计算机科学与技术工学学士</span></div>
+      <div class="education-degree"><span class="lang-en">BEng in Computer Science and Technology</span><span class="lang-zh">计算机科学与技术工学学士</span></div>
       <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
       <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/75</span> · Advisor: Prof. <a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">Tianrui Li</a></span><span class="lang-zh"><span class="education-highlight">排名：1/75</span> · 导师：<a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">李天瑞</a>教授</span></div>
     </div>
@@ -316,7 +316,7 @@ redirect_from:
     </div>
     <div class="awards-card-body">
       <div class="award-row">
-        <span class="award-name"><span class="lang-en">Tencent Project Up Scholarship</span><span class="lang-zh">腾讯青云奖学金</span></span>
+        <span class="award-name"><strong><span class="lang-en">Tencent Project Up Scholarship</span><span class="lang-zh">腾讯青云奖学金</span></strong></span>
         <span class="award-note">COLM 2026</span>
         <span class="award-meta"><span class="lang-en">Tencent, 2026</span><span class="lang-zh">腾讯，2026</span></span>
       </div>
@@ -332,7 +332,7 @@ redirect_from:
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">First-class Full-ride Scholarship</span><span class="lang-zh">一等全额奖学金</span></span>
-        <span class="award-note">1/75, ¥62000</span>
+        <span class="award-note">1/75</span>
         <span class="award-meta"><span class="lang-en"><span class="wide-only">University of Leeds, 2020 – 2021</span><span class="narrow-only">UoL, 2020 – 2021</span></span><span class="lang-zh">利兹大学，2020 – 2021</span></span>
       </div>
       <div class="award-row">
@@ -353,7 +353,7 @@ redirect_from:
         <span class="award-meta"><span class="lang-en"><span class="wide-only">Zhejiang University, 2025</span><span class="narrow-only">ZJU, 2025</span></span><span class="lang-zh">浙江大学，2025</span></span>
       </div>
       <div class="award-row">
-        <span class="award-name"><span class="lang-en">Provincial Outstanding Graduate</span><span class="lang-zh">四川省优秀毕业生</span></span>
+        <span class="award-name"><span class="lang-en">Outstanding Graduate in Sichuan Province</span><span class="lang-zh">四川省优秀毕业生</span></span>
         <span class="award-meta"><span class="lang-en"><span class="wide-only">Southwest Jiaotong University, 2022</span><span class="narrow-only">SWJTU, 2022</span></span><span class="lang-zh">西南交通大学，2022</span></span>
       </div>
       <div class="award-row">
@@ -363,7 +363,7 @@ redirect_from:
       </div>
       <div class="award-row">
         <span class="award-name"><span class="lang-en">Best Student Overall</span><span class="lang-zh">全系最佳学生</span></span>
-        <span class="award-note"><span class="lang-en">1/300, 4 majors</span><span class="lang-zh">1/300，4个专业</span></span>
+        <span class="award-note">1/300</span>
         <span class="award-meta"><span class="lang-en"><span class="wide-only">University of Leeds, 2018 – 2019</span><span class="narrow-only">UoL, 2018 – 2019</span></span><span class="lang-zh">利兹大学，2018 – 2019</span></span>
       </div>
     </div>
