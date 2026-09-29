@@ -276,7 +276,7 @@ redirect_from:
       <div class="education-date"><span class="lang-en">Aug. 2025 – Present</span><span class="lang-zh">2025年8月 – 至今</span></div>
       <div class="education-degree"><span class="lang-en">Ph.D. in Computer Science</span><span class="lang-zh">计算机科学博士</span></div>
       <div class="education-location"><span class="lang-en">USA</span><span class="lang-zh">美国</span></div>
-      <div class="education-detail"><span class="lang-en">Supervisor: Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS)</span><span class="lang-zh">导师：<a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)</span></div>
+      <div class="education-detail"><span class="lang-en">Advisor: Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS)</span><span class="lang-zh">导师：<a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)</span></div>
     </div>
   </div>
   <div class="education-item master">
@@ -285,7 +285,7 @@ redirect_from:
       <div class="education-date"><span class="lang-en">Sep. 2022 – Mar. 2025</span><span class="lang-zh">2022年9月 – 2025年3月</span></div>
       <div class="education-degree"><span class="lang-en">M.Eng. in Computer Engineering</span><span class="lang-zh">计算机工程硕士</span></div>
       <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
-      <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/82</span> · Supervisor: Prof. <a href="https://person.zju.edu.cn/en/hwang">Hongwei Wang</a></span><span class="lang-zh"><span class="education-highlight">排名：1/82</span> · 导师：<a href="https://person.zju.edu.cn/en/hwang">王宏伟</a>教授</span></div>
+      <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/82</span> · Advisor: Prof. <a href="https://person.zju.edu.cn/en/hwang">Hongwei Wang</a></span><span class="lang-zh"><span class="education-highlight">排名：1/82</span> · 导师：<a href="https://person.zju.edu.cn/en/hwang">王宏伟</a>教授</span></div>
     </div>
   </div>
   <div class="education-item bachelor">
@@ -302,7 +302,7 @@ redirect_from:
       <div class="education-date"><span class="lang-en">Sep. 2018 – Jun. 2022</span><span class="lang-zh">2018年9月 – 2022年6月</span></div>
       <div class="education-degree"><span class="lang-en">B.Eng. in Computer Science and Technology</span><span class="lang-zh">计算机科学与技术工学学士</span></div>
       <div class="education-location"><span class="lang-en">China</span><span class="lang-zh">中国</span></div>
-      <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/75</span> · Supervisor: Prof. <a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">Tianrui Li</a></span><span class="lang-zh"><span class="education-highlight">排名：1/75</span> · 导师：<a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">李天瑞</a>教授</span></div>
+      <div class="education-detail"><span class="lang-en"><span class="education-highlight">Ranking: 1/75</span> · Advisor: Prof. <a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">Tianrui Li</a></span><span class="lang-zh"><span class="education-highlight">排名：1/75</span> · 导师：<a href="https://scholar.google.com/citations?user=CQ1HneMAAAAJ">李天瑞</a>教授</span></div>
     </div>
   </div>
 </div>
