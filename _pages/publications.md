@@ -98,6 +98,12 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2609.33295">TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces</a><br>
+    Dehai Min, Daoan Zhang, Yiming Zeng, Huayi Zhang, Ziyi Chen, Yan Zhang, Qinbo Bai, Mengyuan Chao, Jing Ning, Qiyue Hua, Huiyi Chen, <span class="pub-me">Hanrong Zhang</span>, Henry Peng Zou, Jie Yang, Wei Xu, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link pub-link--icon" href="https://zhishanq.github.io/TraceDance/" title="Project website" aria-label="Project website"><i class="fas fa-globe" aria-hidden="true"></i></a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <strong>JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces</strong><br>
     Weizhi Zhang, Wei-Chieh Huang, Yueqing Liang, Liwei Jiang, Zhengxiang Wang, Liangwei Yang, Zechen Li, Yuchen Wu, Haozhen Zhang, Yu Wang, Yuanchen Bei, Yue Zhou, Siqi Zhu, Henry Peng Zou, Jiahong Liu, Xinni Zhang, Paul Martin, Joseph Marvin Imperial, Yuyang Luo, Xiongxiao Xu, Baixiang Huang, Shanglin Wu, Lucas Resck, Yibo Wang, Yuqing Liu, Langzhou He, Chengze Li, Yuxin Tian, Kening Zheng, Enze Ma, Boi Huynh, Zheng Hui, Rui Yang, Tao Feng, Jie Yang, Shanghao Li, Haoran Wang, Wooseong Yang, <span class="pub-me">Hanrong Zhang</span>, Huanhuan Ma, Daye Yoon, Yaozu Wu, Shikan Lian, Xiaoqian Ruan, Fangxin Wang, Hyeonjeong Park, Hins Hu, Wenzhe Fan, Chen Wang, Yifan Gu, Dongyuan Li, Song Wang, Aylin Caliskan, Jindong Wang, Xiao Luo, Yankai Chen, Kai Shu, Xue Liu, Philip S. Yu<br>
     <div class="pub-link-row"><span class="pub-venue">NeurIPS 2026</span></div>

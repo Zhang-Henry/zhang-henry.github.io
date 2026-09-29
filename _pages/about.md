@@ -413,7 +413,7 @@ redirect_from:
       <img src="/images/alibaba-logo.png" alt="Alibaba Group">
     </div>
     <div class="talk-info">
-      <div class="talk-title"><a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ"><span class="lang-en">Towards Self-Evolving Agent Skills</span><span class="lang-zh">Towards Self-Evolving Agent Skills</span></a></div>
+      <div class="talk-title"><a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ"><span class="lang-en">Towards Self-Evolving AI Agent Skills</span><span class="lang-zh">Towards Self-Evolving AI Agent Skills</span></a></div>
       <div class="talk-side">
         <div class="talk-meta"><span class="talk-venue"><span class="lang-en">Alibaba Group</span><span class="lang-zh">阿里巴巴集团</span></span><span class="talk-sep"> · </span><span class="talk-date">2026.06</span></div>
       </div>
@@ -424,10 +424,9 @@ redirect_from:
       <img src="/images/nus-logo.png" alt="NUS School of Computing">
     </div>
     <div class="talk-info">
-      <div class="talk-title"><a href="https://www.xtra.science/blog/2025/04/28/invited-speakers"><span class="lang-en">Agent Security Benchmark (ASB)</span><span class="lang-zh">Agent Security Benchmark (ASB)</span></a></div>
+      <div class="talk-title"><a href="https://www.xtra.science/blog/2025/04/28/invited-speakers"><span class="lang-en">How to Evaluate AI Agent Security?</span><span class="lang-zh">How to Evaluate AI Agent Security?</span></a></div>
       <div class="talk-side">
-        <div class="talk-meta"><span class="talk-venue"><span class="lang-en"><span class="wide-only">Xtra Computing Group, School of Computing, NUS</span><span class="narrow-only">NUS</span></span><span class="lang-zh"><span class="wide-only">新加坡国立大学计算学院 Xtra Computing Group</span><span class="narrow-only">新加坡国立大学</span></span></span><span class="talk-sep"> · </span><span class="talk-date">2025.04</span></div>
-        <div class="talk-host"><span class="lang-en">Host: Prof. <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a></span><span class="lang-zh">主持人：<a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> 教授</span></div>
+        <div class="talk-meta"><span class="talk-venue"><span class="lang-en"><span class="wide-only">National University of Singapore</span><span class="narrow-only">NUS</span></span><span class="lang-zh">新加坡国立大学</span></span><span class="talk-sep"> · </span><span class="talk-date">2025.04</span></div>
       </div>
     </div>
   </div>
