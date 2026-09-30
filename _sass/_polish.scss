@@ -225,7 +225,12 @@ body {
     justify-content: center;
     box-sizing: border-box;
     width: 34px;
-    height: 28px;
+    /* Same height as the theme and language toggles, and centred on the bar:
+       the theme positions this button absolutely with no `top`, so it hung
+       from the top of the nav and sat above the toggles beside it. */
+    height: 24px;
+    top: 50%;
+    transform: translateY(-50%);
     padding: 0;
     background: transparent;
     border: 1px solid var(--border-strong);

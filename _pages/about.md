@@ -55,7 +55,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
-    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk on <strong>Towards Self-Evolving Agent Skills</strong> at <a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">Alibaba Group</a>.</span><span class="lang-zh">🎉 受邀在<a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ">阿里巴巴集团</a>作题为“Towards Self-Evolving Agent Skills”的学术报告。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk on <strong>Towards Self-Evolving Agent Skills</strong> at <a href="https://mp.weixin.qq.com/s?__biz=MzY4NjQyOTcyMw==&amp;mid=2247598277&amp;idx=2&amp;sn=667d4a72c0bddc6d3a61f57cab1d636b">Alibaba Group</a>.</span><span class="lang-zh">🎉 受邀在<a href="https://mp.weixin.qq.com/s?__biz=MzY4NjQyOTcyMw==&amp;mid=2247598277&amp;idx=2&amp;sn=667d4a72c0bddc6d3a61f57cab1d636b">阿里巴巴集团</a>作题为“Towards Self-Evolving Agent Skills”的学术报告。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
@@ -413,7 +413,7 @@ redirect_from:
       <img src="/images/alibaba-logo.png" alt="Alibaba Group">
     </div>
     <div class="talk-info">
-      <div class="talk-title"><a href="https://mp.weixin.qq.com/s/buw3j9Tff5okpUYseLfcXQ"><span class="lang-en">Towards Self-Evolving AI Agent Skills</span><span class="lang-zh">Towards Self-Evolving AI Agent Skills</span></a></div>
+      <div class="talk-title"><a href="https://mp.weixin.qq.com/s?__biz=MzY4NjQyOTcyMw==&amp;mid=2247598277&amp;idx=2&amp;sn=667d4a72c0bddc6d3a61f57cab1d636b"><span class="lang-en">Towards Self-Evolving AI Agent Skills</span><span class="lang-zh">Towards Self-Evolving AI Agent Skills</span></a></div>
       <div class="talk-side">
         <div class="talk-meta"><span class="talk-venue"><span class="lang-en">Alibaba Group</span><span class="lang-zh">阿里巴巴集团</span></span><span class="talk-sep"> · </span><span class="talk-date">2026.06</span></div>
       </div>
