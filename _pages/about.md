@@ -12,7 +12,7 @@ redirect_from:
 
 <div class="bio-card">
   <p class="bio-text">
-    <span class="lang-en">Hi there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I'm a Google Student Researcher and was a research intern at Alibaba Group. I received my CS Master degree from Zhejiang University, and was awarded the National Scholarship twice. I have published several papers at top-tier venues, including ICLR, ICML, NeurIPS, CVPR, ACL, EMNLP, COLM, etc.</span>
+    <span class="lang-en">Hi there! I'm <strong>Hanrong Zhang</strong>, a CS PhD Student advised by Prof. <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I'm a Google Student Researcher and was a research intern at Alibaba Group. I received my CS Master degree from Zhejiang University, and was awarded the National Scholarship twice. I have published at top-tier venues including ICLR, ICML, NeurIPS, CVPR, ACL, EMNLP, COLM, etc.</span>
     <span class="lang-zh">您好！我是<strong>张涵容</strong>，伊利诺伊大学芝加哥分校计算机科学博士生，导师为 <a href="https://cs.uic.edu/profiles/philip-yu/">Philip S. Yu</a> 教授 (Fellow of ACM, IEEE and AAAS)。我目前担任 Google 学生研究员，此前曾在阿里巴巴集团担任研究实习生。我于浙江大学获得计算机硕士学位，两次获得国家奖学金。我在 ICLR、ICML、NeurIPS、CVPR、ACL、EMNLP、COLM 等顶级会议发表了多篇论文。</span>
   </p>
   <div class="bio-interests">
