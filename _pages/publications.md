@@ -68,7 +68,7 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: A Unified System for the Vibe Research Paradigm</a><br>
+    <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: An AI Scientist Workspace for Vibe Research</a><br>
     Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Dawei Liu, Yixin Liu, Zongxia Li, Zhengqing Yuan, Siqi Zhang, Henry Peng Zou, Zhiling Yan, Yuxuan Zhang, Yanfang Ye, Philip S. Yu, Lichao Sun<br>
     <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link pub-link--icon" href="https://github.com/OpenLAIR/dr-claw" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class="show_paper_citations" data="qG5_O40AAAAJ:EUQCXRtRnyEC"></span></div>
   </div></div>
@@ -101,6 +101,18 @@ author_profile: true
     <a href="https://arxiv.org/abs/2609.33295">TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces</a><br>
     Dehai Min, Daoan Zhang, Yiming Zeng, Huayi Zhang, Ziyi Chen, Yan Zhang, Qinbo Bai, Mengyuan Chao, Jing Ning, Qiyue Hua, Huiyi Chen, <span class="pub-me">Hanrong Zhang</span>, Henry Peng Zou, Jie Yang, Wei Xu, Philip S. Yu<br>
     <div class="pub-link-row"><span class="pub-venue">Preprint</span><a class="pub-link pub-link--icon" href="https://zhishanq.github.io/TraceDance/" title="Project website" aria-label="Project website"><i class="fas fa-globe" aria-hidden="true"></i></a></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2610.20926">SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills</a><br>
+    Enze Ma, Chunyu Miao, Yankai Chen, Jie Yang, Liancheng Fang, Kening Zheng, <span class="pub-me">Hanrong Zhang</span>, Muyao Xu, Xinle Yu, Chengze Li, Wei-Chieh Huang, Ziwei Ren, Yunhao Du, Zhixiang Shen, Xue Liu, Philip S. Yu, Zhen Wang<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2610.19366">Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory</a><br>
+    Minghao Guo, Qingyue Jiao, Xiujin Liu, Jianhong Pang, Ruimeng Yang, Naihao Xu, Liwei Che, Haochen Xue, Ziqi Wang, Xinying Cai, Jiaxuan Luo, Jiaxin Deng, Xuesong Ye, Jintao Qu, Wenyao Gao, Jingwen Gu, Chenyang Zhao, Shichun Liu, Guibin Zhang, Zefang Liu, Siyin Wang, Wujiang Xu, Danrui Li, Zeru Shi, Woongyeong Yeo, Shuang Liu, Wei-Chieh Huang, Weizhi Zhang, Tianyu Yang, Kangsan Kim, Yebowen Hu, Bowen Wen, Bowen Jiang, Haohao Su, Ming Yin, Sheldon Yu, Mian Zhang, Yuyan Chen, <span class="pub-me">Hanrong Zhang</span>, Kai Mei, Zihao Zhang, Mingyu Jin, Xi Zhu, Hengyi Wang, Tianxin Wei, Linyong Nan, Zhenwen Liang, Zhendong Chu, Ziqi Huang, Yongye Su, Sixun Dong, Shujian Liu, Kaiqu Liang, Jiaojiao Han, Zhaoye Fei, Kun Wang, Shihan Dou, Zhichun Guo, Xingjian Diao, Zeqi Gu, Heng Wang, Tao Feng, Cheng Qian, Hamid Palangi, Silei Xu, Xi Yun, Yi Zhu, Shilong Liu, Qingsong Wen, Sung Ju Hwang, Zuxuan Wu, Yu-Gang Jiang, Yiyu Shi, Dimitris N. Metaxas, Jiaxuan You, Julian McAuley, Mengdi Wang, Jiawei Han, Philip S. Yu, Ziyi Ye<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span></div>
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
@@ -137,6 +149,12 @@ author_profile: true
     <a href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a><br>
     Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, Yuanchen Bei, Yankai Chen, Tao Feng, Xinyu Pan, Zhen Tan, Yu Wang, Tianxin Wei, Shanglin Wu, Ruiyao Xu, Liangwei Yang, Rui Yang, Wooseong Yang, Chin-Yuan Yeh, <span class="pub-me">Hanrong Zhang (core contributor)</span>, Haozhen Zhang, Siqi Zhu, Henry Peng Zou, Wanjia Zhao, Song Wang, Wujiang Xu, Zixuan Ke, Zheng Hui, Dawei Li, Yaozu Wu, Langzhou He, Chen Wang, Xiongxiao Xu, Baixiang Huang, Juntao Tan, Shelby Heinecke, Huan Wang, Caiming Xiong, Ahmed A. Metwally, Jun Yan, Chen-Yu Lee, Hanqing Zeng, Yinglong Xia, Xiaokai Wei, Ali Payani, Yu Wang, Haitong Ma, Wenya Wang, Chenguang Wang, Yu Zhang, Xin Wang, Yongfeng Zhang, Jiaxuan You, Hanghang Tong, Xiao Luo, Xue Liu, Yizhou Sun, Wei Wang, Julian McAuley, James Zou, Jiawei Han, Philip S. Yu, Kai Shu<br>
     <div class="pub-link-row"><span class="pub-venue">TMLR</span><span class="show_paper_citations" data="qG5_O40AAAAJ:f2IySw72cVMC"></span></div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
+    <a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series">The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers</a><br>
+    Yifan Hu, Jie Yang, Xilin Dai, Wanxu Cai, Kuiye Ding, Yuante Li, Qinghua Liu, Enze Ma, Zhiyuan Qu, Yixin Wang, Binyan Xu, Kexin Zhang, Peiyuan Liu, Zhijian Xu, Guibin Zhang, Yujin Tang, Yanwei Yue, Kening Zheng, Chengze Li, <span class="pub-me">Hanrong Zhang</span>, Haoyan Xu, Naiqi Li, Tao Dai, Dawei Cheng, John Paparrizos, Kaize Ding, Tian Zhou, Qiang Xu, Shu-tao Xia, Shirui Pan, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">TMLR</span><span class="show_paper_citations" data="qG5_O40AAAAJ:SeFeTyx0c_EC"></span></div>
   </div></div>
 </div>
 

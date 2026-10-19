@@ -189,7 +189,7 @@ redirect_from:
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
-    <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: A Unified System for the Vibe Research Paradigm</a><br>
+    <a href="https://openreview.net/forum?id=M30F2071sz">Dr. Claw: An AI Scientist Workspace for Vibe Research</a><br>
     Dingjie Song, <span class="pub-me">Hanrong Zhang</span>, Dawei Liu, Yixin Liu, Zongxia Li, Zhengqing Yuan, Siqi Zhang, Henry Peng Zou, Zhiling Yan, Yuxuan Zhang, Yanfang Ye, Philip S. Yu, Lichao Sun<br>
     <div class="pub-link-row"><span class="pub-venue">EMNLP 2026</span><a class="pub-link pub-link--icon" href="https://github.com/OpenLAIR/dr-claw" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class='show_paper_citations' data='qG5_O40AAAAJ:EUQCXRtRnyEC'></span>{% include pubmeta.html key="drclaw" %}</div>
   </div></div>
