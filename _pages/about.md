@@ -43,7 +43,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.09</span>
-    <span class="news-content"><span class="lang-en">🎉 I've been awarded the <strong>Tencent Project Up Scholarship</strong>.</span><span class="lang-zh">🎉 获得<strong>腾讯青云奖学金</strong>。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Awarded the <strong>Tencent Project Up Scholarship</strong>.</span><span class="lang-zh">🎉 获得<strong>腾讯青云奖学金</strong>。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.08</span>
@@ -76,7 +76,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.02</span>
-    <span class="news-content"><span class="lang-en">🎉 <strong>I will join Google as a Student Researcher in 2026 summer.</strong></span><span class="lang-zh">🎉 <strong>将于2026年夏季加入 Google 担任 Student Researcher。</strong></span></span>
+    <span class="news-content"><span class="lang-en">🎉 <strong>Will join Google as a Student Researcher in summer 2026.</strong></span><span class="lang-zh">🎉 <strong>将于2026年夏季加入 Google 担任 Student Researcher。</strong></span></span>
   </div>
   <!-- <div class="news-item">
     <span class="news-date">2026.01</span>
@@ -92,7 +92,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2025.03</span>
-    <span class="news-content"><span class="lang-en">🎉 I've been awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.</span><span class="lang-zh">🎉 获评浙江省优秀毕业生及浙江大学优秀毕业生。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.</span><span class="lang-zh">🎉 获评浙江省优秀毕业生及浙江大学优秀毕业生。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2025.02</span>
@@ -108,11 +108,11 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2024.11</span>
-    <span class="news-content"><span class="lang-en">🎉 I've been awarded the National Scholarship at Zhejiang University.</span><span class="lang-zh">🎉 获得浙江大学国家奖学金。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Awarded the National Scholarship at Zhejiang University.</span><span class="lang-zh">🎉 获得浙江大学国家奖学金。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2023.11</span>
-    <span class="news-content"><span class="lang-en">🎉 I've been awarded the National Scholarship at Zhejiang University.</span><span class="lang-zh">🎉 获得浙江大学国家奖学金。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Awarded the National Scholarship at Zhejiang University.</span><span class="lang-zh">🎉 获得浙江大学国家奖学金。</span></span>
   </div>
 </div>
 
