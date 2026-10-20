@@ -35,7 +35,7 @@ redirect_from:
 <div class="news-list">
   <div class="news-item">
     <span class="news-date">2026.10</span>
-    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk on <strong>Scaling GUI Agents with Synthetic Data and Environments: From Training to Evaluation</strong> at NVIDIA.</span><span class="lang-zh">🎉 受邀在 NVIDIA 作题为“Scaling GUI Agents with Synthetic Data and Environments: From Training to Evaluation”的学术报告。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk at <strong>NVIDIA</strong>.</span><span class="lang-zh">🎉 受邀在 <strong>NVIDIA</strong> 作学术报告。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.09</span>
