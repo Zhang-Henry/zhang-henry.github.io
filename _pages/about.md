@@ -55,16 +55,15 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a> is accepted by TMLR.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2602.06052">A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</a> 被 TMLR 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Our <a href="https://arxiv.org/abs/2602.06052">agent memory survey</a> is accepted by TMLR.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2602.06052">智能体记忆综述</a>被 TMLR 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
-    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk on <strong>Towards Self-Evolving Agent Skills</strong> at <a href="https://mp.weixin.qq.com/s?__biz=MzY4NjQyOTcyMw==&amp;mid=2247598277&amp;idx=2&amp;sn=667d4a72c0bddc6d3a61f57cab1d636b">Alibaba Group</a>.</span><span class="lang-zh">🎉 受邀在<a href="https://mp.weixin.qq.com/s?__biz=MzY4NjQyOTcyMw==&amp;mid=2247598277&amp;idx=2&amp;sn=667d4a72c0bddc6d3a61f57cab1d636b">阿里巴巴集团</a>作题为“Towards Self-Evolving Agent Skills”的学术报告。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk at <strong><a href="https://mp.weixin.qq.com/s?__biz=MzY4NjQyOTcyMw==&amp;mid=2247598277&amp;idx=2&amp;sn=667d4a72c0bddc6d3a61f57cab1d636b">Alibaba Group</a></strong>.</span><span class="lang-zh">🎉 受邀在<strong><a href="https://mp.weixin.qq.com/s?__biz=MzY4NjQyOTcyMw==&amp;mid=2247598277&amp;idx=2&amp;sn=667d4a72c0bddc6d3a61f57cab1d636b">阿里巴巴集团</a></strong>作学术报告。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity: Uncertainty-Guided Class-Incremental Learning for Limited Biomedical Samples via Semantic Expansion
-</a> is accepted by IEEE Journal of Biomedical and Health Informatics.</span><span class="lang-zh">🎉 共同一作论文 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> 被 IEEE Journal of Biomedical and Health Informatics 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> is accepted by IEEE JBHI.</span><span class="lang-zh">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> 被 IEEE JBHI 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.04</span>
@@ -88,7 +87,7 @@ redirect_from:
   </div> -->
   <div class="news-item">
     <span class="news-date">2025.04</span>
-    <span class="news-content"><span class="lang-en">🎉 Give a talk at <a href="https://www.xtra.science/blog/2025/04/28/invited-speakers">Xtra Computing Group</a> of Prof. <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> at School of Computing, NUS.</span><span class="lang-zh">🎉 受邀在新加坡国立大学计算学院 <a href="https://www.comp.nus.edu.sg/~hebs/">Bingsheng He</a> 教授的 <a href="https://www.xtra.science/blog/2025/04/28/invited-speakers">Xtra Computing Group</a> 做学术报告。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk at <strong><a href="https://www.xtra.science/blog/2025/04/28/invited-speakers">NUS</a></strong>.</span><span class="lang-zh">🎉 受邀在<strong><a href="https://www.xtra.science/blog/2025/04/28/invited-speakers">新加坡国立大学</a></strong>作学术报告。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2025.03</span>
@@ -96,15 +95,15 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2025.02</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a> (First author) is accepted by CVPR 2025.</span><span class="lang-zh">🎉 一作论文 <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a> 被 CVPR 2025 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a> is accepted by CVPR 2025.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a> 被 CVPR 2025 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2025.01</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB)</a> (First author) is accepted by ICLR 2025.</span><span class="lang-zh">🎉 一作论文 <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB)</a> 被 ICLR 2025 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB)</a> is accepted by ICLR 2025.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB)</a> 被 ICLR 2025 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2025.01</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/pdf/2501.09525">Class Incremental Fault Diagnosis</a> (First author) is accepted by IEEE Transactions on Industrial Informatics.</span><span class="lang-zh">🎉 一作论文 <a href="https://arxiv.org/pdf/2501.09525">Class Incremental Fault Diagnosis</a> 被 IEEE Transactions on Industrial Informatics 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/pdf/2501.09525">Class Incremental Fault Diagnosis</a> is accepted by IEEE Transactions on Industrial Informatics.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/pdf/2501.09525">Class Incremental Fault Diagnosis</a> 被 IEEE Transactions on Industrial Informatics 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2024.11</span>
@@ -271,7 +270,7 @@ redirect_from:
 
 
 
-<h1 id="-educations"><span class="lang-en">📖 Educations</span><span class="lang-zh">📖 教育经历</span></h1>
+<h1 id="-educations"><span class="lang-en">📖 Education</span><span class="lang-zh">📖 教育经历</span></h1>
 
 <div class="education-list">
   <div class="education-item phd">
