@@ -705,6 +705,21 @@ body {
    (Alibaba, 2072x266) with an upright crest (NUS, 167x213); left to their own
    devices one rendered 72x9 and the other 27x34, which read as wildly
    different weights and left the two cards 16px apart in height. */
+/* Logos with a black wordmark ship a white-text twin for dark mode. */
+.talk-logo .logo-dark {
+  display: none;
+}
+
+html.dark .talk-logo {
+  .logo-light {
+    display: none;
+  }
+
+  .logo-dark {
+    display: block;
+  }
+}
+
 .talk-logo {
   flex-shrink: 0;
   display: flex;

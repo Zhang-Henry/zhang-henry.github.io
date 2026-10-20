@@ -34,6 +34,10 @@ redirect_from:
 
 <div class="news-list">
   <div class="news-item">
+    <span class="news-date">2026.10</span>
+    <span class="news-content"><span class="lang-en">🎉 Invited to give a talk on <strong>Scaling GUI Agents with Synthetic Data and Environments: From Training to Evaluation</strong> at NVIDIA.</span><span class="lang-zh">🎉 受邀在 NVIDIA 作题为“Scaling GUI Agents with Synthetic Data and Environments: From Training to Evaluation”的学术报告。</span></span>
+  </div>
+  <div class="news-item">
     <span class="news-date">2026.09</span>
     <span class="news-content"><span class="lang-en">🎉 Two papers are accepted by NeurIPS 2026.</span><span class="lang-zh">🎉 两篇论文被 NeurIPS 2026 录用。</span></span>
   </div>
@@ -408,6 +412,18 @@ redirect_from:
 <h1 id="-talks"><span class="lang-en">🎤 Invited Talks</span><span class="lang-zh">🎤 学术报告</span></h1>
 
 <div class="talk-list">
+  <div class="talk-item">
+    <div class="talk-logo">
+      <img class="logo-light" src="/images/nvidia-logo.png" alt="NVIDIA">
+      <img class="logo-dark" src="/images/nvidia-logo-dark.png" alt="NVIDIA">
+    </div>
+    <div class="talk-info">
+      <div class="talk-title"><span class="lang-en">Scaling GUI Agents with Synthetic Data and Environments: From Training to Evaluation</span><span class="lang-zh">Scaling GUI Agents with Synthetic Data and Environments: From Training to Evaluation</span></div>
+      <div class="talk-side">
+        <div class="talk-meta"><span class="talk-venue">NVIDIA</span><span class="talk-sep"> · </span><span class="talk-date">2026.10</span></div>
+      </div>
+    </div>
+  </div>
   <div class="talk-item">
     <div class="talk-logo">
       <img src="/images/alibaba-logo.png" alt="Alibaba Group">
