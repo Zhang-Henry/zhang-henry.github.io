@@ -1005,6 +1005,71 @@ html.zh {
   }
 }
 
+/* BibTeX: a scrollable code box with the copy button pinned to its corner.
+   Flex items default to min-width:auto, so without min-width:0 a long author
+   line would stretch the panel past the column and push the button away. */
+.pub-panel--bibtex {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.pub-bibtex {
+  position: relative;
+  max-width: 100%;
+
+  pre {
+    margin: 0 !important;
+    padding: 0.75em 5.2em 0.75em 0.95em !important;
+    border: 1px solid var(--border) !important;
+    border-left: 3px solid var(--accent-bright) !important;
+    border-radius: var(--radius-sm);
+    background: var(--surface-2) !important;
+    overflow-x: auto;
+    white-space: pre;
+  }
+
+  code {
+    padding: 0 !important;
+    border: 0 !important;
+    background: none !important;
+    color: var(--text) !important;
+    font-family: $monospace;
+    font-size: 0.78em;
+    line-height: 1.6;
+    white-space: pre;
+  }
+}
+
+.pub-bibtex-copy {
+  position: absolute;
+  top: 0.5em;
+  right: 0.55em;
+  z-index: 1;
+  padding: 0.2em 0.7em;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text-muted);
+  font-family: inherit;
+  font-size: 0.75em;
+  line-height: 1.6;
+  cursor: pointer;
+  transition: border-color 0.16s ease, background-color 0.16s ease, color 0.16s ease;
+
+  &:hover,
+  &:focus-visible {
+    border-color: var(--accent);
+    background: var(--accent-soft);
+    color: var(--accent);
+  }
+
+  &.is-copied {
+    border-color: var(--ok);
+    background: var(--ok-soft);
+    color: var(--ok);
+  }
+}
+
 /*
    Open source cards
    ========================================================================== */

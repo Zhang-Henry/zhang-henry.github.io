@@ -188,7 +188,7 @@ function toggleTheme() {
 
 <script>
 /* --------------------------------------------------------------------------
-   Publication abstract panels
+   Publication abstract and BibTeX panels
    -------------------------------------------------------------------------- */
 (function () {
   var buttons = [].slice.call(document.querySelectorAll('.pub-meta-btn'));
@@ -216,6 +216,69 @@ function toggleTheme() {
     });
   });
 
+})();
+
+/* --------------------------------------------------------------------------
+   BibTeX copy buttons
+   -------------------------------------------------------------------------- */
+(function () {
+  var buttons = [].slice.call(document.querySelectorAll('.pub-bibtex-copy'));
+  if (!buttons.length) { return; }
+
+  function legacyCopy(text) {
+    return new Promise(function (resolve, reject) {
+      var box = document.createElement('textarea');
+      box.value = text;
+      box.setAttribute('readonly', '');
+      box.style.position = 'fixed';
+      box.style.top = '-1000px';
+      document.body.appendChild(box);
+      box.select();
+      var ok = false;
+      try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+      document.body.removeChild(box);
+      ok ? resolve() : reject();
+    });
+  }
+
+  function copy(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      return navigator.clipboard.writeText(text).catch(function () {
+        return legacyCopy(text);
+      });
+    }
+    return legacyCopy(text);
+  }
+
+  // If the clipboard is unavailable, select the entry so Cmd/Ctrl+C works.
+  function selectCode(code) {
+    try {
+      var range = document.createRange();
+      range.selectNodeContents(code);
+      var sel = window.getSelection();
+      sel.removeAllRanges();
+      sel.addRange(range);
+    } catch (e) { /* the entry is on screen either way */ }
+  }
+
+  buttons.forEach(function (btn) {
+    var original = btn.innerHTML;
+    var timer;
+    btn.addEventListener('click', function () {
+      var code = document.getElementById(btn.getAttribute('data-copy'));
+      if (!code) { return; }
+      var zh = document.documentElement.classList.contains('zh');
+      copy(code.textContent).then(function () {
+        clearTimeout(timer);
+        btn.classList.add('is-copied');
+        btn.textContent = zh ? '已复制' : 'Copied!';
+        timer = setTimeout(function () {
+          btn.classList.remove('is-copied');
+          btn.innerHTML = original;
+        }, 1600);
+      }).catch(function () { selectCode(code); });
+    });
+  });
 })();
 </script>
 
