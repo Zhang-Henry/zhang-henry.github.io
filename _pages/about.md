@@ -63,7 +63,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2026.06</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> is accepted by IEEE JBHI.</span><span class="lang-zh">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">From Uncertainty to Clarity</a> 被 IEEE JBHI 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">One paper</a> is accepted by IEEE Journal of Biomedical and Health Informatics.</span><span class="lang-zh">🎉 <a href="https://ieeexplore.ieee.org/document/11554906">一篇论文</a>被 IEEE Journal of Biomedical and Health Informatics 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026.04</span>
@@ -533,6 +533,7 @@ redirect_from:
     </div>
     <div class="service-card-body">
       <span class="service-tag conf">AAAI 2027</span>
+      <span class="service-tag conf">WWW 2027</span>
       <span class="service-tag conf">ICLR 2026–2027</span>
       <span class="service-tag conf">ICML 2026</span>
       <span class="service-tag conf">NeurIPS 2026</span>
