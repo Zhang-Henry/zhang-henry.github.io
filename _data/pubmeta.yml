@@ -5,6 +5,20 @@
 # so both pages share one copy. The Abstract button only renders when
 # abstract_en is present, so papers without one simply show nothing.
 
+skillpp:
+  abstract_en: >-
+    Large language model (LLM) agents extend their capabilities with skills, each with a name, a description, and a body. Under progressive disclosure, an LLM router selects skills by name and description alone and loads only the selected bodies. Skill libraries grow continually as users and agents add new skills. Because the router relies on this metadata, a similar new skill can displace an earlier one, breaking previously correct routing even though the earlier skill and the router are unchanged. This routing interference is aggravated for public skills, whose descriptions may not match their bodies. We formulate the problem as lifelong skill routing, a class-incremental continual learning problem. A solution must keep earlier skills selectable without suppressing new ones. Existing approaches fall short, since continually retraining the router risks catastrophic forgetting and rewriting methods either ignore similar skills or require per-skill feedback. We therefore propose Skill++, which rewrites only the name and description of each incoming skill, without router training or labeled data. The new description states what the body supports, how the skill differs from its closest predecessor, and what related work it excludes. As a library grows to 731 skills over ten sessions, Skill++ selects all required skills for 76.3% of queries, versus 36.4% under the original metadata. Across three benchmarks and five LLM routers, it outperforms all compared approaches, and its gains carry over to the Codex CLI agent harness.
+  abstract_zh: >-
+    大语言模型（LLM）智能体借助技能扩展自身能力，每个技能包含名称、描述与正文。在渐进式披露机制下，LLM 路由器仅依据名称和描述选择技能，并只加载被选中技能的正文。随着用户与智能体不断添加新技能，技能库持续增长。由于路由器依赖这些元数据，一个相似的新技能可能挤占已有技能，使原本正确的路由失效——即便旧技能和路由器本身都没有改变。对于描述可能与正文不符的公开技能，这种路由干扰更为严重。我们将该问题形式化为终身技能路由，即一个类增量持续学习问题：解决方案必须在不压制新技能的前提下，保证早期技能仍可被选中。现有方法均有不足：持续重训路由器有灾难性遗忘的风险，而改写类方法要么忽略相似技能，要么需要逐技能的反馈。为此我们提出 Skill++，它只改写每个新加入技能的名称与描述，无需训练路由器，也无需标注数据。新的描述会说明正文支持什么、该技能与其最相近的已有技能有何区别，以及它不负责哪些相关工作。当技能库在十个阶段中增长到 731 个技能时，Skill++ 能为 76.3% 的查询选中全部所需技能，而使用原始元数据时仅为 36.4%。在三个基准和五种 LLM 路由器上，Skill++ 均优于所有对比方法，且其增益可迁移到 Codex CLI 智能体框架。
+  bibtex: |-
+    @article{zhang2026skillpp,
+      title   = {Skill++: Towards Lifelong Agents via Routing-Aware Skill Refinement},
+      author  = {Hanrong Zhang and Minghao Liang and Jiawei Wu and Yankai Chen and Shicheng Fan and Zhiwei Liu and Enze Ma and Junwei Yuan and Tianyi Wang and Dehai Min and Kening Zheng and Xue Liu and Philip S. Yu},
+      journal = {arXiv preprint arXiv:2611.00544},
+      year    = {2026},
+      url     = {https://arxiv.org/abs/2611.00544}
+    }
+
 coevoskills:
   abstract_en: >-
     Anthropic proposes the concept of skills for LLM agents to tackle multi-step professional tasks that simple tool invocations cannot address. A tool is a single, self-contained function, whereas a skill is a structured bundle of interdependent multi-file artifacts. Currently, skill generation is not only label-intensive due to manual authoring, but also may suffer from human--machine cognitive misalignment, which can lead to degraded agent performance, as evidenced by evaluations on SkillsBench. Therefore, we aim to enable agents to autonomously generate skills. However, existing self-evolving methods designed for tools cannot be directly applied to skills due to their increased complexity. To address these issues, we propose CoEvoSkills, a self-evolving skills framework that enables agents to autonomously construct complex, multi-file skill packages. Specifically, CoEvoSkills couples a Skill Generator that iteratively refines skills with a Surrogate Verifier that co-evolves to provide informative and actionable feedback without access to ground-truth test content. On SkillsBench, CoEvoSkills outperforms five baselines on both Claude Code and Codex, and generalizes strongly to six additional LLMs. The code is publicly available at the project repository.

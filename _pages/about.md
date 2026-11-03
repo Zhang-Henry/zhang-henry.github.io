@@ -170,6 +170,12 @@ redirect_from:
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2611.00544">Skill++: Towards Lifelong Agents via Routing-Aware Skill Refinement</a><br>
+    <span class="pub-me">Hanrong Zhang</span>, Minghao Liang, Jiawei Wu, Yankai Chen, Shicheng Fan, Zhiwei Liu, Enze Ma, Junwei Yuan, Tianyi Wang, Dehai Min, Kening Zheng, Xue Liu, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span>{% include pubmeta.html key="skillpp" %}</div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2410.02644">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents</a><br>
     <span class="pub-me">Hanrong Zhang</span>, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
     <div class="pub-link-row"><span class="pub-venue">ICLR 2025</span><a class="pub-link pub-link--icon" href="https://luckfort.github.io/ASBench/" title="Project website" aria-label="Project website"><i class="fas fa-globe" aria-hidden="true"></i></a><a class="pub-link pub-link--icon" href="https://github.com/agiresearch/ASB" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class='show_paper_citations' data='qG5_O40AAAAJ:hqOjcs7Dif8C'></span>{% include pubmeta.html key="asb" %}</div>

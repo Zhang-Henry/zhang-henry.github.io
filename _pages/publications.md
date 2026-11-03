@@ -44,6 +44,12 @@ author_profile: true
   </div></div>
 
   <div class="pub-item"><div class="pub-content">
+    <a href="https://arxiv.org/abs/2611.00544">Skill++: Towards Lifelong Agents via Routing-Aware Skill Refinement</a><br>
+    <span class="pub-me">Hanrong Zhang</span>, Minghao Liang, Jiawei Wu, Yankai Chen, Shicheng Fan, Zhiwei Liu, Enze Ma, Junwei Yuan, Tianyi Wang, Dehai Min, Kening Zheng, Xue Liu, Philip S. Yu<br>
+    <div class="pub-link-row"><span class="pub-venue">Preprint</span>{% include pubmeta.html key="skillpp" %}</div>
+  </div></div>
+
+  <div class="pub-item"><div class="pub-content">
     <a href="https://arxiv.org/abs/2604.12285">GAM: Hierarchical Graph-based Agentic Memory for LLM Agents</a><br>
     Zhaofen Wu*, <span class="pub-me">Hanrong Zhang</span>*†, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang†<br>
     <div class="pub-link-row"><span class="pub-venue">ACL 2026; ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems</span><span class="pub-tag oral">Oral</span><span class="show_paper_citations" data="qG5_O40AAAAJ:fPk4N6BV_jEC"></span>{% include pubmeta.html key="gam" %}</div>
