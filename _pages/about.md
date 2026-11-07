@@ -95,7 +95,7 @@ redirect_from:
   </div>
   <div class="news-item">
     <span class="news-date">2025.02</span>
-    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a> is accepted by CVPR 2025.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a> 被 CVPR 2025 录用。</span></span>
+    <span class="news-content"><span class="lang-en">🎉 <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack against Self-supervised Learning</a> is accepted by CVPR 2025.</span><span class="lang-zh">🎉 <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack against Self-supervised Learning</a> 被 CVPR 2025 录用。</span></span>
   </div>
   <div class="news-item">
     <span class="news-date">2025.01</span>
@@ -214,7 +214,7 @@ redirect_from:
 
 <div class="pub-list">
   <div class="pub-item"><div class="pub-content">
-    <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack in Self-supervised Learning</a><br>
+    <a href="https://arxiv.org/abs/2405.14672">Invisible Backdoor Attack against Self-supervised Learning</a><br>
     <span class="pub-me">Hanrong Zhang</span>*, Zhenting Wang*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang†, Shiqing Ma<br>
     <div class="pub-link-row"><span class="pub-venue">CVPR 2025</span><a class="pub-link pub-link--icon" href="https://github.com/Zhang-Henry/INACTIVE" title="Code" aria-label="Code"><i class="fab fa-github" aria-hidden="true"></i></a><span class='show_paper_citations' data='qG5_O40AAAAJ:GnPB-g6toBAC'></span>{% include pubmeta.html key="inactive" %}</div>
   </div></div>
@@ -509,7 +509,7 @@ redirect_from:
       <svg class="opensource-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
       <a href="https://github.com/Zhang-Henry/INACTIVE" class="opensource-repo-name">Zhang-Henry / <strong>INACTIVE</strong></a>
     </div>
-    <p class="opensource-desc"><span class="lang-en">Invisible Backdoor Attack in Self-supervised Learning</span><span class="lang-zh">面向自监督学习的不可见后门攻击</span></p>
+    <p class="opensource-desc"><span class="lang-en">Invisible Backdoor Attack against Self-supervised Learning</span><span class="lang-zh">面向自监督学习的不可见后门攻击</span></p>
     <div class="opensource-meta">
       <a href="https://github.com/Zhang-Henry/INACTIVE/stargazers"><img src="https://img.shields.io/github/stars/Zhang-Henry/INACTIVE?style=social" alt="GitHub stars"></a>
       <a href="https://github.com/Zhang-Henry/INACTIVE/network/members"><img src="https://img.shields.io/github/forks/Zhang-Henry/INACTIVE?style=social" alt="GitHub forks"></a>
