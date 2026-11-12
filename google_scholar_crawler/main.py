@@ -12,11 +12,40 @@ SCHOLAR_ID = os.environ["GOOGLE_SCHOLAR_ID"]
 ATTEMPTS = 5
 RETRY_WAIT = 60
 
+# Scholar sometimes lists one paper as several entries (preprint vs. published
+# version, retitled arXiv versions) and splits its citations across them. The
+# site shows each paper's combined count, so the duplicates' citations are
+# folded into the entry the site links to. Total citations and h-index are kept
+# exactly as Scholar reports them. Add new pairs here when Scholar splits again.
+MERGE_INTO = {
+    # LLM-Based Human-Agent survey (ACL 2026) <- TechRxiv version
+    "qG5_O40AAAAJ:maZDTaKrznsC": ["qG5_O40AAAAJ:OU6Ihb5iCvQC"],
+    # Agent Memory survey (TMLR) <- arXiv 2602.06052 "Rethinking memory mechanisms..."
+    "qG5_O40AAAAJ:f2IySw72cVMC": ["qG5_O40AAAAJ:u9iWguZQMMsC", "qG5_O40AAAAJ:p2g8aNsByqUC"],
+    # Class-incremental fault diagnosis (TII) <- SCLIFD arXiv preprint
+    "qG5_O40AAAAJ:4DMP91E08xMC": ["qG5_O40AAAAJ:D03iK_w7-QYC"],
+    # GAM (ACL 2026) <- ICLR 2026 workshop version
+    "qG5_O40AAAAJ:fPk4N6BV_jEC": ["qG5_O40AAAAJ:u_35RYKgDlwC"],
+}
+
+
+def merge_duplicates(publications):
+    for primary, dups in MERGE_INTO.items():
+        if primary not in publications:
+            continue
+        found = [d for d in dups if d in publications]
+        extra = sum(publications[d].get("num_citations") or 0 for d in found)
+        publications[primary]["num_citations"] = (publications[primary].get("num_citations") or 0) + extra
+        publications[primary]["merged_from"] = found
+
 
 def fetch_author():
-    pg = ProxyGenerator()
-    pg.FreeProxies()
-    scholarly.use_proxy(pg)
+    # SCHOLAR_NO_PROXY=1 fetches directly, for running this from a personal
+    # machine when Scholar blocks the free proxies used on GitHub's runners.
+    if os.environ.get("SCHOLAR_NO_PROXY") != "1":
+        pg = ProxyGenerator()
+        pg.FreeProxies()
+        scholarly.use_proxy(pg)
 
     author = scholarly.search_author_id(SCHOLAR_ID)
     # This is the only Scholar request we need. The publication list on the
@@ -50,6 +79,7 @@ publications = {p["author_pub_id"]: p for p in author["publications"]}
 if not publications or "citedby" not in author:
     sys.exit("Fetched data looks incomplete; refusing to overwrite the published stats.")
 
+merge_duplicates(publications)
 author["publications"] = publications
 author["updated"] = str(datetime.now())
 
