@@ -538,14 +538,14 @@ redirect_from:
       <i class="fas fa-users"></i> <span class="lang-en">Conference Program Committee / Reviewer</span><span class="lang-zh">会议程序委员会 / 审稿人</span>
     </div>
     <div class="service-card-body">
-      <span class="service-tag conf">AAAI 2027</span>
-      <span class="service-tag conf">WWW 2027</span>
-      <span class="service-tag conf">ICLR 2026–2027</span>
-      <span class="service-tag conf">ICML 2026</span>
       <span class="service-tag conf">NeurIPS 2026</span>
+      <span class="service-tag conf">ICML 2026</span>
+      <span class="service-tag conf">ICLR 2026–2027</span>
       <span class="service-tag conf">CVPR 2026</span>
       <span class="service-tag conf">ECCV 2026</span>
       <span class="service-tag conf">KDD 2026</span>
+      <span class="service-tag conf">WWW 2027</span>
+      <span class="service-tag conf">AAAI 2027</span>
       <span class="service-tag conf">MICCAI 2026</span>
     </div>
   </div>
@@ -556,10 +556,11 @@ redirect_from:
     <div class="service-card-body">
       <ul class="service-list">
       <li><span class="service-abbr">TPAMI</span><span class="service-journal-name">IEEE Transactions on Pattern Analysis and Machine Intelligence</span></li>
+      <li><span class="service-abbr">TDSC</span><span class="service-journal-name">IEEE Transactions on Dependable and Secure Computing</span></li>
       <li><span class="service-abbr">TNNLS</span><span class="service-journal-name">IEEE Transactions on Neural Networks and Learning Systems</span></li>
-      <li><span class="service-abbr">PR</span><span class="service-journal-name">Pattern Recognition</span></li>
       <li><span class="service-abbr">TMLR</span><span class="service-journal-name">Transactions on Machine Learning Research</span></li>
       <li><span class="service-abbr">TII</span><span class="service-journal-name">IEEE Transactions on Industrial Informatics</span></li>
+      <li><span class="service-abbr">PR</span><span class="service-journal-name">Pattern Recognition</span></li>
       <li><span class="service-abbr">TR</span><span class="service-journal-name">IEEE Transactions on Reliability</span></li>
       <li><span class="service-abbr">TCBB</span><span class="service-journal-name">IEEE Transactions on Computational Biology and Bioinformatics</span></li>
       <li><span class="service-abbr">TICPS</span><span class="service-journal-name">IEEE Transactions on Industrial Cyber-Physical Systems</span></li>
