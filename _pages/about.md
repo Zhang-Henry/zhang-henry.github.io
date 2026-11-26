@@ -539,7 +539,7 @@ redirect_from:
     </div>
     <div class="service-card-body">
       <span class="service-tag conf">NeurIPS 2026</span>
-      <span class="service-tag conf">ICML 2026</span>
+      <span class="service-tag conf">ICML 2026–2027</span>
       <span class="service-tag conf">ICLR 2026–2027</span>
       <span class="service-tag conf">CVPR 2026</span>
       <span class="service-tag conf">ECCV 2026</span>
